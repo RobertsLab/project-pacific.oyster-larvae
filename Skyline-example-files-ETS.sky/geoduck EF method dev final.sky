@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<srm_settings format_version="3.54" software_version="Skyline-daily (64-bit) 3.5.1.9942">
+  <settings_summary name="Default">
+    <peptide_settings>
+      <enzyme name="Trypsin" cut="KR" no_cut="P" sense="C" />
+      <digest_settings max_missed_cleavages="0" />
+      <background_proteome name="Rpom prtc" database_path="C:\Users\maccosslab\Documents\emma\DIA bact detection\Rpom prtc background.protdb" />
+      <peptide_prediction use_measured_rts="true" measured_rt_window="2" use_spectral_library_drift_times="false" />
+      <peptide_filter start="25" min_length="8" max_length="25" auto_select="true" unique_by="protein">
+        <peptide_exclusions />
+      </peptide_filter>
+      <peptide_libraries pick="library">
+        <bibliospec_lite_library name="geoduck EF" file_name_hint="geoduck_EF.blib" lsid="urn:lsid:proteome.gs.washington.edu:spectral_library:pecan:geoduck_EF" revision="1" />
+      </peptide_libraries>
+      <peptide_modifications max_variable_mods="3" max_neutral_losses="1">
+        <static_modifications>
+          <static_modification name="Carbamidomethyl (C)" aminoacid="C" formula="H3C2NO" unimod_id="4" short_name="CAM" />
+        </static_modifications>
+        <heavy_modifications />
+      </peptide_modifications>
+    </peptide_settings>
+    <transition_settings>
+      <transition_prediction precursor_mass_type="Monoisotopic" fragment_mass_type="Monoisotopic" optimize_by="None">
+        <predict_collision_energy name="Thermo TSQ Vantage" step_size="1" step_count="5">
+          <regression_ce charge="2" slope="0.03" intercept="2.905" />
+          <regression_ce charge="3" slope="0.038" intercept="2.281" />
+        </predict_collision_energy>
+      </transition_prediction>
+      <transition_filter precursor_charges="1,2,3,4,5" product_charges="1" fragment_types="y,p" fragment_range_first="ion 3" fragment_range_last="last ion - 2" precursor_mz_window="0" auto_select="true">
+        <measured_ion name="N-terminal to Proline" cut="P" sense="N" min_length="3" />
+      </transition_filter>
+      <transition_libraries ion_match_tolerance="0.5" ion_count="3" pick_from="none" />
+      <transition_integration />
+      <transition_instrument min_mz="50" max_mz="1500" mz_match_tolerance="0.055" />
+      <transition_full_scan acquisition_method="DIA" product_mass_analyzer="centroided" product_res="15" precursor_isotopes="Count" precursor_isotope_filter="3" precursor_mass_analyzer="orbitrap" precursor_res="60000" precursor_res_mz="200" retention_time_filter_type="ms2_ids" retention_time_filter_length="1">
+        <isotope_enrichments name="Default">
+          <atom_percent_enrichment symbol="H'">0.98</atom_percent_enrichment>
+          <atom_percent_enrichment symbol="C'">0.995</atom_percent_enrichment>
+          <atom_percent_enrichment symbol="N'">0.995</atom_percent_enrichment>
+          <atom_percent_enrichment symbol="O&quot;">0.99</atom_percent_enrichment>
+          <atom_percent_enrichment symbol="O'">0.99</atom_percent_enrichment>
+        </isotope_enrichments>
+        <isolation_scheme name="ETS_DIA_Dec302015" precursor_filter="4" />
+      </transition_full_scan>
+    </transition_settings>
+    <data_settings document_guid="89d3e5e6-caa4-4f7f-850d-0c042dabae9c" />
+    <measured_results time_normal_area="true">
+      <replicate name="2015_December_30_DIA_geoduck">
+        <sample_file id="_2015_December_30_DIA_geoduck_f0" file_path="C:\Users\maccosslab\Documents\emma\DIA raw data\2015_December_30_DIA_geoduck.raw?centroid_ms2=true" sample_name="2015_December_30_DIA_geoduck" acquired_time="2015-12-31T10:55:40" modified_time="2015-12-31T14:07:05">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Q Exactive</model>
+              <ionsource>nanoelectrospray</ionsource>
+              <analyzer>quadrupole/orbitrap</analyzer>
+              <detector>inductive detector</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+      <replicate name="2015_December_30_DIA_geoduck3">
+        <sample_file id="_2015_December_30_DIA_geoduck3_f0" file_path="C:\Users\maccosslab\Documents\emma\DIA raw data\2015_December_30_DIA_geoduck3.raw?centroid_ms2=true" sample_name="2015_December_30_DIA_geoduck3" acquired_time="2015-12-31T15:18:32" modified_time="2015-12-31T18:29:58">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Q Exactive</model>
+              <ionsource>nanoelectrospray</ionsource>
+              <analyzer>quadrupole/orbitrap</analyzer>
+              <detector>inductive detector</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+      <replicate name="2015_December_30_DIA_geoduck4">
+        <sample_file id="_2015_December_30_DIA_geoduck4_f0" file_path="C:\Users\maccosslab\Documents\emma\DIA raw data\2015_December_30_DIA_geoduck4.raw?centroid_ms2=true" sample_name="2015_December_30_DIA_geoduck4" acquired_time="2015-12-31T17:30:00" modified_time="2015-12-31T20:41:25">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Q Exactive</model>
+              <ionsource>nanoelectrospray</ionsource>
+              <analyzer>quadrupole/orbitrap</analyzer>
+              <detector>inductive detector</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+      <replicate name="2016_Feb_01_DIA_geoduck7">
+        <sample_file id="_2016_Feb_01_DIA_geoduck7_f0" file_path="C:\Users\maccosslab\Documents\emma\DIA raw data\2016_Feb_01_DIA_geoduck7.raw?centroid_ms2=true" sample_name="2016_Feb_01_DIA_geoduck7" acquired_time="2016-02-03T08:39:57" modified_time="2016-02-03T11:51:22">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Q Exactive</model>
+              <ionsource>nanoelectrospray</ionsource>
+              <analyzer>quadrupole/orbitrap</analyzer>
+              <detector>inductive detector</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+    </measured_results>
+    <doc_rt_alignments>
+      <rt_source name="2015_December_30_DIA_geoduck" library="geoduck EF" />
+      <rt_source name="2015_December_30_DIA_geoduck3" library="geoduck EF" />
+      <rt_source name="2015_December_30_DIA_geoduck4" library="geoduck EF" />
+      <rt_source name="2016_Feb_01_DIA_geoduck7" library="geoduck EF" />
+      <file_rt_alignments name="2015_December_30_DIA_geoduck" />
+      <file_rt_alignments name="2015_December_30_DIA_geoduck3" />
+      <file_rt_alignments name="2015_December_30_DIA_geoduck4" />
+      <file_rt_alignments name="2016_Feb_01_DIA_geoduck7" />
+    </doc_rt_alignments>
+  </settings_summary>
+  <protein name="cds.comp133422_c0_seq1|m.21474" description="comp133422_c0_seq1|g.21474  ORF comp133422_c0_seq1|g.21474 comp133422_c0_seq1|m.21474 type:complete len:296 (+) comp133422_c0_seq1:81-968(+)" websearch_status="X#Ucds.comp133422_c0_seq1">
+    <sequence>
+        MTTHLSKGFF RVLTHRNGHL LRQFSTCRCL LSDKENQYTI TTEVDGIRTI
+        CLNDTKKRNA LSLAMLRQLE RDLYAESKDL RAIILTHTGP VFSAGHDLKE
+        LTTKEGRDYH AQVFSTCTSV MSSLQELPVP VIAKVSGLAT AAGCQLVASC
+        DIAVATEKSG FATPGVNVGL FCSTPAVAVG RSVPRKVAME MLFTGNPISA
+        KDALLHGLIS KVVPEEKLEE ETMAIAKKIC ETSKSVVALG KATFYAQINM
+        DRKQAYNLTE MVMVENLSMM DGQEGIKAFF EKRKAKWTHK TDKLH</sequence>
+    <peptide sequence="NALSLAMLR" modified_sequence="NALSLAMLR" start="58" end="67" prev_aa="R" next_aa="Q" calc_neutral_pep_mass="987.553536" num_missed_cleavages="0" avg_measured_retention_time="47.6946373">
+      <peptide_results>
+        <peptide_result replicate="2015_December_30_DIA_geoduck" peak_count_ratio="1" retention_time="47.6946373" />
+      </peptide_results>
+      <precursor charge="2" calc_neutral_mass="987.553536" precursor_mz="494.784044" auto_manage_children="false" collision_energy="17.748521" modified_sequence="NALSLAMLR">
+        <bibliospec_spectrum_info library_name="geoduck EF" count_measured="1" />
+        <precursor_results>
+          <precursor_peak replicate="2015_December_30_DIA_geoduck" peak_count_ratio="1" retention_time="47.6946373" start_time="47.47904" end_time="47.8178368" fwhm="0.147590429" area="59145.7344" background="0" height="4846.89648" mass_error_ppm="0.496127546" truncated="0" identified="true" library_dotp="0.7772133" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="y" fragment_ordinal="6" calc_neutral_mass="689.389431" product_charge="1" cleavage_aa="S" loss_neutral_mass="0">
+          <precursor_mz>494.784044</precursor_mz>
+          <product_mz>690.396707</product_mz>
+          <collision_energy>17.748521</collision_energy>
+          <transition_lib_info rank="3" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck" mass_error_ppm="0.4" retention_time="47.6946373" start_time="47.47904" end_time="47.8178368" area="33987.9648" background="0" height="4846.89648" fwhm="0.111980312" truncated="false" identified="true" rank="1" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="5" calc_neutral_mass="602.357402" product_charge="1" cleavage_aa="L" loss_neutral_mass="0">
+          <precursor_mz>494.784044</precursor_mz>
+          <product_mz>603.364678</product_mz>
+          <collision_energy>17.748521</collision_energy>
+          <transition_lib_info rank="4" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck" mass_error_ppm="-2.8" retention_time="47.6638374" start_time="47.47904" end_time="47.8178368" area="4636.24658" background="0" height="1149.47876" fwhm="0.06499972" truncated="false" identified="true" rank="3" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="4" calc_neutral_mass="489.273338" product_charge="1" cleavage_aa="A" loss_neutral_mass="0">
+          <precursor_mz>494.784044</precursor_mz>
+          <product_mz>490.280614</product_mz>
+          <collision_energy>17.748521</collision_energy>
+          <transition_lib_info rank="5" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck" mass_error_ppm="1.4" retention_time="47.756237" start_time="47.47904" end_time="47.8178368" area="20521.5234" background="0" height="2471.2356" fwhm="0.147590429" truncated="false" identified="true" rank="2" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </peptide>
+  </protein>
+  <protein name="cds.comp134572_c0_seq1|m.22979" description="comp134572_c0_seq1|g.22979  ORF comp134572_c0_seq1|g.22979 comp134572_c0_seq1|m.22979 type:3prime_partial len:377 (+) comp134572_c0_seq1:139-1266(+)" websearch_status="X#Ucds.comp134572_c0_seq1" auto_manage_children="false">
+    <sequence>
+        MDQQQRRASQ QGRRLSLVEA IPDWPSLKHP EKEVEAPEKF LSTFDDIKVM
+        EGTDMVVFSA KFCKPEAPYK WYKNKLEIFH GEKFHIINND LEYTVEVHNI
+        KLEDGGKYIL ECGKGPSKTS AWLYVEEKPP EYTFTQKLPD KYGIQRKKEG
+        LLECFVSDTK AKVKWYKDGK IVEYEGGRTE IRRRENRCIL SFPLMTKEDE
+        GHYQCKITVG EAITECDLKC DEPAWEFMKK LEDVEAKERQ RSVFECDVSD
+        PEAEVTWWRE EKELKAGGKY EFGKDGHKRR LVVKNCSNKD ESKYSCRMQD
+        KETHARLFVE PDIKFFKKLE DKKEREKGTL MLDCKASNPH NAPVQWLKDG
+        KPLDKDDGRI EISKKGEAHK MVMKNL</sequence>
+    <peptide sequence="ITVGEAITECDLK" modified_sequence="ITVGEAITEC[+57.0]DLK" start="206" end="219" prev_aa="K" next_aa="C" calc_neutral_pep_mass="1447.722846" num_missed_cleavages="0" avg_measured_retention_time="43.8131638">
+      <implicit_modifications>
+        <implicit_static_modifications>
+          <implicit_modification index_aa="9" modification_name="Carbamidomethyl (C)" mass_diff="+57" />
+        </implicit_static_modifications>
+        <implicit_heavy_modifications />
+      </implicit_modifications>
+      <peptide_results>
+        <peptide_result replicate="2015_December_30_DIA_geoduck3" peak_count_ratio="1" retention_time="43.8131638" />
+      </peptide_results>
+      <precursor charge="2" calc_neutral_mass="1447.722846" precursor_mz="724.868699" auto_manage_children="false" collision_energy="24.651061" modified_sequence="ITVGEAITEC[+57.0]DLK">
+        <bibliospec_spectrum_info library_name="geoduck EF" count_measured="1" />
+        <precursor_results>
+          <precursor_peak replicate="2015_December_30_DIA_geoduck3" peak_count_ratio="1" retention_time="43.8131638" start_time="43.65716" end_time="44.0003624" fwhm="0.15425685" area="575274.1" background="0" height="21738.31" mass_error_ppm="0.607831538" truncated="0" identified="true" library_dotp="0.9109532" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="y" fragment_ordinal="10" calc_neutral_mass="1134.52269" product_charge="1" cleavage_aa="G" loss_neutral_mass="0">
+          <precursor_mz>724.868699</precursor_mz>
+          <product_mz>1135.529966</product_mz>
+          <collision_energy>24.651061</collision_energy>
+          <transition_lib_info rank="3" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck3" mass_error_ppm="1.7" retention_time="43.8131638" start_time="43.65716" end_time="44.0003624" area="183448.578" background="0" height="21738.31" fwhm="0.138212815" truncated="false" identified="true" rank="1" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="8" calc_neutral_mass="948.458633" product_charge="1" cleavage_aa="A" loss_neutral_mass="0">
+          <precursor_mz>724.868699</precursor_mz>
+          <product_mz>949.465909</product_mz>
+          <collision_energy>24.651061</collision_energy>
+          <transition_lib_info rank="5" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck3" mass_error_ppm="0.3" retention_time="43.8131638" start_time="43.65716" end_time="44.0003624" area="116613.859" background="0" height="14963.666" fwhm="0.130454853" truncated="false" identified="true" rank="3" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="7" calc_neutral_mass="877.421519" product_charge="1" cleavage_aa="I" loss_neutral_mass="0">
+          <precursor_mz>724.868699</precursor_mz>
+          <product_mz>878.428795</product_mz>
+          <collision_energy>24.651061</collision_energy>
+          <transition_lib_info rank="6" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck3" mass_error_ppm="0.8" retention_time="43.8131638" start_time="43.65716" end_time="44.0003624" area="94089.68" background="0" height="12471.6357" fwhm="0.129165754" truncated="false" identified="true" rank="4" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="6" calc_neutral_mass="764.337455" product_charge="1" cleavage_aa="T" loss_neutral_mass="0">
+          <precursor_mz>724.868699</precursor_mz>
+          <product_mz>765.344731</product_mz>
+          <collision_energy>24.651061</collision_energy>
+          <transition_lib_info rank="7" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck3" mass_error_ppm="-0.4" retention_time="43.8131638" start_time="43.65716" end_time="44.0003624" area="181121.969" background="0" height="19275.8555" fwhm="0.15425685" truncated="false" identified="true" rank="2" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </peptide>
+    <peptide sequence="GTLMLDCK" modified_sequence="GTLMLDC[+57.0]K" start="327" end="335" prev_aa="K" next_aa="A" calc_neutral_pep_mass="936.440874" num_missed_cleavages="0" avg_measured_retention_time="34.7380753">
+      <implicit_modifications>
+        <implicit_static_modifications>
+          <implicit_modification index_aa="6" modification_name="Carbamidomethyl (C)" mass_diff="+57" />
+        </implicit_static_modifications>
+        <implicit_heavy_modifications />
+      </implicit_modifications>
+      <peptide_results>
+        <peptide_result replicate="2015_December_30_DIA_geoduck" peak_count_ratio="1" retention_time="34.7380753" />
+      </peptide_results>
+      <precursor charge="2" calc_neutral_mass="936.440874" precursor_mz="469.227713" auto_manage_children="false" collision_energy="16.981831" modified_sequence="GTLMLDC[+57.0]K">
+        <bibliospec_spectrum_info library_name="geoduck EF" count_measured="1" />
+        <precursor_results>
+          <precursor_peak replicate="2015_December_30_DIA_geoduck" peak_count_ratio="1" retention_time="34.7380753" start_time="34.5238762" end_time="34.8910751" fwhm="0.138936445" area="914346.9" background="0" height="45178.2578" mass_error_ppm="0.478796363" truncated="0" identified="true" library_dotp="0.9241405" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="y" fragment_ordinal="5" calc_neutral_mass="665.287668" product_charge="1" cleavage_aa="M" loss_neutral_mass="0">
+          <precursor_mz>469.227713</precursor_mz>
+          <product_mz>666.294944</product_mz>
+          <collision_energy>16.981831</collision_energy>
+          <transition_lib_info rank="3" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck" mass_error_ppm="0.7" retention_time="34.7380753" start_time="34.5238762" end_time="34.8910751" area="297966.625" background="0" height="35589.6328" fwhm="0.13237913" truncated="false" identified="true" rank="2" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="4" calc_neutral_mass="534.247183" product_charge="1" cleavage_aa="L" loss_neutral_mass="0">
+          <precursor_mz>469.227713</precursor_mz>
+          <product_mz>535.254459</product_mz>
+          <collision_energy>16.981831</collision_energy>
+          <transition_lib_info rank="4" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck" mass_error_ppm="0.8" retention_time="34.7380753" start_time="34.5238762" end_time="34.8910751" area="396467.844" background="0" height="45178.2578" fwhm="0.134155437" truncated="false" identified="true" rank="1" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="3" calc_neutral_mass="421.163119" product_charge="1" cleavage_aa="D" loss_neutral_mass="0">
+          <precursor_mz>469.227713</precursor_mz>
+          <product_mz>422.170395</product_mz>
+          <collision_energy>16.981831</collision_energy>
+          <transition_lib_info rank="5" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck" mass_error_ppm="-0.4" retention_time="34.7074776" start_time="34.5238762" end_time="34.8910751" area="219912.391" background="0" height="25342.707" fwhm="0.138936445" truncated="false" identified="true" rank="3" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </peptide>
+  </protein>
+  <protein name="cds.comp141647_c0_seq1|m.39026" description="comp141647_c0_seq1|g.39026  ORF comp141647_c0_seq1|g.39026 comp141647_c0_seq1|m.39026 type:complete len:2412 (+) comp141647_c0_seq1:89-7324(+)" websearch_status="X#Ucds.comp141647_c0_seq1" auto_manage_children="false">
+    <sequence>
+        MTEVQPREIR ILETAEDIQQ RREEVLNRYG AFRQAISDRR SKLEDSRRYQ
+        YFKRDADELE SWIYEKLQTA SDESYKDPTN LQAKIQKHQA FEAEVAAHAN
+        AIVVLDNTGT EMIDQDHFAS DIIKARLEEL HRLWELLLSK LREKGTKLQQ
+        ALKLVQFMRE CNEVMFWIHD KEAFVTSEEF GQDLEHVEVL QKKFDEFQKD
+        LQNHEDKVTE VNLLSQQLLE DGHPEEETIN QKRDEVNEAW ARLRQLSLLR
+        QERLFGAHEI QRFNRDADET IAWIMEKDAI LSTDDYGRDL ASVQALRRKH
+        EGVERDLAAL NEKVTALGTE AQRLTDIHPK QADAIDTKQR EIEDNWRRLK
+        DKGAERKSRL DDSYNLHRFL ADFRDLVSWA HDMKAIISAD DLAKDVAGAE
+        ALLERHQEHK GEIDAREDSF QSALEAGELL VETDHYAAEE VKEKIQTLQT
+        EKNSLHDLWE ERRILYEQCM DLQLFYRDTE QADAWMTKQE AFLANEDLGD
+        SLDSVEALFK KHDDFEKSLA AQEEKIKALD EFATKLIENE HYAHDDVASR
+        RDQLLTRRNR LYEASSLRRH LLEESYKFQT FQRDCDETKS WINEKLKTAS
+        DENYLDPTNL QTKVQKHQNF EAEIEANKSR IEAIQTSGEQ LLAEEHYASD
+        TIRERIDEIL DSWATLLKQT EFKGNKLKEA SQQQQFNRNV EDIETWLTDI
+        EGQLMSEDYG KDLTSVQNLQ KKHALLEADV AAHQDRIEGI AVQASSFVDS
+        GHFDADNIQT KQTQLLNRYK ALQEPMAARH QKLEDALRLQ QFLRDVEDEE
+        DWIREKEPIA ASTNRGRDLI GVQNLMKKHQ ALQAELAGHE PRINNVSQQG
+        TEMIKDGHFA ADEIQDKISE LEDRWQALKD KATQRKQDLE DSLQAQQYFA
+        DANEAESWMR EKEPIASNTD YGKDEDSAEA LLKKHDAFMS DLEAYRTVID
+        GLQEQAQACN QQEAPVIDDL GTEKVMALYD YTEKSPRETS MKKGDVLTLL
+        NSTNKDWWKV EVNDRQGFVP AAYVKKLDPS LSASRNNLMD EFTISVRENQ
+        IETQYANLLD LGNQRREKIQ ESCKAYQLVR EAAELAAWIT EKENLMAGED
+        VGEDLEQVEE MQKKFDDFRK DLRTNEARLQ ELNSIADRLT AMGRTEAAEK
+        IREQIATLNT RWATLQQVTA DRAQTLGSAH EVQRFHRDVD ETKDWINEKN
+        QALNNDNYGH DLASVQALQR KHEGLERDLA ALGEKVRDLD ETAKRLMMTH
+        PDQGESIYEH QTEINEMWND LTAKADGRKA KLLDSYDLQR FLSDYRDLTS
+        WINSMMALVS SDELAKDVTG AEALLERHQE HRTEIDARSG TFQAFETFGQ
+        QLLVNSHYAS EDVKTRLEEL AAAREDLEQA WIQRRMKLDQ CLELQLFYRD
+        CEQAEFWMAS REAFLSGDQV DGDNVESLIK KHEDFDRAIS SQQEKIQALQ
+        VFADQLIGGE HYDADAIGDK RDQVLDRWSN LKDALIDNRS KLGEAQTLQQ
+        FSRDADEMEN WLQEKLQIAC DESYKDPANI QSKHQKHQGF EAELAANADR
+        LQALLGTGQA LIDQKQCAGS EPAVQARLES LASQWETLVS KSAEKSDKLK
+        EASRQQTYNA GVKDIEFWLG EVEQMLASEE YGKDLASVQN LSKKHQLLEA
+        DIAAHEDRIK DLNSQADQFI DSGVWDAESI EVRKRTINER YEKIKELAIK
+        RKTRLNEANT MHQFLRDIDD EEAWIKEKKL LVGSEDYGKD LTGVQNLRKK
+        HKRLDAELTS HEPAIQAVQE MGQKLISESD INTADIENRL EQLAKSWDEL
+        KSMAEHRGQM LEESYAFQQF SANVDEEEAW IAEKQRLLSG GDLGGTMAAV
+        QGLLKKHEVF ETDFQVHRDR CQEVQKEGEK LMDEGNHNKD SISQRIAGLQ
+        DKLSSLEQAA ALRKAGLIDN SAFLQFIWKT DVVESWIADK ENQVRSDDYG
+        RDLSSVQTLL TKQDTFDAGL QAFEKEGIQT ITALKDQLIA AKHAQTPAIE
+        KRYNDVMARW GKLLGDSEER KQRLLQLQDQ YRQIEDLYLA FAKKASAFNS
+        WFENAEEDLT DPVRCNSVEE IKHLRENHEQ FKASLSAAQT DFNQLAVLDK
+        EIKSFNVGPN PYTWFTMEAL QETWNNLQKI IKGRDTDLAN EQQRQEENDQ
+        LRKQFAQAAN AFHSWLTETR AAMMEGSGTL EDQLEATKKK AVEVRSQKGQ
+        LKRIEDLGAA MEGRLILDNR YTEHSTVGLA QQWDQLDQLG MRMQHNLDQQ
+        IQARNRSGVS EDALREFSMM FKHFDKDKSG KLDHQEFKSC LRALGYDLPV
+        VEDGQVDPEF MAILDMVDPN RDGHVSLQEY MAFMISRETE NVQSSTEVEQ
+        AFRALTSGDK PFITAQELYA NLTKEQADYC IGRMKPYVDR SGRDVLDAYD
+        YADFTQSMFV N</sequence>
+    <peptide sequence="AIISADDLAK" modified_sequence="AIISADDLAK" start="384" end="394" prev_aa="K" next_aa="D" calc_neutral_pep_mass="1015.554976" num_missed_cleavages="0" avg_measured_retention_time="38.0993462">
+      <peptide_results>
+        <peptide_result replicate="2015_December_30_DIA_geoduck" peak_count_ratio="1" retention_time="38.0993462" />
+      </peptide_results>
+      <precursor charge="2" calc_neutral_mass="1015.554976" precursor_mz="508.784764" auto_manage_children="false" collision_energy="18.168543" modified_sequence="AIISADDLAK">
+        <bibliospec_spectrum_info library_name="geoduck EF" count_measured="1" />
+        <precursor_results>
+          <precursor_peak replicate="2015_December_30_DIA_geoduck" peak_count_ratio="1" retention_time="38.0993462" start_time="37.9157448" end_time="38.2829437" fwhm="0.126397491" area="1661362.13" background="0" height="116718.641" mass_error_ppm="0.647696733" truncated="0" identified="true" library_dotp="0.7657992" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="y" fragment_ordinal="7" calc_neutral_mass="718.349734" product_charge="1" cleavage_aa="S" loss_neutral_mass="0">
+          <precursor_mz>508.784764</precursor_mz>
+          <product_mz>719.35701</product_mz>
+          <collision_energy>18.168543</collision_energy>
+          <transition_lib_info rank="3" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck" mass_error_ppm="1.5" retention_time="38.0993462" start_time="37.9157448" end_time="38.2829437" area="977470.563" background="0" height="116718.641" fwhm="0.124166608" truncated="false" identified="true" rank="1" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="6" calc_neutral_mass="631.317706" product_charge="1" cleavage_aa="A" loss_neutral_mass="0">
+          <precursor_mz>508.784764</precursor_mz>
+          <product_mz>632.324982</product_mz>
+          <collision_energy>18.168543</collision_energy>
+          <transition_lib_info rank="4" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck" mass_error_ppm="-1.3" retention_time="38.0993462" start_time="37.9157448" end_time="38.2829437" area="303167.656" background="0" height="35655.7422" fwhm="0.1233794" truncated="false" identified="true" rank="2" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="4" calc_neutral_mass="445.253649" product_charge="1" cleavage_aa="D" loss_neutral_mass="0">
+          <precursor_mz>508.784764</precursor_mz>
+          <product_mz>446.260925</product_mz>
+          <collision_energy>18.168543</collision_energy>
+          <transition_lib_info rank="6" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck" mass_error_ppm="-0.3" retention_time="38.0993462" start_time="37.9157448" end_time="38.2829437" area="144347.859" background="0" height="18318.3125" fwhm="0.126397491" truncated="false" identified="true" rank="4" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="3" calc_neutral_mass="330.226706" product_charge="1" cleavage_aa="L" loss_neutral_mass="0">
+          <precursor_mz>508.784764</precursor_mz>
+          <product_mz>331.233982</product_mz>
+          <collision_energy>18.168543</collision_energy>
+          <transition_lib_info rank="7" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2015_December_30_DIA_geoduck" mass_error_ppm="0.2" retention_time="38.0993462" start_time="37.9157448" end_time="38.2829437" area="236375.953" background="0" height="30371.623" fwhm="0.119213" truncated="false" identified="true" rank="3" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </peptide>
+    <peptide sequence="EASQQQQFNR" modified_sequence="EASQQQQFNR" start="678" end="688" prev_aa="K" next_aa="N" calc_neutral_pep_mass="1234.569063" num_missed_cleavages="0" avg_measured_retention_time="34.7717">
+      <peptide_results>
+        <peptide_result replicate="2016_Feb_01_DIA_geoduck7" peak_count_ratio="1" retention_time="34.7717" />
+      </peptide_results>
+      <precursor charge="2" calc_neutral_mass="1234.569063" precursor_mz="618.291807" auto_manage_children="false" collision_energy="21.453754" modified_sequence="EASQQQQFNR">
+        <bibliospec_spectrum_info library_name="geoduck EF" count_measured="1" />
+        <precursor_results>
+          <precursor_peak replicate="2016_Feb_01_DIA_geoduck7" peak_count_ratio="1" retention_time="34.7717" start_time="34.6162" end_time="34.9583" fwhm="0.0909678042" area="377012.8" background="0" height="18919.3047" mass_error_ppm="0.4220782" truncated="0" identified="true" library_dotp="0.9592685" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="y" fragment_ordinal="6" calc_neutral_mass="819.39875" product_charge="1" cleavage_aa="Q" loss_neutral_mass="0">
+          <precursor_mz>618.291807</precursor_mz>
+          <product_mz>820.406026</product_mz>
+          <collision_energy>21.453754</collision_energy>
+          <transition_lib_info rank="4" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2016_Feb_01_DIA_geoduck7" mass_error_ppm="0.6" retention_time="34.7717" start_time="34.6162" end_time="34.9583" area="88757.4844" background="0" height="15637.2461" fwhm="0.0909678042" truncated="false" identified="true" rank="3" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="5" calc_neutral_mass="691.340172" product_charge="1" cleavage_aa="Q" loss_neutral_mass="0">
+          <precursor_mz>618.291807</precursor_mz>
+          <product_mz>692.347448</product_mz>
+          <collision_energy>21.453754</collision_energy>
+          <transition_lib_info rank="5" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2016_Feb_01_DIA_geoduck7" mass_error_ppm="0.9" retention_time="34.7717" start_time="34.6162" end_time="34.9583" area="110640.859" background="0" height="18919.3047" fwhm="0.08897189" truncated="false" identified="true" rank="1" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="4" calc_neutral_mass="563.281595" product_charge="1" cleavage_aa="Q" loss_neutral_mass="0">
+          <precursor_mz>618.291807</precursor_mz>
+          <product_mz>564.288871</product_mz>
+          <collision_energy>21.453754</collision_energy>
+          <transition_lib_info rank="6" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2016_Feb_01_DIA_geoduck7" mass_error_ppm="-0.3" retention_time="34.7717" start_time="34.6162" end_time="34.9583" area="78311.17" background="0" height="15537.0938" fwhm="0.07839308" truncated="false" identified="true" rank="4" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="3" calc_neutral_mass="435.223017" product_charge="1" cleavage_aa="F" loss_neutral_mass="0">
+          <precursor_mz>618.291807</precursor_mz>
+          <product_mz>436.230293</product_mz>
+          <collision_energy>21.453754</collision_energy>
+          <transition_lib_info rank="7" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2016_Feb_01_DIA_geoduck7" mass_error_ppm="0.3" retention_time="34.7717" start_time="34.6162" end_time="34.9583" area="99303.31" background="0" height="17685.3379" fwhm="0.0852897838" truncated="false" identified="true" rank="2" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </peptide>
+    <peptide sequence="LQELNSIADR" modified_sequence="LQELNSIADR" start="1128" end="1138" prev_aa="R" next_aa="L" calc_neutral_pep_mass="1157.604051" num_missed_cleavages="0" avg_measured_retention_time="47.4673157">
+      <peptide_results>
+        <peptide_result replicate="2016_Feb_01_DIA_geoduck7" peak_count_ratio="1" retention_time="47.4673157" />
+      </peptide_results>
+      <precursor charge="2" calc_neutral_mass="1157.604051" precursor_mz="579.809302" auto_manage_children="false" collision_energy="20.299279" modified_sequence="LQELNSIADR">
+        <bibliospec_spectrum_info library_name="geoduck EF" count_measured="1" />
+        <precursor_results>
+          <precursor_peak replicate="2016_Feb_01_DIA_geoduck7" peak_count_ratio="1" retention_time="47.4673157" start_time="47.2503166" end_time="47.62232" fwhm="0.121653378" area="579674.438" background="0" height="27223.48" mass_error_ppm="0.4007365" truncated="0" identified="true" library_dotp="0.883826852" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="y" fragment_ordinal="7" calc_neutral_mass="787.418817" product_charge="1" cleavage_aa="L" loss_neutral_mass="0">
+          <precursor_mz>579.809302</precursor_mz>
+          <product_mz>788.426093</product_mz>
+          <collision_energy>20.299279</collision_energy>
+          <transition_lib_info rank="3" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2016_Feb_01_DIA_geoduck7" mass_error_ppm="0" retention_time="47.4673157" start_time="47.2503166" end_time="47.62232" area="203474.375" background="0" height="27223.48" fwhm="0.116623394" truncated="false" identified="true" rank="1" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="6" calc_neutral_mass="674.334753" product_charge="1" cleavage_aa="N" loss_neutral_mass="0">
+          <precursor_mz>579.809302</precursor_mz>
+          <product_mz>675.342029</product_mz>
+          <collision_energy>20.299279</collision_energy>
+          <transition_lib_info rank="4" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2016_Feb_01_DIA_geoduck7" mass_error_ppm="0.1" retention_time="47.4983177" start_time="47.2503166" end_time="47.62232" area="185150.25" background="0" height="24454.5723" fwhm="0.121653378" truncated="false" identified="true" rank="2" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="5" calc_neutral_mass="560.291825" product_charge="1" cleavage_aa="S" loss_neutral_mass="0">
+          <precursor_mz>579.809302</precursor_mz>
+          <product_mz>561.299101</product_mz>
+          <collision_energy>20.299279</collision_energy>
+          <transition_lib_info rank="5" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2016_Feb_01_DIA_geoduck7" mass_error_ppm="2.5" retention_time="47.4983177" start_time="47.2503166" end_time="47.62232" area="111097.422" background="0" height="16119.959" fwhm="0.113376535" truncated="false" identified="true" rank="3" user_set="FALSE" />
+          </transition_results>
+        </transition>
+        <transition fragment_type="y" fragment_ordinal="3" calc_neutral_mass="360.175733" product_charge="1" cleavage_aa="A" loss_neutral_mass="0">
+          <precursor_mz>579.809302</precursor_mz>
+          <product_mz>361.183009</product_mz>
+          <collision_energy>20.299279</collision_energy>
+          <transition_lib_info rank="7" intensity="100" />
+          <transition_results>
+            <transition_peak replicate="2016_Feb_01_DIA_geoduck7" mass_error_ppm="-0.8" retention_time="47.4983177" start_time="47.2503166" end_time="47.62232" area="79952.35" background="0" height="12586.52" fwhm="0.10673108" truncated="false" identified="true" rank="4" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </peptide>
+  </protein>
+</srm_settings>
