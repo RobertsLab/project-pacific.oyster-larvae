@@ -1,0 +1,17 @@
+Proteomic sample identification key									
+									
+	9/11/2016 (Day 5 Post-Set)	9/12/2016 (Day 6 Post-Set)	9/13/2016 (Day 7 Post-Set)	9/14/2016 (Day 8 Post-Set)	9/15/2016 (Day 9 Post-Set)	9/16/2016 (Day 10 Post-Set)	9/17/2016 (Day 11 Post-Set)	9/18/2016 (Day 12 Post-Set)	9/20/2016 (Day 14 Post-Set)
+29C	Silo 1 (#3)								
+	Silo 2	Silo 2 (#6)							
+	Silo 3	Silo 3	Silo 3 (#10)						
+	Silo 4	Silo 4	Silo 4	Silo 4 (#15)					
+	Silo 5	Silo 5	Silo 5	Silo 5	Silo 5 (#21)				
+	Silo 6	Silo 6	Silo 6	Silo 6	Silo 6	Silo 6 (#28)			
+	Silo 8 (#2)	Silo 8 (#5)	Silo 8 (#9)	Silo 8 (#14)	Silo 8 (#20)	Silo 8 (#27)	Silo 8 (#35)	Silo 8 (#43)	Silo 8 (#51)
+23C		Silo 1 (#7)	Silo 1 (#11)	Silo 1 (#16)	Silo 1 (#22)	Silo 1 (#29)	Silo 1 (#36)	Silo 1 (#44)	Silo 1 (#52)
+			Silo 2 (#12)	Silo 2 (#17)	Silo 2 (#23)	Silo 2 (#30)	Silo 2 (#37)	Silo 2 (#45)	Silo 2 (#53)
+				Silo 3 (#18)	Silo 3 (#24)	Silo 3 (#31)	Silo 3 (#38)	Silo 3 (#46)	Silo 3 (#54)
+					Silo 4 (#25)	Silo 4 (#32)	Silo 4 (#39)	Silo 4 (#47)	Silo 4 (#55)
+						Silo 5 (#33)	Silo 5 (#40)	Silo 5 (#48)	Silo 5 (#56)
+							Silo 6 (#41)	Silo 6 (#49)	Silo 6 (#57)
+	Silo 9 (#1)	Silo 9 (#4)	Silo 9 (#8)	Silo 9 (#13)	Silo 9 (#19)	Silo 9 (#26)	Silo 9 (#34)	Silo 9 (#42)	Silo 9 (#50)
