@@ -1,0 +1,293 @@
+#remote login to emu
+ssh srlab@128.95.149.195
+
+#enter password:scallop
+
+#cd to ReAdW
+cd home/shared/ReAdW
+
+#to convert all .raw files to .mzXML
+for file in ~/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_*.raw
+do
+no_path=${file##*/}
+no_ext=${no_path%.raw}
+WINEPREFIX=~/.wine32 wine ReAdW.2016010.msfilereader.exe "$file" ~/Documents/rhonda/"$no_ext".mzXML
+done
+
+... earlier outputs were removed from the bash window before I was able to copy them...
+
+--done (mzXML sha1):3f35cae5c81c6175914265f1bfc354d3b148875e
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_32.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 116501
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):7c345a29737e4db06996e5cbd423d9ce308448a1
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_35A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 104099
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):6cd2b4aa56ebdd1d1c2ebb8ecf7d38490fe5e758
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_35.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 105655
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):61192227a4b7da989ddbd05852f7e12ec3d3e2b8
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_36A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 114959
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):ef4adf52cdef7e5b472da30abae5a10f34ae4e40
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_36.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 116659
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):13789acd2bd1358ed7aafec0a769653bf58883cf
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_3A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 109737
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):4f076d6c7860ac003e3a0032c7ba9ea927ea27d6
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_3.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 109750
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):2b282df4dad63be3cd6ae71f88952f93d5cd8858
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_40A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 111977
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):3ce1dc211f359f7fdc92e1d8b83797e206880281
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_40.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 112101
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):bdebd6270091cc27ca44d335ef469553d76c5e5a
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_43A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 106741
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):e5099a575a567bd2958dece90087edc0666b5f1d
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_43.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 108576
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):199593fe8999f9125d76dca7564ec9077a078ad2
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_44A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 112312
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):44984b7cc64f543672d04f15c3fad6e35bf54849
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_44.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 112596
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):a0485f76eddd4688a8c51231067987cf0f303169
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_48A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 118762
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):0ef66280deae2052866865b723fbca5dc65db7dc
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_48.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 117348
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):aa9598a2dc5e7e9481670a6de1b87e81a581dc03
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_4A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 113759
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):aef3b328394a63402143d02521a59345ce459a10
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_4.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 113446
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):4dc983f5fc375b5f0ac89406dad0a22aa5b75d05
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_51A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 111418
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):82b5b09373508cb97f2cb32d58905fe64136cd35
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_51.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 111245
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):3405f7db21c1b8c341045a5e7e9c211c9d8a66e6
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_52A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 115502
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):14f0d874d65d5a30ee89251975da260c59337c7a
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_52.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 115816
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):ea83be4235f35bbb58e996c4f7f8718f3097748c
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_56A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 117754
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):1980e0d340b9e6cdafe040ad6cee47732e0486f1
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_56.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 117825
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):3baaca8df0012352f8e4867f366439d04a2ecfee
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_8A.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 114182
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):d0320cf9d2009add781a359e980a920cf4c96e65
+fixme:thread:GetThreadPreferredUILanguages 52, 0x33fafc, 0x33fc74 0x33fb04
+fixme:heap:HeapSetInformation (nil) 1 (nil) 0
+ReAdW 2016.1.0(build Jun 21 2016 11:13:06)
+Xcalibur interface initialized (5).
+(Thermo lib opened file /home/srlab/Documents/rhonda2016oyster/trochophora/C_gigas_proteome2016/20161205_Sample_8.raw)
+file version is 66, interface version is 2.0 or greater
+file should contain scan numbers 1 through 114555
+(got computer name: emu)
+Calculating sha1-sum of mzXML
+--done (mzXML sha1):c5d134dead2b29d9bdf903415dbbc8eca369397e
+srlab@emu:/home/shared/ReAdW$ cd
+srlab@emu:~$ cd /Documents/rhonda
+-bash: cd: /Documents/rhonda: No such file or directory
+srlab@emu:~$ cd ~/Documents/rhonda/
+srlab@emu:~/Documents/rhonda$ ls
+000-Remotelogin_filechange.ipynb  20161205_Sample_27.mzXML               20161205_Sample_48A.mzXML
+001-Comet.ipynb                   20161205_Sample_28_161205200228.mzXML  20161205_Sample_48.mzXML
+20161205_Sample_11A.mzXML         20161205_Sample_28A.mzXML              20161205_Sample_4A.mzXML
+20161205_sample_1.1.mzXML         20161205_Sample_28.mzXML               20161205_Sample_4.mzXML
+20161205_Sample_11.mzXML          20161205_Sample_32A.mzXML              20161205_Sample_51A.mzXML
+20161205_Sample_12A.mzXML         20161205_Sample_32.mzXML               20161205_Sample_51.mzXML
+20161205_Sample_12.mzXML          20161205_Sample_35A.mzXML              20161205_Sample_52A.mzXML
+20161205_Sample_16A.mzXML         20161205_Sample_35.mzXML               20161205_Sample_52.mzXML
+20161205_Sample_16.mzXML          20161205_Sample_36A.mzXML              20161205_Sample_56A.mzXML
+20161205_Sample_19A.mzXML         20161205_Sample_36.mzXML               20161205_Sample_56.mzXML
+20161205_Sample_19.mzXML          20161205_Sample_3A.mzXML               20161205_Sample_8A.mzXML
+20161205_Sample_1A.mzXML          20161205_Sample_3.mzXML                20161205_Sample_8.mzXML
+20161205_sample_1.mzXML           20161205_Sample_40A.mzXML              C_gigas_proteome.fasta
+20161205_Sample_20A.mzXML         20161205_Sample_40.mzXML               C_gigas_proteome.gz
+20161205_Sample_20.mzXML          20161205_Sample_43A.mzXML              contigs.fasta.transdecoder.pep
+20161205_Sample_24A.mzXML         20161205_Sample_43.mzXML               gigaton_unzip
+20161205_Sample_24.mzXML          20161205_Sample_44A.mzXML              Pcomet.params.high-low
+20161205_Sample_27A.mzXML         20161205_Sample_44.mzXML
+srlab@emu:~/Documents/rhonda$
