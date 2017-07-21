@@ -1,0 +1,430 @@
+﻿Influence of temperature on larval Pacific oysters (Crassostrea gigas) protein expression
+
+
+Introduction
+The shellfish aquaculture industry provides a sustainable food source and jobs for a growing global population. To meet the increasing demand for seafood, Washington shellfish are sold around the nation and exported to primary markets in Canada and Hong Kong. In 2010, the shellfish industry generated $184 million in the Washington economy (Northern Economics, Inc. 2013). According to the same study, Washington shellfish farmers were responsible for about 2,710 jobs in 2010 and $77 million in wages, including indirect and induced labor income. In addition to providing jobs and food security, shellfish farms provide ecological services including benthic stabilization, habitat for marine organisms, and nutrient cycling. Unlike typical fin-fish farming operations, adult bivalves do not require feed and instead filter seawater for their sustenance.
+Oysters in particular are the primary aquaculture species produced in the United States and account for a significant portion of seafood exports (Washington Sea Grant 2015). Over the last couple of decades however, shellfish hatcheries have been experiencing frequent mass mortality events that occur approximately 10-14 days after settlement. At the Taylor Shellfish Hatchery a dedicated research team has spent several years systematically modifying environmental and biological parameters to isolate potential factors contributing to mass mortality events. Biological parameters tested include genotype, algal diet and densities, larval densities, and the addition of probiotics. Environmental parameters tested include water flow rate, aragonite saturation level, PCO2 and pH, dissolved oxygen, and temperature. The implementation of a water treatment system including the use of ozone, UV, and protein skimming to sterilize all incoming seawater has yet to deliver promising results. Only recently have researchers at the Taylor Shellfish Hatchery identified a husbandry technique to drastically improve post-set survival of Pacific oyster seed.
+Settlement generally occurs 2-3 weeks after fertilization and involves the metamorphosis from a free-swimming pelagic larvae to a sessile juvenile oyster seed. This metamorphosis is an energy-intensive process when larvae undergo behavioral and morphological processes such as the velum being replaced with the branchia. During this time bacterial infections often occur in the ligament and soft tissues (Elston 1984). A study conducted to compare larval physiology and early juvenile development of the Pacific oyster at five different temperatures (17, 22, 25, 27, and 32°C) concluded optimal growth rates and greatest settlement occurred at 27°C (Rico-Villa et al. 2009). Higher temperatures accelerate metabolic processes like respiration and metabolism, perhaps allowing young bivalves to “cruise” through this stressful metamorphosis, not allowing bacterial infestations to take hold.
+At the Taylor Shellfish Hatchery in Quilcene, WA Pacific oysters are typically reared at 23C, however preliminary research suggests oysters have higher survival when reared at 29C during the settlement period. Researchers did discover however that the health of oysters at 29C did deteriorate after 10 days of the high temperature. This experiment is to test growth and survival during settlement of oysters at 23C, 29C, and oysters set at 29C and transferred back to 23C at different intervals. Growing oysters at 29C for any great length of time is not only costly but could ultimately become stressful as oysters continue to metabolize at an abnormally high rate. The goal of this experiment was to determine when oysters could be transferred back to 23C and still have the same high survival as oyster seed grown at 29C throughout the whole experiment.
+By using novel proteomic technology, we identify differences in protein expression between these treatments and determine the underlying cause for shellfish mass mortality events. Chenglong et al.2013 identified proteomic biomarkers (goose-type lysozyme 2, matrilin, ependymin-related protein, peptidyl-proyl cis-trans isomerases) indicative of immune stress in mussels when exposed to a bacteria Micrococcus luteus. In this study, we use a similar approach to illuminate potential stressors in the hatchery environment. Proteomic technologies can aid in early diagnosis of a potential disease outbreak and even assist in the development of vaccines (Rodrigues et al. 2012). Additional sampling for histological and morphological differences between the treatments complement the findings we gathered through proteomic analyses. 
+
+
+
+
+Methods
+ 2015newscreenshotdiagram.JPG 
+[a][b]
+
+
+
+
+Length 14 days
+
+
+Proteomic day 5 day 8
+
+
+A             29C
+B        17C 2dy 23   ---- invasive ciliate
+C        29 -> day 5 day
+D                 6
+E                7
+F                8
+G                9
+H                10
+
+
+
+
+
+
+
+
+
+
+
+
+Competent diploid oyster larvae ( 19 days old, 1.1 million[c]) were distributed into with eight 18 inch[d] diameter silos. The following conversion was used to estimate the number of larvae: 18.0 grams larvae > 236 um = 1 million larvae. 
+
+
+
+
+Seven silos were held at 29C and one silo was held at ambient water (17C) for two days followed by 23C for the remainder of the experiment. 
+
+
+Both control silos 8 and 9 were sampled daily throughout the experiment starting at Day 5. Silos which were transferred (1-6) were sampled immediately before the transfer and every subsequent day after the transfer. Control silos 8 and 9 were placed in individual conicals for the length of the experiment, however the transferred silos shared a common vessel during all or part of the experiment. All seawater was pumped in from Dabob Bay, filtered through 25um, 10um, and 5um filter bags, and treated with sodium carbonate to reach a pH set point of 8.4. All seed received the same mixed high-density microalgae diet produced by our in-house algae bag system. Species include flagellates: Isochrysis spp., Pavlova spp., Nannochloropsis spp., Rhodomonas spp., and Tetraselmis spp. Effluent algal densities were targeted at 100K cells/ml. Incoming seawater flow rates were 1.0gpm and were downwelling in each silo by a spray nozzle for the whole experiment. All seed were rinsed with fresh water daily using a gentle shower nozzle. Microculch graded from 180-315 um was used for the settlement stage (Day 0-4). 
+
+
+On Day 4, all 29C silos were combined to screen and assess settlement. We estimated quantity and size of oyster seed using information in Table 1. These oysters were distributed evenly by size and quantity among Silos 1-6 (to be transferred) and Control Silo 8- 29C (Table 2.) The 23C silo was screened separately and all oysters were put back into Silo 9-23C. 
+
+
+We removed any leftover microculch and unset larvae (anything not catching on a 315 um screen). Finally on the last day of the experiment (Day 14) on 9/20/15 we screened again to assess final growth and survival for each silo. 
+
+
+
+
+Lower Screen Size (um)
+	Upper Screen Size (um)
+	# of seed/ml
+	315
+	450
+	5423
+	450
+	710
+	3577
+	710
+	1000
+	2000
+	1000
+	1320
+	846
+	1320
+	1600
+	328
+	1600
+	2000
+	200
+	2000
+	2380
+	95
+	2380
+	3000
+	47
+	3000
+	4000
+	32
+	4000
+	5000
+	22
+	Table 1. Conversion estimates of oyster seed volume to seed quantity for different screen size intervals used by Taylor Shellfish Hatchery in Quilcene, WA.
+Treatment
+	Screen size (um)
+	# of oysters put back in each silo at Day 4
+	29C silos (#1-6, 8)
+	315
+	54,230
+	450
+	100,603
+	710
+	62,500
+	1000
+	33,750
+	Total
+	251,083
+	23C Silo 9
+	315
+	65,076
+	450
+	35,770
+	Total
+	100,846
+	Table 2. Number and size of oysters put back into each silo at Day 4. All 29C silos were combined at Day 4 and redistributed among Silos 1-6 and 8. The 23C was screened separately and all oysters were put back into Silo 9-23C.
+
+
+Before oyster sampling, all seed were rinsed with freshwater to remove waste. Vessels were refilled with seawater. Then the silos were removed to scoop out the seed with a metal spatula when sampling, therefore oysters were covered in seawater prior to freezing.
+
+
+Oyster samples for proteomics: Dry larvae or seed (500 ul) were placed into labeled cryotube (duplicate- labeled A and B) and flash frozen in liquid nitrogen prior to storage in a -80C freezer. Samples were transferred to the Roberts Lab -80C freezer with dry ice and Emma and Rhonda processed the samples in December of 2015.
+
+
+Oyster samples for histology: Dry larvae or seed (1 ml) were placed into a 19ml falcon polystyrene round-bottom tube with 4.5ml of seawater and 0.5ml of formaldehyde solution (37%). Samples were stored upright at room temperature. These samples were sent to Dr. Ralph Elston of Aquatechnics for histological analyses (ciliates, bacteria, and digestive gland quality). 
+Experimental Design: Temperatures for each silo by day
+
+
+Figure 1. Diagram of oyster seed experiment. Silo 8 was the 29C control silo and stayed at this temperature for the whole experiment. Silo 9 was the 23C control silo. The other 6 silos started at 29C and were transferred to 23C at different days. Silo 1 transferred at Day 5, Silo 2 transferred at Day 6, Silo 3 transferred at Day 7, Silo 4 transferred at Day 8, Silo 5 transferred at Day 9, and Silo 6 transferred at Day 10. 
+
+
+Sample Identification
+
+
+
+
+Number
+	Date
+	Contents
+	1
+	9/11/2015
+	23C control seed from Silo 9
+	2
+	9/11/2015
+	29C control seed from Silo 8
+	3
+	9/11/2015
+	29C seed before the transfer to 23C (Silo 1)
+	4
+	9/12/2015
+	23C control seed from Silo 9
+	5
+	9/12/2015
+	29C control seed from Silo 8
+	6
+	9/12/2015
+	29C seed before the transfer to 23C (Silo 2)
+	7
+	9/12/2015
+	23C seed after the transfer (Silo 1)
+	8
+	9/13/2015
+	23C control seed from Silo 9
+	9
+	9/13/2015
+	29C control seed from Silo 8
+	10
+	9/13/2015
+	29C seed before the transfer to 23C (Silo 3)
+	11
+	9/13/2015
+	23C seed after the transfer (Silo 1)
+	12
+	9/13/2015
+	23C seed after the transfer (Silo 2)
+	13
+	9/14/2015
+	23C control seed from Silo 9
+	14
+	9/14/2015
+	29C control seed from Silo 8
+	15
+	9/14/2015
+	29C seed before the transfer to 23C (Silo 4)
+	16
+	9/14/2015
+	23C seed after the transfer (Silo 1)
+	17
+	9/14/2015
+	23C seed after the transfer (Silo 2)
+	18
+	9/14/2015
+	23C seed after the transfer (Silo 3)
+	19
+	9/15/2015
+	23C control seed from Silo 9
+	20
+	9/15/2015
+	29C control seed from Silo 8
+	21
+	9/15/2015
+	29C seed before the transfer to 23C (Silo 5)
+	22
+	9/15/2015
+	23C seed after the transfer (Silo 1)
+	23
+	9/15/2015
+	23C seed after the transfer (Silo 2)
+	24
+	9/15/2015
+	23C seed after the transfer (Silo 3)
+	25
+	9/15/2015
+	23C seed after the transfer (Silo 4)
+	26
+	9/16/2015
+	23C control seed from Silo 9
+	27
+	9/16/2015
+	29C control seed from Silo 8
+	28
+	9/16/2015
+	29C seed before the transfer to 23C (Silo 6)
+	29
+	9/16/2015
+	23C seed after the transfer (Silo 1)
+	30
+	9/16/2015
+	23C seed after the transfer (Silo 2)
+	31
+	9/16/2015
+	23C seed after the transfer (Silo 3)
+	32
+	9/16/2015
+	23C seed after the transfer (Silo 4)
+	33
+	9/16/2015
+	23C seed after the transfer (Silo 5)
+	34
+	9/17/2015
+	23C control seed from Silo 9
+	35
+	9/17/2015
+	29C control seed from Silo 8
+	36
+	9/17/2015
+	23C seed after the transfer (Silo 1)
+	37
+	9/17/2015
+	23C seed after the transfer (Silo 2)
+	38
+	9/17/2015
+	23C seed after the transfer (Silo 3)
+	39
+	9/17/2015
+	23C seed after the transfer (Silo 4)
+	40
+	9/17/2015
+	23C seed after the transfer (Silo 5)
+	41
+	9/17/2015
+	23C seed after the transfer (Silo 6)
+	42
+	9/18/2015
+	23C control seed from Silo 9
+	43
+	9/18/2015
+	29C control seed from Silo 8
+	44
+	9/18/2015
+	23C seed after the transfer (Silo 1)
+	45
+	9/18/2015
+	23C seed after the transfer (Silo 2)
+	46
+	9/18/2015
+	23C seed after the transfer (Silo 3)
+	47
+	9/18/2015
+	23C seed after the transfer (Silo 4)
+	48
+	9/18/2015
+	23C seed after the transfer (Silo 5)
+	49
+	9/18/2015
+	23C seed after the transfer (Silo 6)
+	50
+	9/20/2015
+	23C control seed from Silo 9
+	51
+	9/20/2015
+	29C control seed from Silo 8
+	52
+	9/20/2015
+	23C seed after the transfer (Silo 1)
+	53
+	9/20/2015
+	23C seed after the transfer (Silo 2)
+	54
+	9/20/2015
+	23C seed after the transfer (Silo 3)
+	55
+	9/20/2015
+	23C seed after the transfer (Silo 4)
+	56
+	9/20/2015
+	23C seed after the transfer (Silo 5)
+	57
+	9/20/2015
+	23C seed after the transfer (Silo 6)
+	Table 2. List of sample identifications for proteomic samples.
+
+
+Proteomics methods
+
+
+In December 2015 we decided to extract proteins from Samples 1, 2, 13, and 14. These represent control silos 29C and 23C at Day 5 and Day 8 of the experiment.
+
+
+Cell Lysis
+To digest oyster samples (250µl larvae) and extract proteins, 500ul of 50mM NH4HCO3 + 6M urea was added to each sample and larvae were homogenized using a pestle. Samples were centrifuged at 2000rpm for 5 minutes. Supernatant (150µl) was pipetted from each sample and placed into new tubes. The supernatant samples were sonicated three times each for 5 seconds, cooling samples in between sonication rounds using an ethanol/dry ice bath for 5 seconds.
+
+
+Protein Quantification
+Protein concentrations for each sample must be standardized to add sufficient concentrations of enzymes during the mini-trypsin digestion. After sonication, 11µl of sample was pipetted into a separate tube for protein quantification using the BCA assay (Pierce) kit. For each sample, 22µl of 50mM NH4HCO3 was added to dilute to a total volume of 33µl. Three replicates were created for each sample. For each replicate, 10µl of sample and 200µl of working reagent was added to microplate well. The following eight standards were produced to create a calibration curve for protein concentrations and blank-corrected absorbance at 562nm (Table 2). Three replicates were also made for each of the eight BCA standards and one blank.
+Vial
+	BSA conc. (µg/µl)
+	Vol. lysis buffer (µl)
+	Vol. BSA & dilution (µl)
+	B
+	1.5
+	125
+	375, stock
+	C
+	1
+	325
+	325, stock
+	D
+	0.75
+	175
+	175, B
+	E
+	0.5
+	325
+	325, C
+	F
+	0.25
+	325
+	325, E
+	G
+	0.125
+	325
+	325, F
+	H
+	0.025
+	400
+	100, G
+	I
+	0
+	500
+	N/A
+	Table 3: BCA standards used from the BCA assay kit (Pierce) to create standard dilution curve.
+The microplate was inserted into spectrophotometer which incubated samples for 30 minutes at 37°C, shook the microplate to mix reagents, and measured absorbance of all samples at 562nm. The average absorbance for the Blank Standard replicates was subtracted from the average absorbance of all the other standards and samples to obtain the blank-corrected absorbance. The standard curve was created by plotting average blank-corrected 562nm measurements for each BSA standard vs. known concentration (µg/ml). I added a polynomial trendline and displayed the equation and r-squared value (Figure 1). Because I diluted samples 1:2 with 50mM NH4HCO3 in 6M Urea, I multiplied the calculated protein concentrations by 3. The volume required to obtain 100µg/µl of protein was calculated for each of the samples
+ Untitled.png 
+
+Figure 1: Standard dilution curve for BCA assay kit (Pierce).
+Mini-Trypsin Digestion
+The equivalent of 100ug of protein was aliquoted from each sample into new tubes and diluted with 50mM NH4HCO3 + 6M urea solution to reach final volume of 100ul. I added 6.6µl of 1.5M Tris pH 8.8 and 2.5µl 200mM Tris(2-carboxyethyl)phosphine hydrochloride and vortexed. The pH of samples was tested to make sure samples were still basic (> 7 pH). Sodium hydroxide (5N) was added incrementally in drops until desired pH was achieved. Samples were incubated for one hour at 37°C using a heating block. After incubation, I added 20µl of 200mM iodoacetamide and vortexed. Samples were incubated for one hour at room temperature in the dark. I added 20µl 200mM diothiothreitol and vortexed. Samples were incubated for one hour at room temperature. I added 1.65µl LysC (1:30 enzyme:protein ratio) to each sample and vortexed. Samples were incubated for one hour at room temperature. I added 800µl 25mM NH4HCO3 and 200µl HPLC grade methanol to each sample. I added 3.3ul Trypsin (1:30 enzyme:protein ratio) to each sample and vortexed. Samples were incubated overnight at room temperature. The following day the samples were evaporated using a centrifugal evaporator at 4°C to near dryness. Samples were stored at -80°C.
+
+
+Desalting
+
+
+Samples were reconstituted using 100µl of Solvent B (5% acetonitrile + 0.1% trifluoroacetic acid). The pH of each sample was adjusted to less than 2 using 80µl of 10% formic acid. Macrospin columns were prepared by adding 200µl Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid) to each column. Columns were spun for 2000rpm for three minutes four times. Remaining liquid at the bottom of tube was discarded. Columns were equilibrated by adding 200ul Solvent B to each column. Columns were spun for 2000rpm for three minutes three times. Protein was loaded onto column and spun at 3000rpm for three minutes. The liquid at the bottom of the tube was collected and put back on the column for a second round. The peptides are now in the columns. Salts were washed through column by adding 200µl Solvent B and spinning at 3000 rpm for three minutes three times. Columns were transferred to clean collection tubes. I added 100µl Solvent A, spun at 300 rpm for three minutes two times. This liquid contains the peptides. Samples were evaporated to near dryness at 4°C using a centrifugal evaporator. Peptides were reconstituted in 100µl 3% acetonitrile + 0.1% formic acid and stored at -80°C.
+
+
+Mass Spectrometry and Bioinformatics
+We used shotgun proteomics, a gel-free data-dependent method using high performance liquid chromatography (HPLC) and tandem mass spectrometry (MS/MS) to identify larval mortality protein biomarkers. This technique was pioneered for the application in Pacific oysters in the Roberts lab at the University of Washington and published in Timmins-Schiffman et al 2013 and 2014. Resulting peptides were analyzed using the high resolution and accurate Orbitrap Fusion Lumos (?) Mass Spectrometer at the University of Washington Proteomics Resource.
+Bioinformatics
+DIA SKYLINE
+
+
+
+
+Results
+
+
+Morphology
+
+
+ 2015oystersurvivalDay4.JPG 
+
+ 2015oystersurvival.JPG 
+
+Figure 2. Growth and survival of oyster seed by Day 14 (9/20/15). Percent survival is calculated from the number of seed obtained from each silo at the Day 5 screening. Weighted average screen size is calculated based on the volume of seed obtained for different size classes using Table 1.
+
+
+ 2015oystersizedistribution.JPG 
+
+Figure 3. Size distribution of seed from different silos at Day 14. Number of seed are calculated using information in Table 1.
+
+
+Proteomics
+ 
+Skyline output: https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/skylineoutput_wNA.xlsx
+
+
+
+
+Histology Report:
+https://github.com/RobertsLab/project-pacific.oyster-larvae/tree/master/reports
+        The control 23C silo had an average shell height of 280 um at Day 5 with 0% bacterial infection, 0% invasive protozoans and above average digestive gland quality (32% high, 36% medium, 32% low, and 0% very low). By Day 8 however, the seed had only grown to 283 um shell height and 44% of the seed analyzed for histology were infected with invasive protozoan ciliates. These cultures were considered terminal as a result of the invasive ciliate infection (Elston Histology Report AQ15-101). The control 23C silo at Day 8 had 48% high digestive gland quality, 32% medium, 16% low, and 4% very low condition.
+        At Day 5 the control 29C silo had seed with an average shell height of 322 um with 0% bacterial infection, 0% invasive protozoans and poor digestive gland quality (4% high, 8% medium, 28% low, and 60% very low). By Day 8, the control 29C seed had grown to 773 um shell height and had significantly improved digestive gland quality (44% high, 36% medium, 20% low, and 0% very low condition). No invasive bacterial infections or invasive protozoans were detected for the 29C control seed at Day 8.
+
+
+Discussion
+Although many shellfish growers rear larvae and seed at 23°C, research conducted at the Taylor Shellfish Hatchery suggests rearing oysters at 29°C during the settlement period instead of 23°C results in significantly increased survival. The 23°C treatment resulted in 0% survival from Day 4 to Day 14 and the 29C treatment resulted in 84% survival. Dr. Ralph Elston of Aquatechnics identified invasive orchitophyrid ciliates present in the 23°C treatment and not in the 29°C treatment. Ciliates are motile, single-cell eukaryotic organisms found in the marine environment and are common in histopathology surveys of oysters. The presence of ciliates in larval and early juvenile bivalve cultures has long been documented and associated with mortality events (Davis et al. 1954, Tubiash et al. 1965), however it is much debated in the scientific literature whether ciliates are opportunistic. In Plunkett and Hidu (1978), researchers determined through experimental observation that the ciliate Uronema marinum grew only on bacteria, not living oyster tissue. Documented cases exist of ciliates harming bivalve hosts, although ciliates generally only become abundant during adverse conditions. High densities of ciliates in the mantle or gill may be indicative of physiological stress. Elston et al. (1999) investigated the invasive orchitophyrid ciliate infection of juvenile Pacific oysters and concluded that after the ciliates break the outer lobe of the mantle to gain access to the extrapallial space, the infection was irreversible and resulted in greater than 50% mortality of the stocks. Suggestions included in the study to reduce potential for ciliate invasion include reducing density in holding trays, increasing water flow rate, disinfectant treatments, and water filtration. Moore et. al. 2011 identified ancistrocomid ciliates (morphologically distinct from the orchitophyrid ciliate described in Elston et al. 1999) associated with high mortality of bivalve cultures.
+
+
+
+
+[a]Or maybe a table based on treatmeant
+[b]Create a simple table that describes scenario for each silo
+[c]Per silo?
+[d]Metrc
