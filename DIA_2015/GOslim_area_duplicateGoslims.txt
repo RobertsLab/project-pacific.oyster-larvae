@@ -1,0 +1,951 @@
+Go term	Row Labels	Day 5- 23C (Silo 9)	Day 5- 29C (Silo 8)	Day 8- 23C (Silo 9)	Day 8- 29C (Silo 8)	term	GOSlim_bin	aspect	clean												
+GO:0007017	CGI_10000075	851131472	2960501195	1385155950	3027714140	microtubule-based process	other biological processes	P	1												
+GO:0030286	CGI_10000075	851131472	2960501195	1385155950	3027714140	dynein complex	cytoskeleton	C	1												
+GO:0004332	CGI_10000078	678272733	2165403075	1050269388	1934650023	fructose-bisphosphate aldolase activity	other molecular function	F	1												
+GO:0006096	CGI_10000078	678272733	2165403075	1050269388	1934650023	glycolysis	other metabolic processes	P	1												
+GO:0003735	CGI_10000194	3721806180	7585630403	6189568827	7060130894	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10000194	3721806180	7585630403	6189568827	7060130894	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10000194	3721806180	7585630403	6189568827	7060130894	translation	protein metabolism	P	1												
+GO:0003735	CGI_10000595	1846071734	5578956633	4509999775	5571340672	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10000595	1846071734	5578956633	4509999775	5571340672	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10000595	1846071734	5578956633	4509999775	5571340672	translation	protein metabolism	P	1												
+GO:0005509	CGI_10001245	4659411691	7438693886	4900180845	7439255519	calcium ion binding	other molecular function	F	1												
+GO:0005576	CGI_10001245	4659411691	7438693886	4900180845	7439255519	extracellular region	non-structural extracellular	C	1												
+GO:0007160	CGI_10001245	4659411691	7438693886	4900180845	7439255519	cell-matrix adhesion	cell adhesion	P	1												
+GO:0000166	CGI_10001493	980504068	2715042057	1933502630	1878016983	nucleotide binding	other molecular function	F	1												
+GO:0003735	CGI_10001493	980504068	2715042057	1933502630	1878016983	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10001493	980504068	2715042057	1933502630	1878016983	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10001493	980504068	2715042057	1933502630	1878016983	translation	protein metabolism	P	1												
+GO:0003743	CGI_10001554	826335954	2561394358	2022813538	1787853465	translation initiation factor activity	nucleic acid binding activity	F	1												
+GO:0004386	CGI_10001554	826335954	2561394358	2022813538	1787853465	helicase activity	other molecular function	F	1												
+GO:0005524	CGI_10001554	826335954	2561394358	2022813538	1787853465	ATP binding	other molecular function	F	1												
+GO:0006950	CGI_10001640	381130326	2973439886	1466249964	2832364800	response to stress	stress response	P	1												
+GO:0003774	CGI_10001653	38401711518	76814294679	48614541460	76698767734	motor activity	cytoskeletal activity	F	1												
+GO:0016459	CGI_10001653	38401711518	76814294679	48614541460	76698767734	myosin complex	cytoskeleton	C	1												
+GO:0003735	CGI_10001663	1010548788	3116460688	2525924336	2832786481	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10001663	1010548788	3116460688	2525924336	2832786481	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10001663	1010548788	3116460688	2525924336	2832786481	translation	protein metabolism	P	1												
+GO:0004930	CGI_10001665	1569628439	4989761380	604983622	2625674986	G-protein coupled receptor activity	signal transduction activity	F	1												
+GO:0016021	CGI_10001665	1569628439	4989761380	604983622	2625674986	integral to membrane	other membranes	C	1												
+GO:0004013	CGI_10001705	666859510	2103047489	1691242133	1864657941	adenosylhomocysteinase activity	other molecular function	F	1												
+GO:0006730	CGI_10001705	666859510	2103047489	1691242133	1864657941	one-carbon compound metabolic process	other metabolic processes	P	1												
+GO:0005509	CGI_10001798	8446085140	25117711332	11839000412	22265409546	calcium ion binding	other molecular function	F	1												
+GO:0005783	CGI_10001798	8446085140	25117711332	11839000412	22265409546	endoplasmic reticulum	ER/Golgi	C	1												
+GO:0006457	CGI_10001798	8446085140	25117711332	11839000412	22265409546	protein folding	protein metabolism	P	1												
+GO:0008152	CGI_10002160	490828588	2255457080	1071827570	1767362875	metabolic process	other metabolic processes	P	1												
+GO:0016747	CGI_10002160	490828588	2255457080	1071827570	1767362875	"transferase activity, transferring acyl groups other than amino-acyl groups"	other molecular function	F	1												
+GO:0000502	CGI_10002226	1054518012	2471862115	2229670388	2244217904	proteasome complex	other cellular component	C	1												
+GO:0030234	CGI_10002226	1054518012	2471862115	2229670388	2244217904	enzyme regulator activity	enzyme regulator activity	F	1												
+GO:0042176	CGI_10002226	1054518012	2471862115	2229670388	2244217904	regulation of protein catabolic process	protein metabolism	P	1												
+GO:0004801	CGI_10002311	1111041103	2296619896	1511349287	2458199488	transaldolase activity	other molecular function	F	1												
+GO:0005737	CGI_10002311	1111041103	2296619896	1511349287	2458199488	cytoplasm	other cellular component	C	1												
+GO:0005975	CGI_10002311	1111041103	2296619896	1511349287	2458199488	carbohydrate metabolic process	other metabolic processes	P	1												
+GO:0006098	CGI_10002311	1111041103	2296619896	1511349287	2458199488	pentose-phosphate shunt	other metabolic processes	P	1												
+GO:0005524	CGI_10002375	4427877207	6849195076	5948971466	5129343784	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10002375	4427877207	6849195076	5948971466	5129343784	cytoplasm	other cellular component	C	1												
+GO:0006457	CGI_10002375	4427877207	6849195076	5948971466	5129343784	protein folding	protein metabolism	P	1												
+GO:0003924	CGI_10002454	14765809884	45625401301	25424860289	38765367661	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10002454	14765809884	45625401301	25424860289	38765367661	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10002454	14765809884	45625401301	25424860289	38765367661	GTP binding	other molecular function	F	1												
+GO:0005874	CGI_10002454	14765809884	45625401301	25424860289	38765367661	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10002454	14765809884	45625401301	25424860289	38765367661	microtubule-based process	other biological processes	P	1												
+GO:0003924	CGI_10002455	18380938531	60196530690	33071052294	54173500217	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10002455	18380938531	60196530690	33071052294	54173500217	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10002455	18380938531	60196530690	33071052294	54173500217	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10002455	18380938531	60196530690	33071052294	54173500217	cytoplasm	other cellular component	C	1												
+GO:0005874	CGI_10002455	18380938531	60196530690	33071052294	54173500217	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10002455	18380938531	60196530690	33071052294	54173500217	microtubule-based process	other biological processes	P	1												
+GO:0003924	CGI_10002456	17547029433	67688560141	33521735728	60153614381	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10002456	17547029433	67688560141	33521735728	60153614381	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10002456	17547029433	67688560141	33521735728	60153614381	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10002456	17547029433	67688560141	33521735728	60153614381	cytoplasm	other cellular component	C	1												
+GO:0005874	CGI_10002456	17547029433	67688560141	33521735728	60153614381	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10002456	17547029433	67688560141	33521735728	60153614381	microtubule-based process	other biological processes	P	1												
+GO:0005524	CGI_10002594	1721779663	6188360434	2802851066	5796289255	ATP binding	other molecular function	F	1												
+GO:0003735	CGI_10002919	645846234	2778697030	1764789616	1504104496	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10002919	645846234	2778697030	1764789616	1504104496	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10002919	645846234	2778697030	1764789616	1504104496	translation	protein metabolism	P	1												
+GO:0005509	CGI_10003110	7251343680	17533502744	11385598122	18169446733	calcium ion binding	other molecular function	F	1												
+GO:0004298	CGI_10003170	723489619	3825230947	1120204729	3510720898	threonine-type endopeptidase activity	other molecular function	F	1												
+GO:0005634	CGI_10003170	723489619	3825230947	1120204729	3510720898	nucleus	nucleus	C	1												
+GO:0005737	CGI_10003170	723489619	3825230947	1120204729	3510720898	cytoplasm	other cellular component	C	1												
+GO:0005839	CGI_10003170	723489619	3825230947	1120204729	3510720898	proteasome core complex	other cellular component	C	1												
+GO:0051603	CGI_10003170	723489619	3825230947	1120204729	3510720898	proteolysis involved in cellular protein catabolic process	protein metabolism	P	1												
+GO:0005509	CGI_10003195	809578336	1958871914	1519481465	3584450517	calcium ion binding	other molecular function	F	1												
+GO:0005581	CGI_10003195	809578336	1958871914	1519481465	3584450517	collagen	extracellular matrix	C	1												
+GO:0000049	CGI_10003310	486072555	1433673651	1030508355	2291957178	tRNA binding	nucleic acid binding activity	F	1												
+GO:0004822	CGI_10003310	486072555	1433673651	1030508355	2291957178	isoleucine-tRNA ligase activity	other molecular function	F	1												
+GO:0005524	CGI_10003310	486072555	1433673651	1030508355	2291957178	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10003310	486072555	1433673651	1030508355	2291957178	cytoplasm	other cellular component	C	1												
+GO:0006428	CGI_10003310	486072555	1433673651	1030508355	2291957178	isoleucyl-tRNA aminoacylation	RNA metabolism	P	1												
+GO:0006428	CGI_10003310	486072555	1433673651	1030508355	2291957178	isoleucyl-tRNA aminoacylation	protein metabolism	P	1												
+GO:0016021	CGI_10003310	486072555	1433673651	1030508355	2291957178	integral to membrane	other membranes	C	1												
+GO:0004096	CGI_10003354	1000684809	3296213246	1733023430	2401574276	catalase activity	other molecular function	F	1												
+GO:0006979	CGI_10003354	1000684809	3296213246	1733023430	2401574276	response to oxidative stress	stress response	P	1												
+GO:0020037	CGI_10003354	1000684809	3296213246	1733023430	2401574276	heme binding	other molecular function	F	1												
+GO:0004096	CGI_10003355	732703697	3403984658	1618659658	3326824454	catalase activity	other molecular function	F	1												
+GO:0006979	CGI_10003355	732703697	3403984658	1618659658	3326824454	response to oxidative stress	stress response	P	1												
+GO:0020037	CGI_10003355	732703697	3403984658	1618659658	3326824454	heme binding	other molecular function	F	1												
+GO:0042744	CGI_10003355	732703697	3403984658	1618659658	3326824454	hydrogen peroxide catabolic process	other metabolic processes	P	1												
+GO:0042744	CGI_10003355	732703697	3403984658	1618659658	3326824454	hydrogen peroxide catabolic process	stress response	P	1												
+GO:0046872	CGI_10003355	732703697	3403984658	1618659658	3326824454	metal ion binding	other molecular function	F	1												
+GO:0005524	CGI_10003417	2612518202	14694187908	6292424042	14293448950	ATP binding	other molecular function	F	1												
+GO:0008270	CGI_10003462	1498259249	4123001644	2316566930	4480708998	zinc ion binding	other molecular function	F	1												
+GO:0005524	CGI_10003490	2.11E+11	3.93E+11	2.92E+11	4.06E+11	ATP binding	other molecular function	F	1												
+GO:0005524	CGI_10003491	2.12E+11	4.01E+11	2.96E+11	4.12E+11	ATP binding	other molecular function	F	1												
+GO:0005524	CGI_10003492	2.12E+11	4.15E+11	3.00E+11	4.25E+11	ATP binding	other molecular function	F	1												
+GO:0005525	CGI_10003886	934968007	1742073972	1127156559	1784763964	GTP binding	other molecular function	F	1												
+GO:0031105	CGI_10003886	934968007	1742073972	1127156559	1784763964	septin complex	cytoskeleton	C	1												
+GO:0004129	CGI_10003981	694680943	917104461	1476642171	2695682335	cytochrome-c oxidase activity	transporter activity	F	1												
+GO:0005740	CGI_10003981	694680943	917104461	1476642171	2695682335	mitochondrial envelope	mitochondrion	C	1												
+GO:0005509	CGI_10004058	924565756	2570774840	1839921010	2312256069	calcium ion binding	other molecular function	F	1												
+GO:0006801	CGI_10004092	39278673	3086475580	1993348768	13316379624	superoxide metabolic process	other metabolic processes	P	1												
+GO:0046872	CGI_10004092	39278673	3086475580	1993348768	13316379624	metal ion binding	other molecular function	F	1												
+GO:0055114	CGI_10004092	39278673	3086475580	1993348768	13316379624	oxidation reduction	other metabolic processes	P	1												
+GO:0035091	CGI_10004179	1070385712	1955832243	1215239728	1963681975	phosphoinositide binding	other molecular function	F	1												
+GO:0005524	CGI_10004346	2657332113	4735793264	3794239390	4249235534	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10004346	2657332113	4735793264	3794239390	4249235534	cytoplasm	other cellular component	C	1												
+GO:0006457	CGI_10004346	2657332113	4735793264	3794239390	4249235534	protein folding	protein metabolism	P	1												
+GO:0005524	CGI_10004395	969126140	1664734980	1310233859	1524113101	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10004395	969126140	1664734980	1310233859	1524113101	cytoplasm	other cellular component	C	1												
+GO:0006457	CGI_10004395	969126140	1664734980	1310233859	1524113101	protein folding	protein metabolism	P	1												
+GO:0005509	CGI_10004478	654410929	3518502129	861324458	1765404140	calcium ion binding	other molecular function	F	1												
+GO:0007229	CGI_10004478	654410929	3518502129	861324458	1765404140	integrin-mediated signaling pathway	signal transduction	P	1												
+GO:0000287	CGI_10004564	885830126	2309835577	1370207885	1763808452	magnesium ion binding	other molecular function	F	1												
+GO:0019509	CGI_10004564	885830126	2309835577	1370207885	1763808452	methionine salvage	other metabolic processes	P	1												
+GO:0043874	CGI_10004564	885830126	2309835577	1370207885	1763808452	acireductone synthase activity	other molecular function	F	1												
+GO:0016021	CGI_10004590	548072093	2198258975	1033136613	2664311512	integral to membrane	other membranes	C	1												
+GO:0003777	CGI_10004652	2621767054	3310747018	2840450657	3948346450	microtubule motor activity	cytoskeletal activity	F	1												
+GO:0005524	CGI_10004652	2621767054	3310747018	2840450657	3948346450	ATP binding	other molecular function	F	1												
+GO:0007018	CGI_10004652	2621767054	3310747018	2840450657	3948346450	microtubule-based movement	other biological processes	P	1												
+GO:0016887	CGI_10004652	2621767054	3310747018	2840450657	3948346450	ATPase activity	other molecular function	F	1												
+GO:0030286	CGI_10004652	2621767054	3310747018	2840450657	3948346450	dynein complex	cytoskeleton	C	1												
+GO:0003735	CGI_10004762	4808545835	7723309616	6992723514	7677568155	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10004762	4808545835	7723309616	6992723514	7677568155	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10004762	4808545835	7723309616	6992723514	7677568155	translation	protein metabolism	P	1												
+GO:0046872	CGI_10004762	4808545835	7723309616	6992723514	7677568155	metal ion binding	other molecular function	F	1												
+GO:0005737	CGI_10005185	1392565447	4214195593	2254411938	4883853649	cytoplasm	other cellular component	C	1												
+GO:0016810	CGI_10005185	1392565447	4214195593	2254411938	4883853649	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"	other molecular function	F	1												
+GO:0010968	CGI_10005339	1050065342	2189736574	1198759479	2193573440	regulation of microtubule nucleation	cell organization and biogenesis	P	1												
+GO:0031115	CGI_10005339	1050065342	2189736574	1198759479	2193573440	negative regulation of microtubule polymerization	cell organization and biogenesis	P	1												
+GO:0031115	CGI_10005339	1050065342	2189736574	1198759479	2193573440	negative regulation of microtubule polymerization	protein metabolism	P	1												
+GO:0003777	CGI_10005381	1042010904	2772913511	1404035015	2494494631	microtubule motor activity	cytoskeletal activity	F	1												
+GO:0005524	CGI_10005381	1042010904	2772913511	1404035015	2494494631	ATP binding	other molecular function	F	1												
+GO:0007018	CGI_10005381	1042010904	2772913511	1404035015	2494494631	microtubule-based movement	other biological processes	P	1												
+GO:0016887	CGI_10005381	1042010904	2772913511	1404035015	2494494631	ATPase activity	other molecular function	F	1												
+GO:0030286	CGI_10005381	1042010904	2772913511	1404035015	2494494631	dynein complex	cytoskeleton	C	1												
+GO:0005391	CGI_10005591	11504926615	25502669258	20738569930	25761862552	sodium:potassium-exchanging ATPase activity	transporter activity	F	1												
+GO:0005524	CGI_10005591	11504926615	25502669258	20738569930	25761862552	ATP binding	other molecular function	F	1												
+GO:0016021	CGI_10005591	11504926615	25502669258	20738569930	25761862552	integral to membrane	other membranes	C	1												
+GO:0046872	CGI_10005591	11504926615	25502669258	20738569930	25761862552	metal ion binding	other molecular function	F	1												
+GO:0003824	CGI_10005784	380192550	2786543872	1227338182	3054767153	catalytic activity	other molecular function	F	1												
+GO:0046872	CGI_10005784	380192550	2786543872	1227338182	3054767153	metal ion binding	other molecular function	F	1												
+GO:0004478	CGI_10006000	1974678957	5028938899	4082363112	3973912433	methionine adenosyltransferase activity	other molecular function	F	1												
+GO:0005524	CGI_10006000	1974678957	5028938899	4082363112	3973912433	ATP binding	other molecular function	F	1												
+GO:0006556	CGI_10006000	1974678957	5028938899	4082363112	3973912433	S-adenosylmethionine biosynthetic process	other metabolic processes	P	1												
+GO:0006730	CGI_10006000	1974678957	5028938899	4082363112	3973912433	one-carbon compound metabolic process	other metabolic processes	P	1												
+GO:0046872	CGI_10006000	1974678957	5028938899	4082363112	3973912433	metal ion binding	other molecular function	F	1												
+GO:0016301	CGI_10006022	3596814265	4989377166	3459950380	4501956598	kinase activity	kinase activity	F	1												
+GO:0003676	CGI_10006413	1855863941	4745386963	3213392978	3831234466	nucleic acid binding	nucleic acid binding activity	F	1												
+GO:0004386	CGI_10006413	1855863941	4745386963	3213392978	3831234466	helicase activity	other molecular function	F	1												
+GO:0005524	CGI_10006413	1855863941	4745386963	3213392978	3831234466	ATP binding	other molecular function	F	1												
+GO:0005509	CGI_10006482	3493553995	3578031031	3409492451	3968295620	calcium ion binding	other molecular function	F	1												
+GO:0003735	CGI_10006684	4774826064	9510795766	7622250208	8700674372	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10006684	4774826064	9510795766	7622250208	8700674372	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10006684	4774826064	9510795766	7622250208	8700674372	translation	protein metabolism	P	1												
+GO:0005509	CGI_10006807	4686909124	6650447400	4493944694	5071873467	calcium ion binding	other molecular function	F	1												
+GO:0005198	CGI_10006964	1134893660	1605305299	1232427299	1296140676	structural molecule activity	other molecular function	F	1												
+GO:0006886	CGI_10006964	1134893660	1605305299	1232427299	1296140676	intracellular protein transport	transport	P	1												
+GO:0016192	CGI_10006964	1134893660	1605305299	1232427299	1296140676	vesicle-mediated transport	transport	P	1												
+GO:0030117	CGI_10006964	1134893660	1605305299	1232427299	1296140676	membrane coat	other membranes	C	1												
+GO:0006464	CGI_10007050	1118962708	2493746122	1768210718	2039256004	protein modification process	protein metabolism	P	1												
+GO:0008641	CGI_10007050	1118962708	2493746122	1768210718	2039256004	small protein activating enzyme activity	other molecular function	F	1												
+GO:0005524	CGI_10007057	1458584462	4306418954	2731533461	3537355841	ATP binding	other molecular function	F	1												
+GO:0006464	CGI_10007057	1458584462	4306418954	2731533461	3537355841	protein modification process	protein metabolism	P	1												
+GO:0008641	CGI_10007057	1458584462	4306418954	2731533461	3537355841	small protein activating enzyme activity	other molecular function	F	1												
+GO:0003735	CGI_10007104	2484180972	6044689054	4238929695	5288867287	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10007104	2484180972	6044689054	4238929695	5288867287	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10007104	2484180972	6044689054	4238929695	5288867287	translation	protein metabolism	P	1												
+GO:0008290	CGI_10007483	1152093932	2522164513	1528738820	2144954148	F-actin capping protein complex	cytoskeleton	C	1												
+GO:0051016	CGI_10007483	1152093932	2522164513	1528738820	2144954148	barbed-end actin filament capping	cell organization and biogenesis	P	1												
+GO:0051016	CGI_10007483	1152093932	2522164513	1528738820	2144954148	barbed-end actin filament capping	protein metabolism	P	1												
+GO:0003924	CGI_10007570	19022390542	67212831525	34307761764	59282363152	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10007570	19022390542	67212831525	34307761764	59282363152	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10007570	19022390542	67212831525	34307761764	59282363152	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10007570	19022390542	67212831525	34307761764	59282363152	cytoplasm	other cellular component	C	1												
+GO:0005874	CGI_10007570	19022390542	67212831525	34307761764	59282363152	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10007570	19022390542	67212831525	34307761764	59282363152	microtubule-based process	other biological processes	P	1												
+GO:0004478	CGI_10007643	954695419	2409829336	2294591589	2025340981	methionine adenosyltransferase activity	other molecular function	F	1												
+GO:0005524	CGI_10007643	954695419	2409829336	2294591589	2025340981	ATP binding	other molecular function	F	1												
+GO:0006556	CGI_10007643	954695419	2409829336	2294591589	2025340981	S-adenosylmethionine biosynthetic process	other metabolic processes	P	1												
+GO:0006730	CGI_10007643	954695419	2409829336	2294591589	2025340981	one-carbon compound metabolic process	other metabolic processes	P	1												
+GO:0046872	CGI_10007643	954695419	2409829336	2294591589	2025340981	metal ion binding	other molecular function	F	1												
+GO:0003857	CGI_10007699	333426392	2158199060	702111253	2122482777	3-hydroxyacyl-CoA dehydrogenase activity	other molecular function	F	1												
+GO:0006631	CGI_10007699	333426392	2158199060	702111253	2122482777	fatty acid metabolic process	other metabolic processes	P	1												
+GO:0070403	CGI_10007699	333426392	2158199060	702111253	2122482777	NAD binding	other molecular function	F	1												
+GO:0003735	CGI_10007702	3293396056	6568453814	5449613106	6527077539	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10007702	3293396056	6568453814	5449613106	6527077539	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10007702	3293396056	6568453814	5449613106	6527077539	translation	protein metabolism	P	1												
+GO:0004347	CGI_10007733	1175524255	2734032480	2003915368	2668653503	glucose-6-phosphate isomerase activity	other molecular function	F	1												
+GO:0006094	CGI_10007733	1175524255	2734032480	2003915368	2668653503	gluconeogenesis	other metabolic processes	P	1												
+GO:0006096	CGI_10007733	1175524255	2734032480	2003915368	2668653503	glycolysis	other metabolic processes	P	1												
+GO:0008152	CGI_10007751	963142796	2484834317	2088217134	2268973593	metabolic process	other metabolic processes	P	1												
+GO:0070569	CGI_10007751	963142796	2484834317	2088217134	2268973593	uridylyltransferase activity	other molecular function	F	1												
+GO:0003735	CGI_10007757	1662149957	4914468178	2932438537	3359781417	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10007757	1662149957	4914468178	2932438537	3359781417	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10007757	1662149957	4914468178	2932438537	3359781417	translation	protein metabolism	P	1												
+GO:0006464	CGI_10007774	391116450	1994804334	1065773400	1806892179	protein modification process	protein metabolism	P	1												
+GO:0008641	CGI_10007774	391116450	1994804334	1065773400	1806892179	small protein activating enzyme activity	other molecular function	F	1												
+GO:0005044	CGI_10007812	1268562406	5454131899	2092465986	5480281475	scavenger receptor activity	signal transduction activity	F	1												
+GO:0016020	CGI_10007812	1268562406	5454131899	2092465986	5480281475	membrane	other membranes	C	1												
+GO:0003735	CGI_10007986	491530607	2550411168	1169632989	2050054397	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10007986	491530607	2550411168	1169632989	2050054397	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10007986	491530607	2550411168	1169632989	2050054397	translation	protein metabolism	P	1												
+GO:0000786	CGI_10008057	970931675	4773634402	1937142177	5262550367	nucleosome	other cellular component	C	1												
+GO:0003677	CGI_10008057	970931675	4773634402	1937142177	5262550367	DNA binding	nucleic acid binding activity	F	1												
+GO:0005634	CGI_10008057	970931675	4773634402	1937142177	5262550367	nucleus	nucleus	C	1												
+GO:0003924	CGI_10008247	13361508498	47243720009	21555817254	41664199086	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10008247	13361508498	47243720009	21555817254	41664199086	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10008247	13361508498	47243720009	21555817254	41664199086	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10008247	13361508498	47243720009	21555817254	41664199086	cytoplasm	other cellular component	C	1												
+GO:0005874	CGI_10008247	13361508498	47243720009	21555817254	41664199086	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10008247	13361508498	47243720009	21555817254	41664199086	microtubule-based process	other biological processes	P	1												
+GO:0005623	CGI_10008332	592748313	2831692938	927741867	2267509009	cell	other cellular component	C	1												
+GO:0016853	CGI_10008332	592748313	2831692938	927741867	2267509009	isomerase activity	other molecular function	F	1												
+GO:0045454	CGI_10008332	592748313	2831692938	927741867	2267509009	cell redox homeostasis	other biological processes	P	1												
+GO:0006950	CGI_10008390	1250669037	5215593049	2592403473	5701237929	response to stress	stress response	P	1												
+GO:0005581	CGI_10008455	1958934117	4867155819	2584628697	4725703132	collagen	extracellular matrix	C	1												
+GO:0003735	CGI_10008493	963428576	2148195316	983924404	1537957242	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10008493	963428576	2148195316	983924404	1537957242	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10008493	963428576	2148195316	983924404	1537957242	translation	protein metabolism	P	1												
+GO:0016829	CGI_10008531	2115410423	4736876475	2923867528	4470789521	lyase activity	other molecular function	F	1												
+GO:0030170	CGI_10008531	2115410423	4736876475	2923867528	4470789521	pyridoxal phosphate binding	other molecular function	F	1												
+GO:0003924	CGI_10008567	6838444398	16142637107	8435731796	18165784104	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10008567	6838444398	16142637107	8435731796	18165784104	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10008567	6838444398	16142637107	8435731796	18165784104	GTP binding	other molecular function	F	1												
+GO:0005874	CGI_10008567	6838444398	16142637107	8435731796	18165784104	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10008567	6838444398	16142637107	8435731796	18165784104	microtubule-based process	other biological processes	P	1												
+GO:0003774	CGI_10008717	3768379329	9445127259	6517037768	9776615101	motor activity	cytoskeletal activity	F	1												
+GO:0005524	CGI_10008717	3768379329	9445127259	6517037768	9776615101	ATP binding	other molecular function	F	1												
+GO:0016459	CGI_10008717	3768379329	9445127259	6517037768	9776615101	myosin complex	cytoskeleton	C	1												
+GO:0005741	CGI_10008722	2922849502	9252165856	4675849796	9178477206	mitochondrial outer membrane	mitochondrion	C	1												
+GO:0005741	CGI_10008722	2922849502	9252165856	4675849796	9178477206	mitochondrial outer membrane	other membranes	C	1												
+GO:0008308	CGI_10008722	2922849502	9252165856	4675849796	9178477206	voltage-gated anion channel activity	transporter activity	F	1												
+GO:0016021	CGI_10008722	2922849502	9252165856	4675849796	9178477206	integral to membrane	other membranes	C	1												
+GO:0005524	CGI_10008834	4310838916	13358686970	5339928452	11180770779	ATP binding	other molecular function	F	1												
+GO:0005509	CGI_10008850	584409943	2071569557	548508020	2340646048	calcium ion binding	other molecular function	F	1												
+GO:0004089	CGI_10009059	776106239	2287541148	1755037328	3460730173	carbonate dehydratase activity	other molecular function	F	1												
+GO:0006730	CGI_10009059	776106239	2287541148	1755037328	3460730173	one-carbon compound metabolic process	other metabolic processes	P	1												
+GO:0008270	CGI_10009059	776106239	2287541148	1755037328	3460730173	zinc ion binding	other molecular function	F	1												
+GO:0003735	CGI_10009164	1846071734	5578956633	4509999775	5571340672	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10009164	1846071734	5578956633	4509999775	5571340672	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10009164	1846071734	5578956633	4509999775	5571340672	translation	protein metabolism	P	1												
+GO:0000166	CGI_10009395	1899016256	4105560954	3165191766	3519499037	nucleotide binding	other molecular function	F	1												
+GO:0003723	CGI_10009395	1899016256	4105560954	3165191766	3519499037	RNA binding	nucleic acid binding activity	F	1												
+GO:0005737	CGI_10009395	1899016256	4105560954	3165191766	3519499037	cytoplasm	other cellular component	C	1												
+GO:0003735	CGI_10009651	957845287	1972264187	1394479051	1540834022	structural constituent of ribosome	other molecular function	F	1												
+GO:0006412	CGI_10009651	957845287	1972264187	1394479051	1540834022	translation	protein metabolism	P	1												
+GO:0015935	CGI_10009651	957845287	1972264187	1394479051	1540834022	small ribosomal subunit	translational apparatus	C	1												
+GO:0003746	CGI_10009719	984898793	2522617919	1773217586	2825002641	translation elongation factor activity	nucleic acid binding activity	F	1												
+GO:0003924	CGI_10009719	984898793	2522617919	1773217586	2825002641	GTPase activity	other molecular function	F	1												
+GO:0005525	CGI_10009719	984898793	2522617919	1773217586	2825002641	GTP binding	other molecular function	F	1												
+GO:0005623	CGI_10009812	648298390	3049354044	1441986949	2340313911	cell	other cellular component	C	1												
+GO:0045454	CGI_10009812	648298390	3049354044	1441986949	2340313911	cell redox homeostasis	other biological processes	P	1												
+GO:0003735	CGI_10009876	3819325580	7583568489	6641877021	7642803987	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10009876	3819325580	7583568489	6641877021	7642803987	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10009876	3819325580	7583568489	6641877021	7642803987	translation	protein metabolism	P	1												
+GO:0004017	CGI_10010021	803722432	2533974862	1730354866	2447970610	adenylate kinase activity	kinase activity	F	1												
+GO:0005524	CGI_10010021	803722432	2533974862	1730354866	2447970610	ATP binding	other molecular function	F	1												
+GO:0005758	CGI_10010021	803722432	2533974862	1730354866	2447970610	mitochondrial intermembrane space	mitochondrion	C	1												
+GO:0005829	CGI_10010021	803722432	2533974862	1730354866	2447970610	cytosol	cytosol	C	1												
+GO:0006172	CGI_10010021	803722432	2533974862	1730354866	2447970610	ADP biosynthetic process	other metabolic processes	P	1												
+GO:0046033	CGI_10010021	803722432	2533974862	1730354866	2447970610	AMP metabolic process	other metabolic processes	P	1												
+GO:0046034	CGI_10010021	803722432	2533974862	1730354866	2447970610	ATP metabolic process	other metabolic processes	P	1												
+GO:0004611	CGI_10010066	865678186	1863421656	1237887243	1523736137	phosphoenolpyruvate carboxykinase activity	other molecular function	F	1												
+GO:0005525	CGI_10010066	865678186	1863421656	1237887243	1523736137	GTP binding	other molecular function	F	1												
+GO:0006094	CGI_10010066	865678186	1863421656	1237887243	1523736137	gluconeogenesis	other metabolic processes	P	1												
+GO:0016301	CGI_10010066	865678186	1863421656	1237887243	1523736137	kinase activity	kinase activity	F	1												
+GO:0003924	CGI_10010163	17929389371	93094280515	40724190228	83891073124	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10010163	17929389371	93094280515	40724190228	83891073124	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10010163	17929389371	93094280515	40724190228	83891073124	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10010163	17929389371	93094280515	40724190228	83891073124	cytoplasm	other cellular component	C	1												
+GO:0005874	CGI_10010163	17929389371	93094280515	40724190228	83891073124	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10010163	17929389371	93094280515	40724190228	83891073124	microtubule-based process	other biological processes	P	1												
+GO:0008234	CGI_10010480	1179715508	2056098643	1448126088	1680830392	cysteine-type peptidase activity	other molecular function	F	1												
+GO:0016021	CGI_10010480	1179715508	2056098643	1448126088	1680830392	integral to membrane	other membranes	C	1												
+GO:0003735	CGI_10010529	2302221461	8475559255	5100351571	6766911778	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10010529	2302221461	8475559255	5100351571	6766911778	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10010529	2302221461	8475559255	5100351571	6766911778	translation	protein metabolism	P	1												
+GO:0004630	CGI_10010622	2166375234	4251977848	3044975700	3587418852	phospholipase D activity	other molecular function	F	1												
+GO:0005622	CGI_10010622	2166375234	4251977848	3044975700	3587418852	intracellular	other cellular component	C	1												
+GO:0006654	CGI_10010622	2166375234	4251977848	3044975700	3587418852	phosphatidic acid biosynthetic process	other metabolic processes	P	1												
+GO:0035091	CGI_10010622	2166375234	4251977848	3044975700	3587418852	phosphoinositide binding	other molecular function	F	1												
+GO:0048017	CGI_10010622	2166375234	4251977848	3044975700	3587418852	inositol lipid-mediated signaling	signal transduction	P	1												
+GO:0005524	CGI_10010646	1721779663	6188360434	2802851066	5796289255	ATP binding	other molecular function	F	1												
+GO:0005524	CGI_10010647	1721779663	6188360434	2802851066	5796289255	ATP binding	other molecular function	F	1												
+GO:0005840	CGI_10010682	2201243891	7919928172	6044899654	6512867735	ribosome	translational apparatus	C	1												
+GO:0042254	CGI_10010682	2201243891	7919928172	6044899654	6512867735	ribosome biogenesis	other biological processes	P	1												
+GO:0008641	CGI_10010841	1106801353	2122174338	1769339552	1973238883	small protein activating enzyme activity	other molecular function	F	1												
+GO:0005198	CGI_10010873	18910484062	40023402401	28978325512	48122337867	structural molecule activity	other molecular function	F	1												
+GO:0005882	CGI_10010873	18910484062	40023402401	28978325512	48122337867	intermediate filament	cytoskeleton	C	1												
+GO:0005576	CGI_10010936	758622240	1457606816	1424594544	1777647799	extracellular region	non-structural extracellular	C	1												
+GO:0005581	CGI_10010936	758622240	1457606816	1424594544	1777647799	collagen	extracellular matrix	C	1												
+GO:0006030	CGI_10010936	758622240	1457606816	1424594544	1777647799	chitin metabolic process	other metabolic processes	P	1												
+GO:0008061	CGI_10010936	758622240	1457606816	1424594544	1777647799	chitin binding	other molecular function	F	1												
+GO:0004365	CGI_10010974	10171122142	33982737087	19896956095	34165004335	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) activity	other molecular function	F	1												
+GO:0006006	CGI_10010974	10171122142	33982737087	19896956095	34165004335	glucose metabolic process	other metabolic processes	P	1												
+GO:0006096	CGI_10010974	10171122142	33982737087	19896956095	34165004335	glycolysis	other metabolic processes	P	1												
+GO:0050661	CGI_10010974	10171122142	33982737087	19896956095	34165004335	NADP or NADPH binding	other molecular function	F	1												
+GO:0051287	CGI_10010974	10171122142	33982737087	19896956095	34165004335	NAD or NADH binding	other molecular function	F	1												
+GO:0005509	CGI_10011029	3929517507	14276228412	6697181800	13144331058	calcium ion binding	other molecular function	F	1												
+GO:0007156	CGI_10011029	3929517507	14276228412	6697181800	13144331058	homophilic cell adhesion	cell adhesion	P	1												
+GO:0016021	CGI_10011029	3929517507	14276228412	6697181800	13144331058	integral to membrane	other membranes	C	1												
+GO:0005524	CGI_10011081	5537594461	25560619916	10624386010	20941273319	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10011081	5537594461	25560619916	10624386010	20941273319	cytoplasm	other cellular component	C	1												
+GO:0042026	CGI_10011081	5537594461	25560619916	10624386010	20941273319	protein refolding	protein metabolism	P	1												
+GO:0003735	CGI_10011113	1244460553	1928352733	1592688089	1743903261	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10011113	1244460553	1928352733	1592688089	1743903261	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10011113	1244460553	1928352733	1592688089	1743903261	translation	protein metabolism	P	1												
+GO:0019843	CGI_10011113	1244460553	1928352733	1592688089	1743903261	rRNA binding	nucleic acid binding activity	F	1												
+GO:0016021	CGI_10011187	2150543196	3871429084	2871466419	3201458836	integral to membrane	other membranes	C	1												
+GO:0022857	CGI_10011187	2150543196	3871429084	2871466419	3201458836	transmembrane transporter activity	transporter activity	F	1												
+GO:0009055	CGI_10011511	1256922331	2867682843	1889384697	2851339100	electron carrier activity	other molecular function	F	1												
+GO:0003735	CGI_10011577	10919265018	17536599781	15671646883	14507642218	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10011577	10919265018	17536599781	15671646883	14507642218	ribosome	translational apparatus	C	1												
+GO:0006414	CGI_10011577	10919265018	17536599781	15671646883	14507642218	translational elongation	protein metabolism	P	1												
+GO:0003756	CGI_10011652	6931918878	19080154799	9562560885	16878195973	protein disulfide isomerase activity	other molecular function	F	1												
+GO:0005783	CGI_10011652	6931918878	19080154799	9562560885	16878195973	endoplasmic reticulum	ER/Golgi	C	1												
+GO:0045454	CGI_10011652	6931918878	19080154799	9562560885	16878195973	cell redox homeostasis	other biological processes	P	1												
+GO:0008483	CGI_10011934	728165516	2257805728	1241364968	1722754905	transaminase activity	other molecular function	F	1												
+GO:0030170	CGI_10011934	728165516	2257805728	1241364968	1722754905	pyridoxal phosphate binding	other molecular function	F	1												
+GO:0001726	CGI_10011964	830038898	1621362137	1298922609	1919896172	ruffle	other cellular component	C	1												
+GO:0005200	CGI_10011964	830038898	1621362137	1298922609	1919896172	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005856	CGI_10011964	830038898	1621362137	1298922609	1919896172	cytoskeleton	cytoskeleton	C	1												
+GO:0005925	CGI_10011964	830038898	1621362137	1298922609	1919896172	focal adhesion	other membranes	C	1												
+GO:0005925	CGI_10011964	830038898	1621362137	1298922609	1919896172	focal adhesion	plasma membrane	C	1												
+GO:0007016	CGI_10011964	830038898	1621362137	1298922609	1919896172	cytoskeletal anchoring at plasma membrane	cell organization and biogenesis	P	1												
+GO:0005509	CGI_10012156	1793115201	1763041006	1360495519	1769467054	calcium ion binding	other molecular function	F	1												
+GO:0003924	CGI_10012330	21213869688	1.10E+11	46899929437	99810529478	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10012330	21213869688	1.10E+11	46899929437	99810529478	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10012330	21213869688	1.10E+11	46899929437	99810529478	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10012330	21213869688	1.10E+11	46899929437	99810529478	cytoplasm	other cellular component	C	1												
+GO:0005874	CGI_10012330	21213869688	1.10E+11	46899929437	99810529478	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10012330	21213869688	1.10E+11	46899929437	99810529478	microtubule-based process	other biological processes	P	1												
+GO:0005576	CGI_10012352	501456017	2737016872	1053980058	2091296099	extracellular region	non-structural extracellular	C	1												
+GO:0006030	CGI_10012352	501456017	2737016872	1053980058	2091296099	chitin metabolic process	other metabolic processes	P	1												
+GO:0008061	CGI_10012352	501456017	2737016872	1053980058	2091296099	chitin binding	other molecular function	F	1												
+GO:0005576	CGI_10012353	773629744	3105313292	2070546998	2390216732	extracellular region	non-structural extracellular	C	1												
+GO:0006030	CGI_10012353	773629744	3105313292	2070546998	2390216732	chitin metabolic process	other metabolic processes	P	1												
+GO:0008061	CGI_10012353	773629744	3105313292	2070546998	2390216732	chitin binding	other molecular function	F	1												
+GO:0006464	CGI_10012452	1139979991	2100178877	1700245264	1929419078	protein modification process	protein metabolism	P	1												
+GO:0008641	CGI_10012452	1139979991	2100178877	1700245264	1929419078	small protein activating enzyme activity	other molecular function	F	1												
+GO:0003746	CGI_10012474	26888918944	83367502186	47673143015	64219540051	translation elongation factor activity	nucleic acid binding activity	F	1												
+GO:0003924	CGI_10012474	26888918944	83367502186	47673143015	64219540051	GTPase activity	other molecular function	F	1												
+GO:0005525	CGI_10012474	26888918944	83367502186	47673143015	64219540051	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10012474	26888918944	83367502186	47673143015	64219540051	cytoplasm	other cellular component	C	1												
+GO:0005739	CGI_10012574	1032142341	2026755338	1665658649	3056496498	mitochondrion	mitochondrion	C	1												
+GO:0009055	CGI_10012574	1032142341	2026755338	1665658649	3056496498	electron carrier activity	other molecular function	F	1												
+GO:0020037	CGI_10012574	1032142341	2026755338	1665658649	3056496498	heme binding	other molecular function	F	1												
+GO:0046872	CGI_10012574	1032142341	2026755338	1665658649	3056496498	metal ion binding	other molecular function	F	1												
+GO:0055114	CGI_10012574	1032142341	2026755338	1665658649	3056496498	oxidation reduction	other metabolic processes	P	1												
+GO:0070469	CGI_10012574	1032142341	2026755338	1665658649	3056496498	respiratory chain	other membranes	C	1												
+GO:0000287	CGI_10012610	8443771862	23554720626	14590892789	25855185453	magnesium ion binding	other molecular function	F	1												
+GO:0004450	CGI_10012610	8443771862	23554720626	14590892789	25855185453	isocitrate dehydrogenase (NADP+) activity	other molecular function	F	1												
+GO:0006099	CGI_10012610	8443771862	23554720626	14590892789	25855185453	tricarboxylic acid cycle	other metabolic processes	P	1												
+GO:0006102	CGI_10012610	8443771862	23554720626	14590892789	25855185453	isocitrate metabolic process	other metabolic processes	P	1												
+GO:0051287	CGI_10012610	8443771862	23554720626	14590892789	25855185453	NAD or NADH binding	other molecular function	F	1												
+GO:0016620	CGI_10012671	742065584	4087773450	2286299089	5265252417	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	other molecular function	F	1												
+GO:0008270	CGI_10012729	2238661054	3896812163	3770540972	3315806290	zinc ion binding	other molecular function	F	1												
+GO:0008483	CGI_10012828	728161487	2010974056	1179657977	1559079449	transaminase activity	other molecular function	F	1												
+GO:0030170	CGI_10012828	728161487	2010974056	1179657977	1559079449	pyridoxal phosphate binding	other molecular function	F	1												
+GO:0006810	CGI_10012871	1318393270	2673913504	2259964945	3052420859	transport	transport	P	1												
+GO:0016021	CGI_10012871	1318393270	2673913504	2259964945	3052420859	integral to membrane	other membranes	C	1												
+GO:0004129	CGI_10012919	367746430	3541492762	1484395641	3670546174	cytochrome-c oxidase activity	transporter activity	F	1												
+GO:0005739	CGI_10012919	367746430	3541492762	1484395641	3670546174	mitochondrion	mitochondrion	C	1												
+GO:0005743	CGI_10012951	1073654432	1347452468	1557165912	1341109303	mitochondrial inner membrane	mitochondrion	C	1												
+GO:0005743	CGI_10012951	1073654432	1347452468	1557165912	1341109303	mitochondrial inner membrane	other membranes	C	1												
+GO:0008137	CGI_10012951	1073654432	1347452468	1557165912	1341109303	NADH dehydrogenase (ubiquinone) activity	other molecular function	F	1												
+GO:0042773	CGI_10012951	1073654432	1347452468	1557165912	1341109303	ATP synthesis coupled electron transport	other metabolic processes	P	1												
+GO:0003735	CGI_10013084	3603622832	6019092522	4272613652	4323041720	structural constituent of ribosome	other molecular function	F	1												
+GO:0006412	CGI_10013084	3603622832	6019092522	4272613652	4323041720	translation	protein metabolism	P	1												
+GO:0015934	CGI_10013084	3603622832	6019092522	4272613652	4323041720	large ribosomal subunit	translational apparatus	C	1												
+GO:0016616	CGI_10013115	547763641	1601788163	1551533208	1862052910	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	other molecular function	F	1												
+GO:0051287	CGI_10013115	547763641	1601788163	1551533208	1862052910	NAD or NADH binding	other molecular function	F	1												
+GO:0003950	CGI_10013249	36681260258	68277969734	52337802123	71887119794	NAD+ ADP-ribosyltransferase activity	other molecular function	F	1												
+GO:0006471	CGI_10013249	36681260258	68277969734	52337802123	71887119794	protein amino acid ADP-ribosylation	protein metabolism	P	1												
+GO:0005509	CGI_10013291	286814472	2805521151	1085339420	3042796321	calcium ion binding	other molecular function	F	1												
+GO:0005576	CGI_10013291	286814472	2805521151	1085339420	3042796321	extracellular region	non-structural extracellular	C	1												
+GO:0007160	CGI_10013291	286814472	2805521151	1085339420	3042796321	cell-matrix adhesion	cell adhesion	P	1												
+GO:0005509	CGI_10013293	3690513124	9033228538	5696316301	9637288018	calcium ion binding	other molecular function	F	1												
+GO:0005576	CGI_10013293	3690513124	9033228538	5696316301	9637288018	extracellular region	non-structural extracellular	C	1												
+GO:0007160	CGI_10013293	3690513124	9033228538	5696316301	9637288018	cell-matrix adhesion	cell adhesion	P	1												
+GO:0005524	CGI_10013347	11739760930	31689669112	21142757623	30889138600	ATP binding	other molecular function	F	1												
+GO:0015986	CGI_10013347	11739760930	31689669112	21142757623	30889138600	ATP synthesis coupled proton transport	other metabolic processes	P	1												
+GO:0015986	CGI_10013347	11739760930	31689669112	21142757623	30889138600	ATP synthesis coupled proton transport	transport	P	1												
+GO:0015991	CGI_10013347	11739760930	31689669112	21142757623	30889138600	ATP hydrolysis coupled proton transport	transport	P	1												
+GO:0045261	CGI_10013347	11739760930	31689669112	21142757623	30889138600	"proton-transporting ATP synthase complex, catalytic core F(1)"	other membranes	C	1												
+GO:0046933	CGI_10013347	11739760930	31689669112	21142757623	30889138600	"hydrogen ion transporting ATP synthase activity, rotational mechanism"	transporter activity	F	1												
+GO:0005524	CGI_10013567	1059734981	2838295536	2155850137	2379967452	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10013567	1059734981	2838295536	2155850137	2379967452	cytoplasm	other cellular component	C	1												
+GO:0006457	CGI_10013567	1059734981	2838295536	2155850137	2379967452	protein folding	protein metabolism	P	1												
+GO:0004869	CGI_10013578	1245963019	1592259938	1591360743	1022971277	cysteine-type endopeptidase inhibitor activity	enzyme regulator activity	F	1												
+GO:0005622	CGI_10013578	1245963019	1592259938	1591360743	1022971277	intracellular	other cellular component	C	1												
+GO:0005200	CGI_10013845	2338707320	4823367846	3775345656	5080136774	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005543	CGI_10013845	2338707320	4823367846	3775345656	5080136774	phospholipid binding	other molecular function	F	1												
+GO:0008091	CGI_10013845	2338707320	4823367846	3775345656	5080136774	spectrin	cytoskeleton	C	1												
+GO:0003755	CGI_10013880	3264211722	12792208196	5648533487	11107209204	peptidyl-prolyl cis-trans isomerase activity	other molecular function	F	1												
+GO:0006457	CGI_10013880	3264211722	12792208196	5648533487	11107209204	protein folding	protein metabolism	P	1												
+GO:0004721	CGI_10013946	931137822	2434512032	1894692937	2799810066	phosphoprotein phosphatase activity	other molecular function	F	1												
+GO:0046872	CGI_10013946	931137822	2434512032	1894692937	2799810066	metal ion binding	other molecular function	F	1												
+GO:0006520	CGI_10014092	1240865903	2337427525	1906583410	2063976552	cellular amino acid metabolic process	other metabolic processes	P	1												
+GO:0008483	CGI_10014092	1240865903	2337427525	1906583410	2063976552	transaminase activity	other molecular function	F	1												
+GO:0009058	CGI_10014092	1240865903	2337427525	1906583410	2063976552	biosynthetic process	other metabolic processes	P	1												
+GO:0030170	CGI_10014092	1240865903	2337427525	1906583410	2063976552	pyridoxal phosphate binding	other molecular function	F	1												
+GO:0005524	CGI_10014151	814565333	1846347558	2133042508	1792447636	ATP binding	other molecular function	F	1												
+GO:0015991	CGI_10014151	814565333	1846347558	2133042508	1792447636	ATP hydrolysis coupled proton transport	transport	P	1												
+GO:0033180	CGI_10014151	814565333	1846347558	2133042508	1792447636	"proton-transporting V-type ATPase, V1 domain"	other membranes	C	1												
+GO:0046034	CGI_10014151	814565333	1846347558	2133042508	1792447636	ATP metabolic process	other metabolic processes	P	1												
+GO:0046961	CGI_10014151	814565333	1846347558	2133042508	1792447636	"proton-transporting ATPase activity, rotational mechanism"	transporter activity	F	1												
+GO:0008483	CGI_10014208	658523366	1921047364	1155072912	2004758435	transaminase activity	other molecular function	F	1												
+GO:0009058	CGI_10014208	658523366	1921047364	1155072912	2004758435	biosynthetic process	other metabolic processes	P	1												
+GO:0030170	CGI_10014208	658523366	1921047364	1155072912	2004758435	pyridoxal phosphate binding	other molecular function	F	1												
+GO:0016491	CGI_10014226	1907915373	6706221481	4727825887	6201766932	oxidoreductase activity	other molecular function	F	1												
+GO:0016021	CGI_10014243	1490084534	3063248235	1728110890	2710967020	integral to membrane	other membranes	C	1												
+GO:0009058	CGI_10014314	1164219270	2721284763	1763919421	3041869769	biosynthetic process	other metabolic processes	P	1												
+GO:0016567	CGI_10014314	1164219270	2721284763	1763919421	3041869769	protein ubiquitination	protein metabolism	P	1												
+GO:0016620	CGI_10014314	1164219270	2721284763	1763919421	3041869769	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	other molecular function	F	1												
+GO:0016742	CGI_10014314	1164219270	2721284763	1763919421	3041869769	"hydroxymethyl-, formyl- and related transferase activity"	other molecular function	F	1												
+GO:0000166	CGI_10014767	2631740244	3863403609	3667042417	3218914131	nucleotide binding	other molecular function	F	1												
+GO:0003735	CGI_10014767	2631740244	3863403609	3667042417	3218914131	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10014767	2631740244	3863403609	3667042417	3218914131	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10014767	2631740244	3863403609	3667042417	3218914131	translation	protein metabolism	P	1												
+GO:0004613	CGI_10014915	1160271786	1773430532	1095808370	1192941073	phosphoenolpyruvate carboxykinase (GTP) activity	other molecular function	F	1												
+GO:0005525	CGI_10014915	1160271786	1773430532	1095808370	1192941073	GTP binding	other molecular function	F	1												
+GO:0006094	CGI_10014915	1160271786	1773430532	1095808370	1192941073	gluconeogenesis	other metabolic processes	P	1												
+GO:0016301	CGI_10014915	1160271786	1773430532	1095808370	1192941073	kinase activity	kinase activity	F	1												
+GO:0004613	CGI_10014916	3197692931	9405117701	5854395423	7893673105	phosphoenolpyruvate carboxykinase (GTP) activity	other molecular function	F	1												
+GO:0005525	CGI_10014916	3197692931	9405117701	5854395423	7893673105	GTP binding	other molecular function	F	1												
+GO:0006094	CGI_10014916	3197692931	9405117701	5854395423	7893673105	gluconeogenesis	other metabolic processes	P	1												
+GO:0016301	CGI_10014916	3197692931	9405117701	5854395423	7893673105	kinase activity	kinase activity	F	1												
+GO:0005975	CGI_10015004	1223108091	7586431253	3366769016	8216682912	carbohydrate metabolic process	other metabolic processes	P	1												
+GO:0006108	CGI_10015004	1223108091	7586431253	3366769016	8216682912	malate metabolic process	other metabolic processes	P	1												
+GO:0030060	CGI_10015004	1223108091	7586431253	3366769016	8216682912	L-malate dehydrogenase activity	other molecular function	F	1												
+GO:0007099	CGI_10015025	854828776	1942833130	868038628	1632654859	centriole replication	cell cycle and proliferation	P	1												
+GO:0007099	CGI_10015025	854828776	1942833130	868038628	1632654859	centriole replication	cell organization and biogenesis	P	1												
+GO:0010457	CGI_10015025	854828776	1942833130	868038628	1632654859	centriole-centriole cohesion	cell organization and biogenesis	P	1												
+GO:0005524	CGI_10015118	447562968	1990458964	1389951533	1970700450	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10015118	447562968	1990458964	1389951533	1970700450	cytoplasm	other cellular component	C	1												
+GO:0006457	CGI_10015118	447562968	1990458964	1389951533	1970700450	protein folding	protein metabolism	P	1												
+GO:0005524	CGI_10015152	3143171539	7614779284	5749224735	7551270377	ATP binding	other molecular function	F	1												
+GO:0016787	CGI_10015152	3143171539	7614779284	5749224735	7551270377	hydrolase activity	other molecular function	F	1												
+GO:0004222	CGI_10015155	859366222	1947493131	1485328026	2012398477	metalloendopeptidase activity	other molecular function	F	1												
+GO:0046872	CGI_10015155	859366222	1947493131	1485328026	2012398477	metal ion binding	other molecular function	F	1												
+GO:0003735	CGI_10015200	10919265018	17536599781	15671646883	14507642218	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10015200	10919265018	17536599781	15671646883	14507642218	ribosome	translational apparatus	C	1												
+GO:0006414	CGI_10015200	10919265018	17536599781	15671646883	14507642218	translational elongation	protein metabolism	P	1												
+GO:0005198	CGI_10015202	6758774476	17227555580	11291688156	15470598131	structural molecule activity	other molecular function	F	1												
+GO:0006886	CGI_10015202	6758774476	17227555580	11291688156	15470598131	intracellular protein transport	transport	P	1												
+GO:0016192	CGI_10015202	6758774476	17227555580	11291688156	15470598131	vesicle-mediated transport	transport	P	1												
+GO:0030130	CGI_10015202	6758774476	17227555580	11291688156	15470598131	clathrin coat of trans-Golgi network vesicle	ER/Golgi	C	1												
+GO:0030130	CGI_10015202	6758774476	17227555580	11291688156	15470598131	clathrin coat of trans-Golgi network vesicle	other membranes	C	1												
+GO:0030132	CGI_10015202	6758774476	17227555580	11291688156	15470598131	clathrin coat of coated pit	other membranes	C	1												
+GO:0030132	CGI_10015202	6758774476	17227555580	11291688156	15470598131	clathrin coat of coated pit	plasma membrane	C	1												
+GO:0005198	CGI_10015239	440358741	1963449260	1139843985	2606172999	structural molecule activity	other molecular function	F	1												
+GO:0005737	CGI_10015239	440358741	1963449260	1139843985	2606172999	cytoplasm	other cellular component	C	1												
+GO:0005856	CGI_10015239	440358741	1963449260	1139843985	2606172999	cytoskeleton	cytoskeleton	C	1												
+GO:0019898	CGI_10015239	440358741	1963449260	1139843985	2606172999	extrinsic to membrane	other membranes	C	1												
+GO:0016021	CGI_10015322	38667288	8500445423	2227584900	7391577064	integral to membrane	other membranes	C	1												
+GO:0004356	CGI_10015425	830075815	1718341351	1175307311	1637593759	glutamate-ammonia ligase activity	other molecular function	F	1												
+GO:0005524	CGI_10015425	830075815	1718341351	1175307311	1637593759	ATP binding	other molecular function	F	1												
+GO:0006542	CGI_10015425	830075815	1718341351	1175307311	1637593759	glutamine biosynthetic process	other metabolic processes	P	1												
+GO:0004356	CGI_10015426	893263525	2464030694	1326914869	2327779567	glutamate-ammonia ligase activity	other molecular function	F	1												
+GO:0005524	CGI_10015426	893263525	2464030694	1326914869	2327779567	ATP binding	other molecular function	F	1												
+GO:0006542	CGI_10015426	893263525	2464030694	1326914869	2327779567	glutamine biosynthetic process	other metabolic processes	P	1												
+GO:0005524	CGI_10015492	8634347433	41379597689	15704623658	36826053915	ATP binding	other molecular function	F	1												
+GO:0016620	CGI_10015523	1440082388	2865199580	2219615420	3207524112	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	other molecular function	F	1												
+GO:0019013	CGI_10015594	1005885894	1687424469	1287425157	1445794342	viral nucleocapsid	other cellular component	C	1												
+GO:0030529	CGI_10015594	1005885894	1687424469	1287425157	1445794342	ribonucleoprotein complex	other cellular component	C	1												
+GO:0005975	CGI_10015642	1817091125	4405792396	2960505933	5098839638	carbohydrate metabolic process	other metabolic processes	P	1												
+GO:0006099	CGI_10015642	1817091125	4405792396	2960505933	5098839638	tricarboxylic acid cycle	other metabolic processes	P	1												
+GO:0006108	CGI_10015642	1817091125	4405792396	2960505933	5098839638	malate metabolic process	other metabolic processes	P	1												
+GO:0030060	CGI_10015642	1817091125	4405792396	2960505933	5098839638	L-malate dehydrogenase activity	other molecular function	F	1												
+GO:0005509	CGI_10015666	2465759124	6298422516	2618384512	6172028728	calcium ion binding	other molecular function	F	1												
+GO:0005886	CGI_10015666	2465759124	6298422516	2618384512	6172028728	plasma membrane	other membranes	C	1												
+GO:0005886	CGI_10015666	2465759124	6298422516	2618384512	6172028728	plasma membrane	plasma membrane	C	1												
+GO:0007156	CGI_10015666	2465759124	6298422516	2618384512	6172028728	homophilic cell adhesion	cell adhesion	P	1												
+GO:0016021	CGI_10015666	2465759124	6298422516	2618384512	6172028728	integral to membrane	other membranes	C	1												
+GO:0005509	CGI_10015916	9028875590	26925472738	12496071372	23500099794	calcium ion binding	other molecular function	F	1												
+GO:0005783	CGI_10015916	9028875590	26925472738	12496071372	23500099794	endoplasmic reticulum	ER/Golgi	C	1												
+GO:0006457	CGI_10015916	9028875590	26925472738	12496071372	23500099794	protein folding	protein metabolism	P	1												
+GO:0005509	CGI_10015917	6195355189	21491585281	9868207533	19361993764	calcium ion binding	other molecular function	F	1												
+GO:0005783	CGI_10015917	6195355189	21491585281	9868207533	19361993764	endoplasmic reticulum	ER/Golgi	C	1												
+GO:0006457	CGI_10015917	6195355189	21491585281	9868207533	19361993764	protein folding	protein metabolism	P	1												
+GO:0004491	CGI_10016140	3148621238	5484999149	4159547275	6119110282	methylmalonate-semialdehyde dehydrogenase (acylating) activity	other molecular function	F	1												
+GO:0005524	CGI_10016162	1513410797	7817129754	3132338882	6559289196	ATP binding	other molecular function	F	1												
+GO:0006457	CGI_10016162	1513410797	7817129754	3132338882	6559289196	protein folding	protein metabolism	P	1												
+GO:0008234	CGI_10016721	2378368605	6078583475	6418093435	4601755148	cysteine-type peptidase activity	other molecular function	F	1												
+GO:0008234	CGI_10016722	2525362260	6190056947	6626025137	4777678923	cysteine-type peptidase activity	other molecular function	F	1												
+GO:0005525	CGI_10016812	808444319	2074666574	1460837704	1627791954	GTP binding	other molecular function	F	1												
+GO:0005622	CGI_10016812	808444319	2074666574	1460837704	1627791954	intracellular	other cellular component	C	1												
+GO:0007264	CGI_10016812	808444319	2074666574	1460837704	1627791954	small GTPase mediated signal transduction	signal transduction	P	1												
+GO:0004823	CGI_10017030	217752270	3098846757	917105176	2302138143	leucine-tRNA ligase activity	other molecular function	F	1												
+GO:0005524	CGI_10017030	217752270	3098846757	917105176	2302138143	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10017030	217752270	3098846757	917105176	2302138143	cytoplasm	other cellular component	C	1												
+GO:0006429	CGI_10017030	217752270	3098846757	917105176	2302138143	leucyl-tRNA aminoacylation	RNA metabolism	P	1												
+GO:0006429	CGI_10017030	217752270	3098846757	917105176	2302138143	leucyl-tRNA aminoacylation	protein metabolism	P	1												
+GO:0005524	CGI_10017112	1.19E+11	2.54E+11	1.79E+11	2.50E+11	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10017163	1197807020	3720898614	1709095816	2531827032	cytoplasm	other cellular component	C	1												
+GO:0008239	CGI_10017163	1197807020	3720898614	1709095816	2531827032	dipeptidyl-peptidase activity	other molecular function	F	1												
+GO:0046872	CGI_10017163	1197807020	3720898614	1709095816	2531827032	metal ion binding	other molecular function	F	1												
+GO:0003924	CGI_10017178	17520994393	29593766913	28744799906	26141225312	GTPase activity	other molecular function	F	1												
+GO:0005525	CGI_10017178	17520994393	29593766913	28744799906	26141225312	GTP binding	other molecular function	F	1												
+GO:0004352	CGI_10017227	1886441972	4973938304	2535342214	4749895303	glutamate dehydrogenase activity	other molecular function	F	1												
+GO:0006520	CGI_10017227	1886441972	4973938304	2535342214	4749895303	cellular amino acid metabolic process	other metabolic processes	P	1												
+GO:0003677	CGI_10017251	944427812	1958175607	1438515739	2451458963	DNA binding	nucleic acid binding activity	F	1												
+GO:0004075	CGI_10017251	944427812	1958175607	1438515739	2451458963	biotin carboxylase activity	other molecular function	F	1												
+GO:0004736	CGI_10017251	944427812	1958175607	1438515739	2451458963	pyruvate carboxylase activity	other molecular function	F	1												
+GO:0005524	CGI_10017251	944427812	1958175607	1438515739	2451458963	ATP binding	other molecular function	F	1												
+GO:0006090	CGI_10017251	944427812	1958175607	1438515739	2451458963	pyruvate metabolic process	other metabolic processes	P	1												
+GO:0006094	CGI_10017251	944427812	1958175607	1438515739	2451458963	gluconeogenesis	other metabolic processes	P	1												
+GO:0009374	CGI_10017251	944427812	1958175607	1438515739	2451458963	biotin binding	other molecular function	F	1												
+GO:0046872	CGI_10017251	944427812	1958175607	1438515739	2451458963	metal ion binding	other molecular function	F	1												
+GO:0005524	CGI_10017255	975268933	2675765931	1465238586	2660266516	ATP binding	other molecular function	F	1												
+GO:0005524	CGI_10017263	751346663	1629530729	1336374228	1504899710	ATP binding	other molecular function	F	1												
+GO:0006457	CGI_10017263	751346663	1629530729	1336374228	1504899710	protein folding	protein metabolism	P	1												
+GO:0003735	CGI_10017292	645846234	2778697030	1764789616	1504104496	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10017292	645846234	2778697030	1764789616	1504104496	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10017292	645846234	2778697030	1764789616	1504104496	translation	protein metabolism	P	1												
+GO:0005737	CGI_10017309	1863004909	5214806583	3060285436	5056644771	cytoplasm	other cellular component	C	1												
+GO:0005856	CGI_10017309	1863004909	5214806583	3060285436	5056644771	cytoskeleton	cytoskeleton	C	1												
+GO:0019898	CGI_10017309	1863004909	5214806583	3060285436	5056644771	extrinsic to membrane	other membranes	C	1												
+GO:0004222	CGI_10017454	2349678823	5598884141	3949149790	6017587672	metalloendopeptidase activity	other molecular function	F	1												
+GO:0046872	CGI_10017454	2349678823	5598884141	3949149790	6017587672	metal ion binding	other molecular function	F	1												
+GO:0005861	CGI_10017461	650750003	3018057155	1302089566	3118001268	troponin complex	cytoskeleton	C	1												
+GO:0006937	CGI_10017461	650750003	3018057155	1302089566	3118001268	regulation of muscle contraction	other biological processes	P	1												
+GO:0005524	CGI_10017621	17052323419	45144695834	26004326514	38345113170	ATP binding	other molecular function	F	1												
+GO:0006457	CGI_10017621	17052323419	45144695834	26004326514	38345113170	protein folding	protein metabolism	P	1												
+GO:0006950	CGI_10017621	17052323419	45144695834	26004326514	38345113170	response to stress	stress response	P	1												
+GO:0004069	CGI_10017668	1151812700	2473254652	1534395057	1710745577	L-aspartate:2-oxoglutarate aminotransferase activity	other molecular function	F	1												
+GO:0006520	CGI_10017668	1151812700	2473254652	1534395057	1710745577	cellular amino acid metabolic process	other metabolic processes	P	1												
+GO:0009058	CGI_10017668	1151812700	2473254652	1534395057	1710745577	biosynthetic process	other metabolic processes	P	1												
+GO:0030170	CGI_10017668	1151812700	2473254652	1534395057	1710745577	pyridoxal phosphate binding	other molecular function	F	1												
+GO:0080130	CGI_10017668	1151812700	2473254652	1534395057	1710745577	L-phenylalanine:2-oxoglutarate aminotransferase activity	other molecular function	F	1												
+GO:0005524	CGI_10017757	40482776379	55703707441	47498040374	59528251250	ATP binding	other molecular function	F	1												
+GO:0003735	CGI_10017767	745235983	3538938693	2155768194	2598488575	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10017767	745235983	3538938693	2155768194	2598488575	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10017767	745235983	3538938693	2155768194	2598488575	translation	protein metabolism	P	1												
+GO:0004784	CGI_10017958	2783779821	4961022443	3350221959	4355960401	superoxide dismutase activity	other molecular function	F	1												
+GO:0046872	CGI_10017958	2783779821	4961022443	3350221959	4355960401	metal ion binding	other molecular function	F	1												
+GO:0016874	CGI_10018049	744138308	1714451625	1019397795	1721057853	ligase activity	other molecular function	F	1												
+GO:0004601	CGI_10018053	1740870948	6549096431	3287263750	6894882183	peroxidase activity	other molecular function	F	1												
+GO:0020037	CGI_10018053	1740870948	6549096431	3287263750	6894882183	heme binding	other molecular function	F	1												
+GO:0005198	CGI_10018067	1148497906	2417097349	1245070345	2282449212	structural molecule activity	other molecular function	F	1												
+GO:0005882	CGI_10018067	1148497906	2417097349	1245070345	2282449212	intermediate filament	cytoskeleton	C	1												
+GO:0005509	CGI_10018235	4797619694	11891107334	7051866010	10771933475	calcium ion binding	other molecular function	F	1												
+GO:0003735	CGI_10018261	1284784120	2251971216	1669521528	2028985915	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10018261	1284784120	2251971216	1669521528	2028985915	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10018261	1284784120	2251971216	1669521528	2028985915	translation	protein metabolism	P	1												
+GO:0019843	CGI_10018261	1284784120	2251971216	1669521528	2028985915	rRNA binding	nucleic acid binding activity	F	1												
+GO:0003676	CGI_10018336	1470828554	1833761942	2344600407	1761545512	nucleic acid binding	nucleic acid binding activity	F	1												
+GO:0004386	CGI_10018336	1470828554	1833761942	2344600407	1761545512	helicase activity	other molecular function	F	1												
+GO:0005524	CGI_10018336	1470828554	1833761942	2344600407	1761545512	ATP binding	other molecular function	F	1												
+GO:0005524	CGI_10018499	1233654195	3845790147	1871028103	2503932835	ATP binding	other molecular function	F	1												
+GO:0015991	CGI_10018499	1233654195	3845790147	1871028103	2503932835	ATP hydrolysis coupled proton transport	transport	P	1												
+GO:0016820	CGI_10018499	1233654195	3845790147	1871028103	2503932835	"hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances"	transporter activity	F	1												
+GO:0033180	CGI_10018499	1233654195	3845790147	1871028103	2503932835	"proton-transporting V-type ATPase, V1 domain"	other membranes	C	1												
+GO:0046034	CGI_10018499	1233654195	3845790147	1871028103	2503932835	ATP metabolic process	other metabolic processes	P	1												
+GO:0000287	CGI_10018568	2875069662	6610491666	4440373546	6088810871	magnesium ion binding	other molecular function	F	1												
+GO:0004450	CGI_10018568	2875069662	6610491666	4440373546	6088810871	isocitrate dehydrogenase (NADP+) activity	other molecular function	F	1												
+GO:0006099	CGI_10018568	2875069662	6610491666	4440373546	6088810871	tricarboxylic acid cycle	other metabolic processes	P	1												
+GO:0006102	CGI_10018568	2875069662	6610491666	4440373546	6088810871	isocitrate metabolic process	other metabolic processes	P	1												
+GO:0051287	CGI_10018568	2875069662	6610491666	4440373546	6088810871	NAD or NADH binding	other molecular function	F	1												
+GO:0006801	CGI_10018833	39278673	3086475580	1993348768	13316379624	superoxide metabolic process	other metabolic processes	P	1												
+GO:0046872	CGI_10018833	39278673	3086475580	1993348768	13316379624	metal ion binding	other molecular function	F	1												
+GO:0055114	CGI_10018833	39278673	3086475580	1993348768	13316379624	oxidation reduction	other metabolic processes	P	1												
+GO:0005524	CGI_10018918	1230102170	2347003653	1903751409	2377279175	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10018918	1230102170	2347003653	1903751409	2377279175	cytoplasm	other cellular component	C	1												
+GO:0006457	CGI_10018918	1230102170	2347003653	1903751409	2377279175	protein folding	protein metabolism	P	1												
+GO:0003924	CGI_10018930	21183395584	77572096460	38720249386	67349621781	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10018930	21183395584	77572096460	38720249386	67349621781	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10018930	21183395584	77572096460	38720249386	67349621781	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10018930	21183395584	77572096460	38720249386	67349621781	cytoplasm	other cellular component	C	1												
+GO:0005874	CGI_10018930	21183395584	77572096460	38720249386	67349621781	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10018930	21183395584	77572096460	38720249386	67349621781	microtubule-based process	other biological processes	P	1												
+GO:0004618	CGI_10019050	1698358717	4993991954	3199498654	5363000019	phosphoglycerate kinase activity	kinase activity	F	1												
+GO:0005524	CGI_10019050	1698358717	4993991954	3199498654	5363000019	ATP binding	other molecular function	F	1												
+GO:0006096	CGI_10019050	1698358717	4993991954	3199498654	5363000019	glycolysis	other metabolic processes	P	1												
+GO:0005094	CGI_10019175	1455687903	2991903235	1832918000	2749258820	Rho GDP-dissociation inhibitor activity	enzyme regulator activity	F	1												
+GO:0005737	CGI_10019175	1455687903	2991903235	1832918000	2749258820	cytoplasm	other cellular component	C	1												
+GO:0015986	CGI_10019448	2299067120	5365929590	3628309741	6915876122	ATP synthesis coupled proton transport	other metabolic processes	P	1												
+GO:0015986	CGI_10019448	2299067120	5365929590	3628309741	6915876122	ATP synthesis coupled proton transport	transport	P	1												
+GO:0015991	CGI_10019448	2299067120	5365929590	3628309741	6915876122	ATP hydrolysis coupled proton transport	transport	P	1												
+GO:0045261	CGI_10019448	2299067120	5365929590	3628309741	6915876122	"proton-transporting ATP synthase complex, catalytic core F(1)"	other membranes	C	1												
+GO:0046933	CGI_10019448	2299067120	5365929590	3628309741	6915876122	"hydrogen ion transporting ATP synthase activity, rotational mechanism"	transporter activity	F	1												
+GO:0046961	CGI_10019448	2299067120	5365929590	3628309741	6915876122	"proton-transporting ATPase activity, rotational mechanism"	transporter activity	F	1												
+GO:0005622	CGI_10019491	902548932	2246449750	1578518294	2418068859	intracellular	other cellular component	C	1												
+GO:0006886	CGI_10019491	902548932	2246449750	1578518294	2418068859	intracellular protein transport	transport	P	1												
+GO:0000166	CGI_10019522	1327001901	2157935911	1397412629	1651039977	nucleotide binding	other molecular function	F	1												
+GO:0003723	CGI_10019522	1327001901	2157935911	1397412629	1651039977	RNA binding	nucleic acid binding activity	F	1												
+GO:0007165	CGI_10019530	906140725	2219319448	1332090001	2516968169	signal transduction	signal transduction	P	1												
+GO:0003735	CGI_10019706	1264582563	5910302633	3069870784	3666838049	structural constituent of ribosome	other molecular function	F	1												
+GO:0006412	CGI_10019706	1264582563	5910302633	3069870784	3666838049	translation	protein metabolism	P	1												
+GO:0022627	CGI_10019706	1264582563	5910302633	3069870784	3666838049	cytosolic small ribosomal subunit	cytosol	C	1												
+GO:0022627	CGI_10019706	1264582563	5910302633	3069870784	3666838049	cytosolic small ribosomal subunit	translational apparatus	C	1												
+GO:0003735	CGI_10019707	1123958115	5211071885	2578111710	3074626482	structural constituent of ribosome	other molecular function	F	1												
+GO:0006412	CGI_10019707	1123958115	5211071885	2578111710	3074626482	translation	protein metabolism	P	1												
+GO:0022627	CGI_10019707	1123958115	5211071885	2578111710	3074626482	cytosolic small ribosomal subunit	cytosol	C	1												
+GO:0022627	CGI_10019707	1123958115	5211071885	2578111710	3074626482	cytosolic small ribosomal subunit	translational apparatus	C	1												
+GO:0003924	CGI_10019752	21213869688	1.10E+11	46899929437	99810529478	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10019752	21213869688	1.10E+11	46899929437	99810529478	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10019752	21213869688	1.10E+11	46899929437	99810529478	GTP binding	other molecular function	F	1												
+GO:0005874	CGI_10019752	21213869688	1.10E+11	46899929437	99810529478	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10019752	21213869688	1.10E+11	46899929437	99810529478	microtubule-based process	other biological processes	P	1												
+GO:0004332	CGI_10019801	1746564635	5744791440	3250449835	5329525404	fructose-bisphosphate aldolase activity	other molecular function	F	1												
+GO:0006096	CGI_10019801	1746564635	5744791440	3250449835	5329525404	glycolysis	other metabolic processes	P	1												
+GO:0003924	CGI_10019835	14657459790	77197075701	33447465955	72744401446	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10019835	14657459790	77197075701	33447465955	72744401446	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10019835	14657459790	77197075701	33447465955	72744401446	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10019835	14657459790	77197075701	33447465955	72744401446	cytoplasm	other cellular component	C	1												
+GO:0005874	CGI_10019835	14657459790	77197075701	33447465955	72744401446	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10019835	14657459790	77197075701	33447465955	72744401446	microtubule-based process	other biological processes	P	1												
+GO:0004129	CGI_10019936	721988065	981390785	1574182386	2836563866	cytochrome-c oxidase activity	transporter activity	F	1												
+GO:0005740	CGI_10019936	721988065	981390785	1574182386	2836563866	mitochondrial envelope	mitochondrion	C	1												
+GO:0005524	CGI_10019942	922834057	2682906926	1887674627	2533211669	ATP binding	other molecular function	F	1												
+GO:0003924	CGI_10020105	1471209049	4658867872	2825017891	4044711365	GTPase activity	other molecular function	F	1												
+GO:0005525	CGI_10020105	1471209049	4658867872	2825017891	4044711365	GTP binding	other molecular function	F	1												
+GO:0005634	CGI_10020105	1471209049	4658867872	2825017891	4044711365	nucleus	nucleus	C	1												
+GO:0006886	CGI_10020105	1471209049	4658867872	2825017891	4044711365	intracellular protein transport	transport	P	1												
+GO:0006913	CGI_10020105	1471209049	4658867872	2825017891	4044711365	nucleocytoplasmic transport	transport	P	1												
+GO:0007264	CGI_10020105	1471209049	4658867872	2825017891	4044711365	small GTPase mediated signal transduction	signal transduction	P	1												
+GO:0003723	CGI_10020147	614187933	1610354676	1050402212	2129360547	RNA binding	nucleic acid binding activity	F	1												
+GO:0005543	CGI_10020238	556471918	2422296148	1130461929	2487920054	phospholipid binding	other molecular function	F	1												
+GO:0007017	CGI_10020305	851131472	2960501195	1385155950	3027714140	microtubule-based process	other biological processes	P	1												
+GO:0030286	CGI_10020305	851131472	2960501195	1385155950	3027714140	dynein complex	cytoskeleton	C	1												
+GO:0005975	CGI_10020409	874161479	1605393830	1662040975	1886929387	carbohydrate metabolic process	other metabolic processes	P	1												
+GO:0008483	CGI_10020409	874161479	1605393830	1662040975	1886929387	transaminase activity	other molecular function	F	1												
+GO:0030246	CGI_10020409	874161479	1605393830	1662040975	1886929387	carbohydrate binding	other molecular function	F	1												
+GO:0004514	CGI_10020447	3326065308	7658745025	5598897116	8193980333	nicotinate-nucleotide diphosphorylase (carboxylating) activity	other molecular function	F	1												
+GO:0009435	CGI_10020447	3326065308	7658745025	5598897116	8193980333	NAD biosynthetic process	other metabolic processes	P	1												
+GO:0003735	CGI_10020449	898024582	3621143652	2103638729	2825884656	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10020449	898024582	3621143652	2103638729	2825884656	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10020449	898024582	3621143652	2103638729	2825884656	translation	protein metabolism	P	1												
+GO:0005044	CGI_10020579	758274293	3287865700	1310365620	3481434049	scavenger receptor activity	signal transduction activity	F	1												
+GO:0016020	CGI_10020579	758274293	3287865700	1310365620	3481434049	membrane	other membranes	C	1												
+GO:0016787	CGI_10020579	758274293	3287865700	1310365620	3481434049	hydrolase activity	other molecular function	F	1												
+GO:0004013	CGI_10020662	6973047679	9054760387	12607341600	8626962104	adenosylhomocysteinase activity	other molecular function	F	1												
+GO:0006730	CGI_10020662	6973047679	9054760387	12607341600	8626962104	one-carbon compound metabolic process	other metabolic processes	P	1												
+GO:0000166	CGI_10020922	3833958829	7832610882	7351291462	7890046449	nucleotide binding	other molecular function	F	1												
+GO:0003676	CGI_10020922	3833958829	7832610882	7351291462	7890046449	nucleic acid binding	nucleic acid binding activity	F	1												
+GO:0019013	CGI_10020922	3833958829	7832610882	7351291462	7890046449	viral nucleocapsid	other cellular component	C	1												
+GO:0030529	CGI_10020922	3833958829	7832610882	7351291462	7890046449	ribonucleoprotein complex	other cellular component	C	1												
+GO:0003735	CGI_10020961	1469703751	3629815669	3472195727	3733951241	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10020961	1469703751	3629815669	3472195727	3733951241	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10020961	1469703751	3629815669	3472195727	3733951241	translation	protein metabolism	P	1												
+GO:0004550	CGI_10021159	7633881824	14915393322	12191728923	14820295317	nucleoside diphosphate kinase activity	kinase activity	F	1												
+GO:0005524	CGI_10021159	7633881824	14915393322	12191728923	14820295317	ATP binding	other molecular function	F	1												
+GO:0006183	CGI_10021159	7633881824	14915393322	12191728923	14820295317	GTP biosynthetic process	other metabolic processes	P	1												
+GO:0006228	CGI_10021159	7633881824	14915393322	12191728923	14820295317	UTP biosynthetic process	other metabolic processes	P	1												
+GO:0006241	CGI_10021159	7633881824	14915393322	12191728923	14820295317	CTP biosynthetic process	other metabolic processes	P	1												
+GO:0003735	CGI_10021165	5370074512	11732246066	9767464757	10624321282	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10021165	5370074512	11732246066	9767464757	10624321282	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10021165	5370074512	11732246066	9767464757	10624321282	translation	protein metabolism	P	1												
+GO:0003676	CGI_10021188	1045678538	2733939039	1841943964	2642565346	nucleic acid binding	nucleic acid binding activity	F	1												
+GO:0006461	CGI_10021188	1045678538	2733939039	1841943964	2642565346	protein complex assembly	cell organization and biogenesis	P	1												
+GO:0008408	CGI_10021188	1045678538	2733939039	1841943964	2642565346	3'-5' exonuclease activity	other molecular function	F	1												
+GO:0008601	CGI_10021188	1045678538	2733939039	1841943964	2642565346	protein phosphatase type 2A regulator activity	enzyme regulator activity	F	1												
+GO:0003746	CGI_10021397	1165943555	5013466661	2928764236	5126496371	translation elongation factor activity	nucleic acid binding activity	F	1												
+GO:0005853	CGI_10021397	1165943555	5013466661	2928764236	5126496371	eukaryotic translation elongation factor 1 complex	other cellular component	C	1												
+GO:0005524	CGI_10021481	14298484234	38779598798	21494726599	40357523842	ATP binding	other molecular function	F	1												
+GO:0016301	CGI_10021481	14298484234	38779598798	21494726599	40357523842	kinase activity	kinase activity	F	1												
+GO:0016301	CGI_10021482	1933774583	3657012094	2362549339	4247553144	kinase activity	kinase activity	F	1												
+GO:0016301	CGI_10021483	1927516939	3632568849	2362527996	4191018767	kinase activity	kinase activity	F	1												
+GO:0016021	CGI_10021644	342913293	1848298153	921524675	2142684046	integral to membrane	other membranes	C	1												
+GO:0000166	CGI_10021647	2184192414	5773839506	4017624230	5211411277	nucleotide binding	other molecular function	F	1												
+GO:0003723	CGI_10021647	2184192414	5773839506	4017624230	5211411277	RNA binding	nucleic acid binding activity	F	1												
+GO:0005737	CGI_10021647	2184192414	5773839506	4017624230	5211411277	cytoplasm	other cellular component	C	1												
+GO:0005524	CGI_10021673	41559740727	69585977998	54177719409	64183950160	ATP binding	other molecular function	F	1												
+GO:0005524	CGI_10021674	94873807401	1.93E+11	1.36E+11	2.06E+11	ATP binding	other molecular function	F	1												
+GO:0003723	CGI_10021712	3589069487	5750919836	5028255189	4803065391	RNA binding	nucleic acid binding activity	F	1												
+GO:0003677	CGI_10021754	844279872	1569001808	1126820731	2325448747	DNA binding	nucleic acid binding activity	F	1												
+GO:0006355	CGI_10021754	844279872	1569001808	1126820731	2325448747	"regulation of transcription, DNA-dependent"	RNA metabolism	P	1												
+GO:0000028	CGI_10021852	1755705409	4023346603	2513775935	3768199392	ribosomal small subunit assembly	cell organization and biogenesis	P	1												
+GO:0003735	CGI_10021852	1755705409	4023346603	2513775935	3768199392	structural constituent of ribosome	other molecular function	F	1												
+GO:0006412	CGI_10021852	1755705409	4023346603	2513775935	3768199392	translation	protein metabolism	P	1												
+GO:0022627	CGI_10021852	1755705409	4023346603	2513775935	3768199392	cytosolic small ribosomal subunit	cytosol	C	1												
+GO:0022627	CGI_10021852	1755705409	4023346603	2513775935	3768199392	cytosolic small ribosomal subunit	translational apparatus	C	1												
+GO:0005509	CGI_10021971	592395320	1676675478	1193149681	1795166912	calcium ion binding	other molecular function	F	1												
+GO:0050188	CGI_10022015	523842619	2864898055	927253452	2537677679	phosphoenolpyruvate mutase activity	other molecular function	F	1												
+GO:0005388	CGI_10022016	1053829714	2270027644	1804925695	2103704096	calcium-transporting ATPase activity	transporter activity	F	1												
+GO:0005524	CGI_10022016	1053829714	2270027644	1804925695	2103704096	ATP binding	other molecular function	F	1												
+GO:0016021	CGI_10022016	1053829714	2270027644	1804925695	2103704096	integral to membrane	other membranes	C	1												
+GO:0033017	CGI_10022016	1053829714	2270027644	1804925695	2103704096	sarcoplasmic reticulum membrane	ER/Golgi	C	1												
+GO:0033017	CGI_10022016	1053829714	2270027644	1804925695	2103704096	sarcoplasmic reticulum membrane	other membranes	C	1												
+GO:0046872	CGI_10022016	1053829714	2270027644	1804925695	2103704096	metal ion binding	other molecular function	F	1												
+GO:0005840	CGI_10022058	2295163481	8419566571	3798286521	7951225250	ribosome	translational apparatus	C	1												
+GO:0042254	CGI_10022058	2295163481	8419566571	3798286521	7951225250	ribosome biogenesis	other biological processes	P	1												
+GO:0003774	CGI_10022093	59782570100	1.35E+11	93906068601	1.36E+11	motor activity	cytoskeletal activity	F	1												
+GO:0005524	CGI_10022093	59782570100	1.35E+11	93906068601	1.36E+11	ATP binding	other molecular function	F	1												
+GO:0016459	CGI_10022093	59782570100	1.35E+11	93906068601	1.36E+11	myosin complex	cytoskeleton	C	1												
+GO:0000015	CGI_10022154	2348014917	9523349292	5165579812	9845280025	phosphopyruvate hydratase complex	cytosol	C	1												
+GO:0000287	CGI_10022154	2348014917	9523349292	5165579812	9845280025	magnesium ion binding	other molecular function	F	1												
+GO:0004634	CGI_10022154	2348014917	9523349292	5165579812	9845280025	phosphopyruvate hydratase activity	other molecular function	F	1												
+GO:0006096	CGI_10022154	2348014917	9523349292	5165579812	9845280025	glycolysis	other metabolic processes	P	1												
+GO:0016021	CGI_10022154	2348014917	9523349292	5165579812	9845280025	integral to membrane	other membranes	C	1												
+GO:0006457	CGI_10022305	972399130	2158403650	1280958130	2156209791	protein folding	protein metabolism	P	1												
+GO:0004222	CGI_10022332	4095473031	9809114354	5203726942	8533951509	metalloendopeptidase activity	other molecular function	F	1												
+GO:0008270	CGI_10022332	4095473031	9809114354	5203726942	8533951509	zinc ion binding	other molecular function	F	1												
+GO:0016020	CGI_10022332	4095473031	9809114354	5203726942	8533951509	membrane	other membranes	C	1												
+GO:0004108	CGI_10022396	4590250402	8961486979	6022347390	7822719345	citrate (Si)-synthase activity	other molecular function	F	1												
+GO:0006099	CGI_10022396	4590250402	8961486979	6022347390	7822719345	tricarboxylic acid cycle	other metabolic processes	P	1												
+GO:0006101	CGI_10022396	4590250402	8961486979	6022347390	7822719345	citrate metabolic process	other metabolic processes	P	1												
+GO:0000902	CGI_10022483	2091921180	4023518850	2834114793	4418348164	cell morphogenesis	cell organization and biogenesis	P	1												
+GO:0007010	CGI_10022483	2091921180	4023518850	2834114793	4418348164	cytoskeleton organization	cell organization and biogenesis	P	1												
+GO:0005743	CGI_10022522	850878989	3507824251	1774067610	3304019660	mitochondrial inner membrane	mitochondrion	C	1												
+GO:0005743	CGI_10022522	850878989	3507824251	1774067610	3304019660	mitochondrial inner membrane	other membranes	C	1												
+GO:0006099	CGI_10022522	850878989	3507824251	1774067610	3304019660	tricarboxylic acid cycle	other metabolic processes	P	1												
+GO:0008177	CGI_10022522	850878989	3507824251	1774067610	3304019660	succinate dehydrogenase (ubiquinone) activity	other molecular function	F	1												
+GO:0022900	CGI_10022522	850878989	3507824251	1774067610	3304019660	electron transport chain	other metabolic processes	P	1												
+GO:0050660	CGI_10022522	850878989	3507824251	1774067610	3304019660	FAD binding	other molecular function	F	1												
+GO:0004601	CGI_10022551	1156850400	4771538392	2434554575	5229037848	peroxidase activity	other molecular function	F	1												
+GO:0020037	CGI_10022551	1156850400	4771538392	2434554575	5229037848	heme binding	other molecular function	F	1												
+GO:0016491	CGI_10022642	503851125	2383255235	709657770	2035790018	oxidoreductase activity	other molecular function	F	1												
+GO:0005524	CGI_10022731	68662195340	1.30E+11	91542612354	1.36E+11	ATP binding	other molecular function	F	1												
+GO:0000139	CGI_10023024	907840155	3212494397	2064282744	3201346858	Golgi membrane	ER/Golgi	C	1												
+GO:0000139	CGI_10023024	907840155	3212494397	2064282744	3201346858	Golgi membrane	other membranes	C	1												
+GO:0005198	CGI_10023024	907840155	3212494397	2064282744	3201346858	structural molecule activity	other molecular function	F	1												
+GO:0006886	CGI_10023024	907840155	3212494397	2064282744	3201346858	intracellular protein transport	transport	P	1												
+GO:0016192	CGI_10023024	907840155	3212494397	2064282744	3201346858	vesicle-mediated transport	transport	P	1												
+GO:0030126	CGI_10023024	907840155	3212494397	2064282744	3201346858	COPI vesicle coat	ER/Golgi	C	1												
+GO:0030126	CGI_10023024	907840155	3212494397	2064282744	3201346858	COPI vesicle coat	other membranes	C	1												
+GO:0005576	CGI_10023084	2492116488	6409173387	3915716997	6087779598	extracellular region	non-structural extracellular	C	1												
+GO:0006030	CGI_10023084	2492116488	6409173387	3915716997	6087779598	chitin metabolic process	other metabolic processes	P	1												
+GO:0008061	CGI_10023084	2492116488	6409173387	3915716997	6087779598	chitin binding	other molecular function	F	1												
+GO:0003735	CGI_10023099	253550602	2699676513	1550921637	2444741371	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10023099	253550602	2699676513	1550921637	2444741371	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10023099	253550602	2699676513	1550921637	2444741371	translation	protein metabolism	P	1												
+GO:0004367	CGI_10023335	1788926449	4335866942	2780279379	3859588912	glycerol-3-phosphate dehydrogenase (NAD+) activity	other molecular function	F	1												
+GO:0005975	CGI_10023335	1788926449	4335866942	2780279379	3859588912	carbohydrate metabolic process	other metabolic processes	P	1												
+GO:0009331	CGI_10023335	1788926449	4335866942	2780279379	3859588912	glycerol-3-phosphate dehydrogenase complex	other cellular component	C	1												
+GO:0046168	CGI_10023335	1788926449	4335866942	2780279379	3859588912	glycerol-3-phosphate catabolic process	other metabolic processes	P	1												
+GO:0051287	CGI_10023335	1788926449	4335866942	2780279379	3859588912	NAD or NADH binding	other molecular function	F	1												
+GO:0004579	CGI_10023347	1324653436	2273190508	1570897034	2077645821	dolichyl-diphosphooligosaccharide-protein glycotransferase activity	other molecular function	F	1												
+GO:0005789	CGI_10023347	1324653436	2273190508	1570897034	2077645821	endoplasmic reticulum membrane	ER/Golgi	C	1												
+GO:0005789	CGI_10023347	1324653436	2273190508	1570897034	2077645821	endoplasmic reticulum membrane	other membranes	C	1												
+GO:0006486	CGI_10023347	1324653436	2273190508	1570897034	2077645821	protein amino acid glycosylation	protein metabolism	P	1												
+GO:0016021	CGI_10023347	1324653436	2273190508	1570897034	2077645821	integral to membrane	other membranes	C	1												
+GO:0006520	CGI_10023627	1389070711	3269322568	1722110393	3094150288	cellular amino acid metabolic process	other metabolic processes	P	1												
+GO:0016021	CGI_10023627	1389070711	3269322568	1722110393	3094150288	integral to membrane	other membranes	C	1												
+GO:0016491	CGI_10023627	1389070711	3269322568	1722110393	3094150288	oxidoreductase activity	other molecular function	F	1												
+GO:0016746	CGI_10023627	1389070711	3269322568	1722110393	3094150288	"transferase activity, transferring acyl groups"	other molecular function	F	1												
+GO:0000502	CGI_10023649	1054518012	2471862115	2229670388	2244217904	proteasome complex	other cellular component	C	1												
+GO:0030234	CGI_10023649	1054518012	2471862115	2229670388	2244217904	enzyme regulator activity	enzyme regulator activity	F	1												
+GO:0042176	CGI_10023649	1054518012	2471862115	2229670388	2244217904	regulation of protein catabolic process	protein metabolism	P	1												
+GO:0005581	CGI_10023716	1213805689	1867712345	1113768083	2002694923	collagen	extracellular matrix	C	1												
+GO:0005581	CGI_10023717	3622167147	8035797211	5888770796	6270275023	collagen	extracellular matrix	C	1												
+GO:0004866	CGI_10023767	1922975720	2039507393	1602255417	1800987417	endopeptidase inhibitor activity	enzyme regulator activity	F	1												
+GO:0005509	CGI_10023805	1176926224	1511335326	1055873730	1430398156	calcium ion binding	other molecular function	F	1												
+GO:0005576	CGI_10023805	1176926224	1511335326	1055873730	1430398156	extracellular region	non-structural extracellular	C	1												
+GO:0007160	CGI_10023805	1176926224	1511335326	1055873730	1430398156	cell-matrix adhesion	cell adhesion	P	1												
+GO:0003735	CGI_10024065	419251448	2112457310	1680778551	2052991641	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10024065	419251448	2112457310	1680778551	2052991641	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10024065	419251448	2112457310	1680778551	2052991641	translation	protein metabolism	P	1												
+GO:0005737	CGI_10024132	1079466838	1558100634	1387734887	1571520019	cytoplasm	other cellular component	C	1												
+GO:0016149	CGI_10024132	1079466838	1558100634	1387734887	1571520019	"translation release factor activity, codon specific"	nucleic acid binding activity	F	1												
+GO:0005524	CGI_10024309	2877068356	7924283779	4918436977	7219253275	ATP binding	other molecular function	F	1												
+GO:0006457	CGI_10024309	2877068356	7924283779	4918436977	7219253275	protein folding	protein metabolism	P	1												
+GO:0006950	CGI_10024309	2877068356	7924283779	4918436977	7219253275	response to stress	stress response	P	1												
+GO:0006886	CGI_10024342	541404765	2111111400	1107496034	1972468882	intracellular protein transport	transport	P	1												
+GO:0008565	CGI_10024342	541404765	2111111400	1107496034	1972468882	protein transporter activity	transporter activity	F	1												
+GO:0016192	CGI_10024342	541404765	2111111400	1107496034	1972468882	vesicle-mediated transport	transport	P	1												
+GO:0030131	CGI_10024342	541404765	2111111400	1107496034	1972468882	clathrin adaptor complex	other membranes	C	1												
+GO:0005524	CGI_10024501	15727721949	36797831581	29249733704	37384998205	ATP binding	other molecular function	F	1												
+GO:0015986	CGI_10024501	15727721949	36797831581	29249733704	37384998205	ATP synthesis coupled proton transport	other metabolic processes	P	1												
+GO:0015986	CGI_10024501	15727721949	36797831581	29249733704	37384998205	ATP synthesis coupled proton transport	transport	P	1												
+GO:0015991	CGI_10024501	15727721949	36797831581	29249733704	37384998205	ATP hydrolysis coupled proton transport	transport	P	1												
+GO:0045261	CGI_10024501	15727721949	36797831581	29249733704	37384998205	"proton-transporting ATP synthase complex, catalytic core F(1)"	other membranes	C	1												
+GO:0046933	CGI_10024501	15727721949	36797831581	29249733704	37384998205	"hydrogen ion transporting ATP synthase activity, rotational mechanism"	transporter activity	F	1												
+GO:0046961	CGI_10024501	15727721949	36797831581	29249733704	37384998205	"proton-transporting ATPase activity, rotational mechanism"	transporter activity	F	1												
+GO:0004742	CGI_10024545	512663195	2094637888	1093378977	2309530763	dihydrolipoyllysine-residue acetyltransferase activity	other molecular function	F	1												
+GO:0005759	CGI_10024545	512663195	2094637888	1093378977	2309530763	mitochondrial matrix	mitochondrion	C	1												
+GO:0006090	CGI_10024545	512663195	2094637888	1093378977	2309530763	pyruvate metabolic process	other metabolic processes	P	1												
+GO:0045254	CGI_10024545	512663195	2094637888	1093378977	2309530763	pyruvate dehydrogenase complex	other cellular component	C	1												
+GO:0005524	CGI_10024572	2.12E+11	3.93E+11	2.93E+11	4.06E+11	ATP binding	other molecular function	F	1												
+GO:0004013	CGI_10024772	2243561204	7171876461	4829480131	5085679629	adenosylhomocysteinase activity	other molecular function	F	1												
+GO:0006730	CGI_10024772	2243561204	7171876461	4829480131	5085679629	one-carbon compound metabolic process	other metabolic processes	P	1												
+GO:0003777	CGI_10024887	3148076374	8045721671	5879115990	8422764364	microtubule motor activity	cytoskeletal activity	F	1												
+GO:0005524	CGI_10024887	3148076374	8045721671	5879115990	8422764364	ATP binding	other molecular function	F	1												
+GO:0007018	CGI_10024887	3148076374	8045721671	5879115990	8422764364	microtubule-based movement	other biological processes	P	1												
+GO:0015629	CGI_10024887	3148076374	8045721671	5879115990	8422764364	actin cytoskeleton	cytoskeleton	C	1												
+GO:0016301	CGI_10024887	3148076374	8045721671	5879115990	8422764364	kinase activity	kinase activity	F	1												
+GO:0016887	CGI_10024887	3148076374	8045721671	5879115990	8422764364	ATPase activity	other molecular function	F	1												
+GO:0030042	CGI_10024887	3148076374	8045721671	5879115990	8422764364	actin filament depolymerization	cell organization and biogenesis	P	1												
+GO:0030286	CGI_10024887	3148076374	8045721671	5879115990	8422764364	dynein complex	cytoskeleton	C	1												
+GO:0016020	CGI_10024931	639302781	1700853209	1274507551	1909901919	membrane	other membranes	C	1												
+GO:0003924	CGI_10024998	21774839555	83756772710	39891842103	72549651643	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10024998	21774839555	83756772710	39891842103	72549651643	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10024998	21774839555	83756772710	39891842103	72549651643	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10024998	21774839555	83756772710	39891842103	72549651643	cytoplasm	other cellular component	C	1												
+GO:0005874	CGI_10024998	21774839555	83756772710	39891842103	72549651643	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10024998	21774839555	83756772710	39891842103	72549651643	microtubule-based process	other biological processes	P	1												
+GO:0003924	CGI_10024999	21061683317	81733192102	39036192006	71323653138	GTPase activity	other molecular function	F	1												
+GO:0005200	CGI_10024999	21061683317	81733192102	39036192006	71323653138	structural constituent of cytoskeleton	cytoskeletal activity	F	1												
+GO:0005525	CGI_10024999	21061683317	81733192102	39036192006	71323653138	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10024999	21061683317	81733192102	39036192006	71323653138	cytoplasm	other cellular component	C	1												
+GO:0005874	CGI_10024999	21061683317	81733192102	39036192006	71323653138	microtubule	cytoskeleton	C	1												
+GO:0007017	CGI_10024999	21061683317	81733192102	39036192006	71323653138	microtubule-based process	other biological processes	P	1												
+GO:0004001	CGI_10025016	638703675	2149724207	1464872191	1876250244	adenosine kinase activity	kinase activity	F	1												
+GO:0006166	CGI_10025016	638703675	2149724207	1464872191	1876250244	purine ribonucleoside salvage	other metabolic processes	P	1												
+GO:0003774	CGI_10025109	23564434657	57374345235	35796656531	58845048914	motor activity	cytoskeletal activity	F	1												
+GO:0005524	CGI_10025109	23564434657	57374345235	35796656531	58845048914	ATP binding	other molecular function	F	1												
+GO:0016459	CGI_10025109	23564434657	57374345235	35796656531	58845048914	myosin complex	cytoskeleton	C	1												
+GO:0003774	CGI_10025110	19964438071	45257583608	31425669370	50085318230	motor activity	cytoskeletal activity	F	1												
+GO:0016459	CGI_10025110	19964438071	45257583608	31425669370	50085318230	myosin complex	cytoskeleton	C	1												
+GO:0005215	CGI_10025401	7084880128	15212388249	13361447825	17616585116	transporter activity	transporter activity	F	1												
+GO:0005743	CGI_10025401	7084880128	15212388249	13361447825	17616585116	mitochondrial inner membrane	mitochondrion	C	1												
+GO:0005743	CGI_10025401	7084880128	15212388249	13361447825	17616585116	mitochondrial inner membrane	other membranes	C	1												
+GO:0016021	CGI_10025401	7084880128	15212388249	13361447825	17616585116	integral to membrane	other membranes	C	1												
+GO:0055085	CGI_10025401	7084880128	15212388249	13361447825	17616585116	transmembrane transport	transport	P	1												
+GO:0003723	CGI_10025534	6391973013	10995970002	9969993996	10060400477	RNA binding	nucleic acid binding activity	F	1												
+GO:0003735	CGI_10025534	6391973013	10995970002	9969993996	10060400477	structural constituent of ribosome	other molecular function	F	1												
+GO:0006412	CGI_10025534	6391973013	10995970002	9969993996	10060400477	translation	protein metabolism	P	1												
+GO:0015935	CGI_10025534	6391973013	10995970002	9969993996	10060400477	small ribosomal subunit	translational apparatus	C	1												
+GO:0004332	CGI_10025556	1752219567	5716910778	2934588726	5031516019	fructose-bisphosphate aldolase activity	other molecular function	F	1												
+GO:0006096	CGI_10025556	1752219567	5716910778	2934588726	5031516019	glycolysis	other metabolic processes	P	1												
+GO:0003878	CGI_10025561	674710723	1419308068	1300803777	1868758199	ATP citrate synthase activity	other molecular function	F	1												
+GO:0005524	CGI_10025561	674710723	1419308068	1300803777	1868758199	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10025561	674710723	1419308068	1300803777	1868758199	cytoplasm	other cellular component	C	1												
+GO:0006085	CGI_10025561	674710723	1419308068	1300803777	1868758199	acetyl-CoA biosynthetic process	other metabolic processes	P	1												
+GO:0006101	CGI_10025561	674710723	1419308068	1300803777	1868758199	citrate metabolic process	other metabolic processes	P	1												
+GO:0006629	CGI_10025561	674710723	1419308068	1300803777	1868758199	lipid metabolic process	other metabolic processes	P	1												
+GO:0046872	CGI_10025561	674710723	1419308068	1300803777	1868758199	metal ion binding	other molecular function	F	1												
+GO:0048037	CGI_10025561	674710723	1419308068	1300803777	1868758199	cofactor binding	other molecular function	F	1												
+GO:0005509	CGI_10025721	4999812914	13399009206	7179050747	13758697536	calcium ion binding	other molecular function	F	1												
+GO:0005524	CGI_10025730	5501243518	25320358327	8497781898	20559716227	ATP binding	other molecular function	F	1												
+GO:0006457	CGI_10025730	5501243518	25320358327	8497781898	20559716227	protein folding	protein metabolism	P	1												
+GO:0006950	CGI_10025730	5501243518	25320358327	8497781898	20559716227	response to stress	stress response	P	1												
+GO:0005509	CGI_10025806	673349920	2999951121	1608193828	3834025805	calcium ion binding	other molecular function	F	1												
+GO:0005886	CGI_10025806	673349920	2999951121	1608193828	3834025805	plasma membrane	other membranes	C	1												
+GO:0005886	CGI_10025806	673349920	2999951121	1608193828	3834025805	plasma membrane	plasma membrane	C	1												
+GO:0007156	CGI_10025806	673349920	2999951121	1608193828	3834025805	homophilic cell adhesion	cell adhesion	P	1												
+GO:0016021	CGI_10025806	673349920	2999951121	1608193828	3834025805	integral to membrane	other membranes	C	1												
+GO:0008270	CGI_10025809	1078617384	4321542312	2103418534	4633085449	zinc ion binding	other molecular function	F	1												
+GO:0004721	CGI_10025935	908139794	3640624370	1931605263	3023020341	phosphoprotein phosphatase activity	other molecular function	F	1												
+GO:0003756	CGI_10026048	16265432914	39908052430	28189550973	33406480679	protein disulfide isomerase activity	other molecular function	F	1												
+GO:0005783	CGI_10026048	16265432914	39908052430	28189550973	33406480679	endoplasmic reticulum	ER/Golgi	C	1												
+GO:0045454	CGI_10026048	16265432914	39908052430	28189550973	33406480679	cell redox homeostasis	other biological processes	P	1												
+GO:0003735	CGI_10026056	1361166222	2067320411	1895891514	1735529721	structural constituent of ribosome	other molecular function	F	1												
+GO:0006412	CGI_10026056	1361166222	2067320411	1895891514	1735529721	translation	protein metabolism	P	1												
+GO:0015935	CGI_10026056	1361166222	2067320411	1895891514	1735529721	small ribosomal subunit	translational apparatus	C	1												
+GO:0019843	CGI_10026056	1361166222	2067320411	1895891514	1735529721	rRNA binding	nucleic acid binding activity	F	1												
+GO:0006801	CGI_10026148	39250707	2041658948	1732633298	9117127519	superoxide metabolic process	other metabolic processes	P	1												
+GO:0046872	CGI_10026148	39250707	2041658948	1732633298	9117127519	metal ion binding	other molecular function	F	1												
+GO:0055114	CGI_10026148	39250707	2041658948	1732633298	9117127519	oxidation reduction	other metabolic processes	P	1												
+GO:0004198	CGI_10026186	1969060531	4656593672	3018385053	4800686205	calcium-dependent cysteine-type endopeptidase activity	other molecular function	F	1												
+GO:0005509	CGI_10026186	1969060531	4656593672	3018385053	4800686205	calcium ion binding	other molecular function	F	1												
+GO:0005622	CGI_10026186	1969060531	4656593672	3018385053	4800686205	intracellular	other cellular component	C	1												
+GO:0004364	CGI_10026265	1127254305	2506990185	1523553646	3075916825	glutathione transferase activity	other molecular function	F	1												
+GO:0008152	CGI_10026265	1127254305	2506990185	1523553646	3075916825	metabolic process	other metabolic processes	P	1												
+GO:0003735	CGI_10026346	381158781	2844954811	1586047284	1951789098	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10026346	381158781	2844954811	1586047284	1951789098	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10026346	381158781	2844954811	1586047284	1951789098	translation	protein metabolism	P	1												
+GO:0003978	CGI_10026385	902131822	2359644805	1633787377	2129572943	UDP-glucose 4-epimerase activity	other molecular function	F	1												
+GO:0006012	CGI_10026385	902131822	2359644805	1633787377	2129572943	galactose metabolic process	other metabolic processes	P	1												
+GO:0003735	CGI_10026412	1707101070	2637461857	1934639084	2044124687	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10026412	1707101070	2637461857	1934639084	2044124687	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10026412	1707101070	2637461857	1934639084	2044124687	translation	protein metabolism	P	1												
+GO:0004616	CGI_10026515	1098218728	1808222880	1621664009	1765650816	phosphogluconate dehydrogenase (decarboxylating) activity	other molecular function	F	1												
+GO:0006098	CGI_10026515	1098218728	1808222880	1621664009	1765650816	pentose-phosphate shunt	other metabolic processes	P	1												
+GO:0019521	CGI_10026515	1098218728	1808222880	1621664009	1765650816	D-gluconate metabolic process	other metabolic processes	P	1												
+GO:0003712	CGI_10026535	2101798518	5713137289	4347514556	4823257304	transcription cofactor activity	transcription regulatory activity	F	1												
+GO:0005525	CGI_10026535	2101798518	5713137289	4347514556	4823257304	GTP binding	other molecular function	F	1												
+GO:0007264	CGI_10026535	2101798518	5713137289	4347514556	4823257304	small GTPase mediated signal transduction	signal transduction	P	1												
+GO:0016020	CGI_10026535	2101798518	5713137289	4347514556	4823257304	membrane	other membranes	C	1												
+GO:0016442	CGI_10026535	2101798518	5713137289	4347514556	4823257304	RNA-induced silencing complex	other cellular component	C	1												
+GO:0035194	CGI_10026535	2101798518	5713137289	4347514556	4823257304	posttranscriptional gene silencing by RNA	other metabolic processes	P	1												
+GO:0004672	CGI_10026641	5394215671	14801425754	9233279466	15622927638	protein kinase activity	kinase activity	F	1												
+GO:0005524	CGI_10026641	5394215671	14801425754	9233279466	15622927638	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10026681	2890285728	6444585948	2951773212	4613871726	cytoplasm	other cellular component	C	1												
+GO:0016620	CGI_10026867	783077014	2390879959	1300823908	2326930431	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	other molecular function	F	1												
+GO:0016620	CGI_10026868	519646467	1902031016	1248542652	1927326569	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	other molecular function	F	1												
+GO:0005524	CGI_10026913	3092860007	8204443994	3320257168	4052772716	ATP binding	other molecular function	F	1												
+GO:0005737	CGI_10026913	3092860007	8204443994	3320257168	4052772716	cytoplasm	other cellular component	C	1												
+GO:0006457	CGI_10026913	3092860007	8204443994	3320257168	4052772716	protein folding	protein metabolism	P	1												
+GO:0004197	CGI_10027022	12481875014	10831527357	11391506616	6290407634	cysteine-type endopeptidase activity	other molecular function	F	1												
+GO:0050790	CGI_10027022	12481875014	10831527357	11391506616	6290407634	regulation of catalytic activity	other biological processes	P	1												
+GO:0005524	CGI_10027129	538143614	2682806249	842727891	2357008310	ATP binding	other molecular function	F	1												
+GO:0003723	CGI_10027157	2401218065	5151430788	3602420829	4779204382	RNA binding	nucleic acid binding activity	F	1												
+GO:0003735	CGI_10027192	5449654907	12088247610	9492829079	11135338140	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10027192	5449654907	12088247610	9492829079	11135338140	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10027192	5449654907	12088247610	9492829079	11135338140	translation	protein metabolism	P	1												
+GO:0008097	CGI_10027192	5449654907	12088247610	9492829079	11135338140	5S rRNA binding	nucleic acid binding activity	F	1												
+GO:0005737	CGI_10027210	11538180839	403998949	216539339	430185745	cytoplasm	other cellular component	C	1												
+GO:0018738	CGI_10027210	11538180839	403998949	216539339	430185745	S-formylglutathione hydrolase activity	other molecular function	F	1												
+GO:0046294	CGI_10027210	11538180839	403998949	216539339	430185745	formaldehyde catabolic process	other metabolic processes	P	1												
+GO:0005452	CGI_10027254	752834631	2102220997	2335041390	2459946134	inorganic anion exchanger activity	transporter activity	F	1												
+GO:0016021	CGI_10027254	752834631	2102220997	2335041390	2459946134	integral to membrane	other membranes	C	1												
+GO:0015031	CGI_10027384	1209908318	1461034864	1226525623	1310603115	protein transport	transport	P	1												
+GO:0016567	CGI_10027448	999016370	2051557998	1047513214	2017137879	protein ubiquitination	protein metabolism	P	1												
+GO:0005509	CGI_10027449	813438095	2438304235	1275259037	2805566397	calcium ion binding	other molecular function	F	1												
+GO:0004760	CGI_10027501	312458205	2157401469	857678314	2083245267	serine-pyruvate transaminase activity	other molecular function	F	1												
+GO:0008453	CGI_10027501	312458205	2157401469	857678314	2083245267	alanine-glyoxylate transaminase activity	other molecular function	F	1												
+GO:0035253	CGI_10027502	3557149203	8479463042	4177145111	9394966893	ciliary rootlet	cytoskeleton	C	1												
+GO:0051297	CGI_10027502	3557149203	8479463042	4177145111	9394966893	centrosome organization	cell organization and biogenesis	P	1												
+GO:0000287	CGI_10027722	806047132	1896416427	849216264	2239189383	magnesium ion binding	other molecular function	F	1												
+GO:0004427	CGI_10027722	806047132	1896416427	849216264	2239189383	inorganic diphosphatase activity	other molecular function	F	1												
+GO:0005737	CGI_10027722	806047132	1896416427	849216264	2239189383	cytoplasm	other cellular component	C	1												
+GO:0006796	CGI_10027722	806047132	1896416427	849216264	2239189383	phosphate metabolic process	other metabolic processes	P	1												
+GO:0005623	CGI_10027917	3388820284	5823729518	4166037387	5475555064	cell	other cellular component	C	1												
+GO:0016491	CGI_10027917	3388820284	5823729518	4166037387	5475555064	oxidoreductase activity	other molecular function	F	1												
+GO:0045454	CGI_10027917	3388820284	5823729518	4166037387	5475555064	cell redox homeostasis	other biological processes	P	1												
+GO:0006511	CGI_10028032	1542135511	2121077435	1448215679	1709649388	ubiquitin-dependent protein catabolic process	protein metabolism	P	1												
+GO:0016301	CGI_10028032	1542135511	2121077435	1448215679	1709649388	kinase activity	kinase activity	F	1												
+GO:0004177	CGI_10028148	3275425500	6935199266	5227440927	6607390823	aminopeptidase activity	other molecular function	F	1												
+GO:0008237	CGI_10028148	3275425500	6935199266	5227440927	6607390823	metallopeptidase activity	other molecular function	F	1												
+GO:0008270	CGI_10028148	3275425500	6935199266	5227440927	6607390823	zinc ion binding	other molecular function	F	1												
+GO:0003735	CGI_10028202	1789183637	6928077290	4810149568	6782595814	structural constituent of ribosome	other molecular function	F	1												
+GO:0005840	CGI_10028202	1789183637	6928077290	4810149568	6782595814	ribosome	translational apparatus	C	1												
+GO:0006412	CGI_10028202	1789183637	6928077290	4810149568	6782595814	translation	protein metabolism	P	1												
+GO:0000166	CGI_10028368	3171549420	9329120848	5318733262	10173631765	nucleotide binding	other molecular function	F	1												
+GO:0003676	CGI_10028368	3171549420	9329120848	5318733262	10173631765	nucleic acid binding	nucleic acid binding activity	F	1												
+GO:0019013	CGI_10028368	3171549420	9329120848	5318733262	10173631765	viral nucleocapsid	other cellular component	C	1												
+GO:0030529	CGI_10028368	3171549420	9329120848	5318733262	10173631765	ribonucleoprotein complex	other cellular component	C	1												
+GO:0000287	CGI_10028384	581667691	5244548200	2141982787	207661561	magnesium ion binding	other molecular function	F	1												
+GO:0005975	CGI_10028384	581667691	5244548200	2141982787	207661561	carbohydrate metabolic process	other metabolic processes	P	1												
+GO:0016868	CGI_10028384	581667691	5244548200	2141982787	207661561	"intramolecular transferase activity, phosphotransferases"	other molecular function	F	1												
+GO:0000166	CGI_10028469	2426756354	5757181940	3851562702	5666670214	nucleotide binding	other molecular function	F	1												
+GO:0003676	CGI_10028469	2426756354	5757181940	3851562702	5666670214	nucleic acid binding	nucleic acid binding activity	F	1												
+GO:0019013	CGI_10028469	2426756354	5757181940	3851562702	5666670214	viral nucleocapsid	other cellular component	C	1												
+GO:0030529	CGI_10028469	2426756354	5757181940	3851562702	5666670214	ribonucleoprotein complex	other cellular component	C	1												
+GO:0003995	CGI_10028471	949843501	2482128716	1779352160	1987572869	acyl-CoA dehydrogenase activity	other molecular function	F	1												
+GO:0050660	CGI_10028471	949843501	2482128716	1779352160	1987572869	FAD binding	other molecular function	F	1												
+GO:0005890	CGI_10028508	1034818691	4603836907	3220826916	5076768147	sodium:potassium-exchanging ATPase complex	other membranes	C	1												
+GO:0005890	CGI_10028508	1034818691	4603836907	3220826916	5076768147	sodium:potassium-exchanging ATPase complex	plasma membrane	C	1												
+GO:0006813	CGI_10028508	1034818691	4603836907	3220826916	5076768147	potassium ion transport	transport	P	1												
+GO:0006814	CGI_10028508	1034818691	4603836907	3220826916	5076768147	sodium ion transport	transport	P	1												
+GO:0004148	CGI_10028528	198393205	2553963309	1062113404	2253149730	dihydrolipoyl dehydrogenase activity	other molecular function	F	1												
+GO:0004930	CGI_10028528	198393205	2553963309	1062113404	2253149730	G-protein coupled receptor activity	signal transduction activity	F	1												
+GO:0005623	CGI_10028528	198393205	2553963309	1062113404	2253149730	cell	other cellular component	C	1												
+GO:0007166	CGI_10028528	198393205	2553963309	1062113404	2253149730	cell surface receptor linked signal transduction	signal transduction	P	1												
+GO:0016021	CGI_10028528	198393205	2553963309	1062113404	2253149730	integral to membrane	other membranes	C	1												
+GO:0045454	CGI_10028528	198393205	2553963309	1062113404	2253149730	cell redox homeostasis	other biological processes	P	1												
+GO:0050660	CGI_10028528	198393205	2553963309	1062113404	2253149730	FAD binding	other molecular function	F	1												
+GO:0005524	CGI_10028599	69252503610	1.34E+11	98358630180	1.49E+11	ATP binding	other molecular function	F	1												
+GO:0005524	CGI_10028600	69252503610	1.34E+11	98358630180	1.49E+11	ATP binding	other molecular function	F	1												
+GO:0005524	CGI_10028601	69252503610	1.34E+11	98358630180	1.49E+11	ATP binding	other molecular function	F	1												
+GO:0005524	CGI_10028603	69252503610	1.34E+11	98358630180	1.49E+11	ATP binding	other molecular function	F	1												
+GO:0003824	CGI_10028694	4252364405	8548084566	5926484933	7914676701	catalytic activity	other molecular function	F	1												
+GO:0008152	CGI_10028694	4252364405	8548084566	5926484933	7914676701	metabolic process	other metabolic processes	P	1												
+GO:0005093	CGI_10028701	1383662306	4098788533	2373209675	4228553686	Rab GDP-dissociation inhibitor activity	enzyme regulator activity	F	1												
+GO:0005622	CGI_10028701	1383662306	4098788533	2373209675	4228553686	intracellular	other cellular component	C	1												
+GO:0007264	CGI_10028701	1383662306	4098788533	2373209675	4228553686	small GTPase mediated signal transduction	signal transduction	P	1												
+GO:0015031	CGI_10028701	1383662306	4098788533	2373209675	4228553686	protein transport	transport	P	1												
+GO:0016491	CGI_10028701	1383662306	4098788533	2373209675	4228553686	oxidoreductase activity	other molecular function	F	1												
+GO:0000049	CGI_10028856	901092555	1665046910	1124117287	1543299961	tRNA binding	nucleic acid binding activity	F	1												
+GO:0003743	CGI_10028856	901092555	1665046910	1124117287	1543299961	translation initiation factor activity	nucleic acid binding activity	F	1												
+GO:0004813	CGI_10028856	901092555	1665046910	1124117287	1543299961	alanine-tRNA ligase activity	other molecular function	F	1												
+GO:0005524	CGI_10028856	901092555	1665046910	1124117287	1543299961	ATP binding	other molecular function	F	1												
+GO:0005525	CGI_10028856	901092555	1665046910	1124117287	1543299961	GTP binding	other molecular function	F	1												
+GO:0005737	CGI_10028856	901092555	1665046910	1124117287	1543299961	cytoplasm	other cellular component	C	1												
+GO:0006419	CGI_10028856	901092555	1665046910	1124117287	1543299961	alanyl-tRNA aminoacylation	RNA metabolism	P	1												
+GO:0006419	CGI_10028856	901092555	1665046910	1124117287	1543299961	alanyl-tRNA aminoacylation	protein metabolism	P	1												
+GO:0008270	CGI_10028856	901092555	1665046910	1124117287	1543299961	zinc ion binding	other molecular function	F	1												
