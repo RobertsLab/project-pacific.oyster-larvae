@@ -1,4 +1,4 @@
-## DIA analysis
+# DIA analysis
 Performed on Woodpecker in FTR 209, Roberts' Lab. 
 
 Modified from a DIA Analysis from MacCoss lab:      
