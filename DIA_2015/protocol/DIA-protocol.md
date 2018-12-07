@@ -83,6 +83,7 @@ srlab@swan MINGW64 ~/Desktop/grace
 $ awk '{print $1,$2}' Cg_Giga_cont_prtc_AA_digested_Mass400to6000.txt \
 > > Cg_Giga_cont_prtc_AA_M400-6000-2c.txt
 ```
+And was converted to .fasta 
 
 ### 2.2 Add .mzML files that were converted in Step 1:    
 ![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/04-walnut-add-mzml.PNG)   
