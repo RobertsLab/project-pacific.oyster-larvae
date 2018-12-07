@@ -4,13 +4,13 @@ Performed on Woodpecker in FTR 209, Roberts' Lab.
 Modified from a DIA Analysis from MacCoss lab:      
 [data-analysis](https://docs.google.com/document/d/1Vr3wE7Z8eJVenUWgbxJ3CmXxCoNiba_HYQXh7sNce_k/edit)
 
-You will need:
+### You will need:
 - MSConvert (_Windows only!_)    
 [http://proteowizard.sourceforge.net/download.html](http://proteowizard.sourceforge.net/download.html)
 - EncyclopeDIA suite (*.jar file):     
 [https://bitbucket.org/searleb/encyclopedia/downloads/](https://bitbucket.org/searleb/encyclopedia/downloads/)    
 
-Raw files:        
+- Raw files:        
 [2015Oysterseed *.raw](http://owl.fish.washington.edu/phainopepla/C_gigas/2015-12-30/)
 
 ### Tl;dr main steps for DIA analysis:
