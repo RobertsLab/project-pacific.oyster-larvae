@@ -91,11 +91,34 @@ And was converted to .fasta
 And you can monitor progress of reading .mzML files:    
 ![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/05-read-mzml-progres.PNG)
 
+**Note:** this process creates a lot of files with different extensions (i.e., `*.dia`; `*.mzML.delta_rt.pdf`; `*.mzML.pecan.decoy.txt`; etc), but you don't need to worry about those. 
+
 ### 2.3 Save Chromatogram Library (.elib)     
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/06-save-chroma-lib.PNG)
 
 ## Step 3: Save quant files and BLIB in EncyclopeDIA     
+### 3.1 Close and re-open EncylopeDIA GUI. Select .elib saved in Step 2.3 for the library        
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/07-select-elib.PNG)
 
-### 3.1 Close and re-open EncylopeDIA GUI 
+### 3.2 Select background: same .fasta used in Step 2.1         
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/08-select-background-fasta.PNG)
+
+### 3.3 Add .mzML files: same as those used in Step 2.2       
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/09-add-mzML.PNG)
+
+### 3.4 Save Quant Reports:     
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/11-save-quant-reports.PNG)
+
+### 3.5 Save BLIB      
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/13-save-blib.PNG)
+
+### 3.6 Save new chromatogram Library       
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/15-saving-chrom-lib2.PNG)
+
+### Here is what my directory contents look like with all the libraries and saved reports:    
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/17-final-contents.PNG)  
+
+
 
 
 
