@@ -70,3 +70,13 @@ A vast majority of peaks look like this:
 
 Some have dotted-line peaks... I'm not entirely sure what this means:   
 ![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/27-spotted-peaks.PNG)
+
+## Step 5 Export Report (.csv):   
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/28-export-report.PNG)
+
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/29-search.PNG)
+
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/29-2-reportcontents.PNG)
+
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/30-save-report.PNG)
+
