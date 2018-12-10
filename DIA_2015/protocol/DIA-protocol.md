@@ -93,7 +93,9 @@ And you can monitor progress of reading .mzML files:
 
 ### 2.3 Save Chromatogram Library (.elib)     
 
-## Step 3: Save quant files and BLIB in EncyclopeDIA       
+## Step 3: Save quant files and BLIB in EncyclopeDIA     
+
+### 3.1 Close and re-open EncylopeDIA GUI 
 
 
 
