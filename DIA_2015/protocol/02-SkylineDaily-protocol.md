@@ -63,3 +63,10 @@ I like to select "Do Not Remove", because there are only four samples:
 
 The .mzML files will take a while to load:   
 ![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/25-loading-mzml.PNG)
+
+Once it's all loaded, look at your chromatograms:     
+A vast majority of peaks look like this:   
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/26-peaks.PNG)
+
+Some have dotted-line peaks... I'm not entirely sure what this means:   
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/27-spotted-peaks.PNG)
