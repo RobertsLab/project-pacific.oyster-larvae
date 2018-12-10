@@ -13,7 +13,7 @@ Modified from a DIA Analysis from MacCoss lab:
 - Raw files:        
 [2015Oysterseed *.raw](http://owl.fish.washington.edu/phainopepla/C_gigas/2015-12-30/)
 
-### Tl;dr main steps for DIA analysis:
+### Main steps:
 1. Convert .raw to .mzML using MSConvert
 2. Build library using Walnut in EncyclopeDIA suite
 3. 
