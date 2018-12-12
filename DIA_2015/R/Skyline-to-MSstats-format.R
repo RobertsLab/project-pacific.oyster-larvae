@@ -5,5 +5,8 @@ library(MSstats)
 
 quant <- read.csv("http://owl.fish.washington.edu/scaphapoda/grace/2015-Cgseed-DIA/post-EncyclopeDIA-Skyline/20181212-SkytoMSstats-report.csv")
 
+head(quant)
+
 ?SkylinetoMSstatsFormat
+
 
