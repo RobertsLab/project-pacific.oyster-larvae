@@ -20,3 +20,5 @@ quant2 <- SkylinetoMSstatsFormat(quant, annotation = NULL, removeiRT = TRUE, fil
                               #NAs introduced by coercion
 
 head(quant2)
+
+write.csv(quant2, "DIA_2015/analyses/20181213-MSstats-report.csv")
