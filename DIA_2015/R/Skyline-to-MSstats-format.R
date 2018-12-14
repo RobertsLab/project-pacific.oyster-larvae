@@ -2,10 +2,10 @@ library(MSstats)
 
 ### IMPORT AND PROCESS DATA ###
 
-#read in .csv Skyline report from: http://owl.fish.washington.edu/scaphapoda/grace/2015-Cgseed-DIA/post-EncyclopeDIA-Skyline/20181213-SkytoMSstats-report.csv 
+#read in .csv Skyline report from: http://owl.fish.washington.edu/scaphapoda/grace/2015-Cgseed-DIA/post-EncyclopeDIA-Skyline/20181214-SkytoMSstats-report.csv 
 # File is too large to upload to GitHub
 
-rawPeakAreas <- read.csv("http://owl.fish.washington.edu/scaphapoda/grace/2015-Cgseed-DIA/post-EncyclopeDIA-Skyline/20181213-SkytoMSstats-report.csv")
+rawPeakAreas <- read.csv("http://owl.fish.washington.edu/scaphapoda/grace/2015-Cgseed-DIA/post-EncyclopeDIA-Skyline/20181214-SkytoMSstats-report.csv")
 
 head(rawPeakAreas)
 
