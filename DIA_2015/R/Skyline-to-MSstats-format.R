@@ -63,4 +63,12 @@ testResultOneComparison$ComparisonResult #View results
 proteinComparisonResults <- testResultOneComparison$ComparisonResult #Save as new dataframe
 write.csv(proteinComparisonResults, "DIA_2015/analyses/20181218-2015Cgseed-protcomp.csv", col.names = c("Protein", "Label", "log2FC", "SE", "Tvalue", "DF", "pvalue"), row.names = F) #Write out data frame
 
+## GROUP COMPARISON PLOTS
+groupComparisonPlots(data = proteinComparisonResults, type = "VolcanoPlot") #Volcano plot, alpha = 0.05.
+groupComparisonPlots(data = proteinComparisonResults, type = "ComparisonPlot") #Comparison plot, alpha = 0.05
+#output for Comparison PLot warning:
+#null device 
+#1 
+#There were 17 warnings (use warnings() to see them)
 
+##Try making a heatmap....? 
