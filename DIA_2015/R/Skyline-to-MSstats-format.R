@@ -1,5 +1,10 @@
 library(MSstats)
 
+#Script roughly follows:
+#Yaamini's MSStats script: https://github.com/RobertsLab/project-oyster-oa/blob/master/analyses/DNR_Skyline_20170524/2017-06-22-MSstats/2017-06-22-MSstats.R
+
+#MSstats manual (starting p44):http://msstats.org/wp-content/uploads/2017/01/MSstats_v3.7.3_manual.pdf
+
 ### IMPORT AND PROCESS DATA ###
 
 #read in .csv Skyline report from: http://owl.fish.washington.edu/scaphapoda/grace/2015-Cgseed-DIA/post-EncyclopeDIA-Skyline/20181214-SkytoMSstats-report.csv 
@@ -31,13 +36,18 @@ PeakAreas <- SkylinetoMSstatsFormat(rawPeakAreas)
 head(PeakAreas)
 
 # Process data
-QuantData <- dataProcess(PeakAreas, normalization='equalizeMedians',
-                         summaryMethod="TMP",
-                         cutoffCensored="minFeature", censoredInt="0",
-                         MBimpute=TRUE,
-                         maxQuantileforCensored=0.999)
+QuantData <- dataProcess(PeakAreas)
 #** There are 4379 intensities which are zero or less than 1. These intensities are replaced with 1.
 #Error in dataProcess(PeakAreas) : 
   #** MSstats suspects that there are fractionations and potentially technical replicates too. Please add Fraction column in the input.
+
+#Add fraction column and have all cells listed as "1" from this google forum post: https://groups.google.com/forum/#!searchin/msstats/fractionations%7Csort:date/msstats/dVh6IEE0xTE/jiokWrNSCgAJ
+PeakAreas$Fraction <- "1"
+
+#re-try the dataProcess function
+QuantData <- dataProcess(PeakAreas)
+
+#after it's all done, check what the ProcessedData looks like
+head(QuantData$ProcessedData)
 
 
