@@ -51,4 +51,16 @@ QuantData <- dataProcess(PeakAreas)
 #After it's all done, check what the ProcessedData looks like
 head(QuantData$ProcessedData)
 
+#### CREATE CONTRAST MATRIX
+
+levels(QuantData$ProcessedData$GROUP_ORIGINAL) #Levels: "23C" and "29C"
+comparison <- matrix(c(-1, 1), nrow = 1)
+row.names(comparison) <- "23C-29C"
+
+#### GROUP COMPARISON
+testResultOneComparison <- groupComparison(contrast.matrix = comparison, data = QuantData) 
+testResultOneComparison$ComparisonResult #View results
+proteinComparisonResults <- testResultOneComparison$ComparisonResult #Save as new dataframe
+write.csv(proteinComparisonResults, "DIA_2015/analyses/20181218-2015Cgseed-protcomp.csv", col.names = c("Protein", "Label", "log2FC", "SE", "Tvalue", "DF", "pvalue"), row.names = F) #Write out data frame
+
 
