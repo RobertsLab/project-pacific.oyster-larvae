@@ -24,7 +24,7 @@ head(rawPeakAreas)
 PeakAreas <- SkylinetoMSstatsFormat(rawPeakAreas)
 
 # PeakAreas has 152980 obs, and 15 variables
-
+#Output message: 
 #** Peptides, that are used in more than one proteins, are removed.
 #** Intensities with great than 0.01 in DetectionQValue are replaced with zero.
 #** 6 features have all NAs or zero intensity values and are removed.
@@ -37,6 +37,7 @@ head(PeakAreas)
 
 # Process data
 QuantData <- dataProcess(PeakAreas)
+#Error message: 
 #** There are 4379 intensities which are zero or less than 1. These intensities are replaced with 1.
 #Error in dataProcess(PeakAreas) : 
   #** MSstats suspects that there are fractionations and potentially technical replicates too. Please add Fraction column in the input.
@@ -44,10 +45,10 @@ QuantData <- dataProcess(PeakAreas)
 #Add fraction column and have all cells listed as "1" from this google forum post: https://groups.google.com/forum/#!searchin/msstats/fractionations%7Csort:date/msstats/dVh6IEE0xTE/jiokWrNSCgAJ
 PeakAreas$Fraction <- "1"
 
-#re-try the dataProcess function
+#Re-try the dataProcess function
 QuantData <- dataProcess(PeakAreas)
 
-#after it's all done, check what the ProcessedData looks like
+#After it's all done, check what the ProcessedData looks like
 head(QuantData$ProcessedData)
 
 
