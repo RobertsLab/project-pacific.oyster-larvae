@@ -72,11 +72,29 @@ Some have dotted-line peaks... I'm not entirely sure what this means:
 ![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/27-spotted-peaks.PNG)
 
 ## Step 5 Export Report (.csv):   
+### Step 5.1 Select report contents to export
 ![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/28-export-report.PNG)
 
 ![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/29-search.PNG)
 
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/29-2-reportcontents.PNG)
+Exported report contents
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/38-updated-export-report.PNG)
 
+### Step 5.2 Remove non-quantitative chromatograms from report
+The MSstats Input report is what you see if you bring up the Document Grid and choose the view "External Tools > MSstats Input".    
+Then, you can bring up the Customize View dialog, and switch over to the Filter tab and add the Quantitative filter as shown in this screenshot.        
+Quantitative is under "Proteins > Peptides > Precursors > Transitions" if your search button is not working.
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/32-1212-edit-report-non-quant-not-incl.PNG)
+
+### Step 5.3 Add condition and bioreplicate 
+Follow the older version of the DIA protocol: [Step 4g](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md#step-4g-add-condition-and-bioreplicate-information-optional)
+
+Adding conditon (23C or 29C)    
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/36-add-23c-29c.PNG)
+
+Set bioreplicates:    
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/39-new-biorep.PNG)
+
+### Step 5.4 Export and save report
 ![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/skyline-images/30-save-report.PNG)
 
