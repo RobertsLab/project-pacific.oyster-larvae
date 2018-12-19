@@ -36,7 +36,11 @@ PeakAreas <- SkylinetoMSstatsFormat(rawPeakAreas)
 head(PeakAreas)
 
 # Process data
-QuantData <- dataProcess(PeakAreas)
+QuantData <- dataProcess(PeakAreas, normalization='equalizeMedians',
+                         summaryMethod="TMP",
+                         cutoffCensored="minFeature", censoredInt="0",
+                         MBimpute=TRUE,
+                         maxQuantileforCensored=0.999)
 #Error message: 
 #** There are 4379 intensities which are zero or less than 1. These intensities are replaced with 1.
 #Error in dataProcess(PeakAreas) : 
@@ -69,6 +73,12 @@ groupComparisonPlots(data = proteinComparisonResults, type = "ComparisonPlot") #
 #output for Comparison PLot warning:
 #null device 
 #1 
-#There were 17 warnings (use warnings() to see them)
+#There were 23 warnings (use warnings() to see them)
 
-##Try making a heatmap....? 
+?dataProcessPlots
+
+
+
+### CREATE CONTRAST MATRIX
+levels(QuantData$ProcessedData$GROUP_ORIGINAL) #Levels "23C" and "29C"
+
