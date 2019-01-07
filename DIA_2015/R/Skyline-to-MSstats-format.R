@@ -51,6 +51,7 @@ PeakAreas$Fraction <- "1"
 
 #Re-try the dataProcess function
 QuantData <- dataProcess(PeakAreas)
+# Large list (5 elements, 82.7 Mb)
 
 #After it's all done, check what the ProcessedData looks like
 head(QuantData$ProcessedData)
