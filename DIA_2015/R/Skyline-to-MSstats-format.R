@@ -5,7 +5,7 @@ library(MSstats)
 
 #MSstats manual (starting p44):http://msstats.org/wp-content/uploads/2017/01/MSstats_v3.7.3_manual.pdf
 
-### IMPORT AND PROCESS DATA ###
+# IMPORT AND PROCESS DATA 
 
 #read in .csv Skyline report from: http://owl.fish.washington.edu/scaphapoda/grace/2015-Cgseed-DIA/post-EncyclopeDIA-Skyline/20181214-SkytoMSstats-report.csv 
 # File is too large to upload to GitHub
@@ -56,7 +56,11 @@ QuantData <- dataProcess(PeakAreas)
 #After it's all done, check what the ProcessedData looks like
 head(QuantData$ProcessedData)
 
-#### CREATE CONTRAST MATRIX
+# Create dataprocess plots
+dataProcessPlots(data = QuantData, type = "ProfilePlot")
+dataProcessPlots(data = QuantData, type = "QCPlot")
+
+# CREATE CONTRAST MATRIX
 
 levels(QuantData$ProcessedData$GROUP_ORIGINAL) #Levels: "23C" and "29C"
 comparison <- matrix(c(-1, 1), nrow = 1)
@@ -68,8 +72,11 @@ testResultOneComparison$ComparisonResult #View results
 proteinComparisonResults <- testResultOneComparison$ComparisonResult #Save as new dataframe
 write.csv(proteinComparisonResults, "DIA_2015/analyses/20181218-2015Cgseed-protcomp.csv", col.names = c("Protein", "Label", "log2FC", "SE", "Tvalue", "DF", "pvalue"), row.names = F) #Write out data frame
 
-## GROUP COMPARISON PLOTS
+# GROUP COMPARISON PLOTS
 groupComparisonPlots(data = proteinComparisonResults, type = "VolcanoPlot") #Volcano plot, alpha = 0.05.
+#null device 
+#1 
+#There were 17 warnings (use warnings() to see them)
 groupComparisonPlots(data = proteinComparisonResults, type = "ComparisonPlot") #Comparison plot, alpha = 0.05
 #output for Comparison PLot warning:
 #null device 
@@ -80,6 +87,4 @@ groupComparisonPlots(data = proteinComparisonResults, type = "ComparisonPlot") #
 
 
 
-### CREATE CONTRAST MATRIX
-levels(QuantData$ProcessedData$GROUP_ORIGINAL) #Levels "23C" and "29C"
 
