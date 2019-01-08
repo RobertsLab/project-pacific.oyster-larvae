@@ -81,10 +81,4 @@ groupComparisonPlots(data = proteinComparisonResults, type = "ComparisonPlot") #
 #output for Comparison PLot warning:
 #null device 
 #1 
-#There were 23 warnings (use warnings() to see them)
-
-?dataProcessPlots
-
-
-
-
+#There were 17 warnings (use warnings() to see them)
