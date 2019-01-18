@@ -13,9 +13,17 @@ head(rawPeakAreas)
 #Oysterseed 13: Dec 9,11,12 and Feb 7
 #Oysterseed 14: Dec 13,15,16 and Feb 8
 
+#make a subset object that contains protein, area, and replicate
+areasubset <- rawPeakAreas[c(1, 13, 17)]
+head(areasubset)
 
+#create files for each replicate that contain the protein and area
+oysterseed01 <- subset(areasubset, ReplicateName == "Oysterseed_01")
+head(oysterseed01)
+oysterseed02 <- subset(areasubset, ReplicateName == "Oysterseed_02")
+head(oysterseed02)
+oysterseed13 <- subset(areasubset, ReplicateName == "Oysterseed_13")
+head(oysterseed13)
+oysterseed14 <- subset(areasubset, ReplicateName == "Oysterseed_14")
+head(oysterseed14)
 
-
-
-                                                            
-                                                            
