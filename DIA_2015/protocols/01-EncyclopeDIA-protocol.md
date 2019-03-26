@@ -27,15 +27,15 @@ Download .raw files from [/phainopepla/C_gigas/2015-12-30/](http://owl.fish.wash
 - Click "Add"     
 
 ### 1.2 In top left, click "Browse" and navigate to directory where you put the .raw files, set output directory for .mzML files, and select all and click "Start"      
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/01-MSconvert.PNG)
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/01-MSconvert.PNG)
 
 ### 1.3 Monitor progress in new window that pops up     
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/02-converting-to-mzML.PNG)
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/02-converting-to-mzML.PNG)
 
 ## Step 2: Build library using Walnut in EncyclopeDIA suite      
 
 ### 2.1 Set background and target as your fasta of interest       
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/03-walnut-add-background.PNG)    
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/03-walnut-add-background.PNG)    
 
 This fasta came from (included in original [DIA protocol](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md), end of Step 2):    
 ```
@@ -86,36 +86,36 @@ $ awk '{print $1,$2}' Cg_Giga_cont_prtc_AA_digested_Mass400to6000.txt \
 And was converted to .fasta 
 
 ### 2.2 Add .mzML files that were converted in Step 1:    
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/04-walnut-add-mzml.PNG)   
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/04-walnut-add-mzml.PNG)   
 
 And you can monitor progress of reading .mzML files:    
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/05-read-mzml-progres.PNG)
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/05-read-mzml-progres.PNG)
 
 **Note:** this process creates a lot of files with different extensions (i.e., `*.dia`; `*.mzML.delta_rt.pdf`; `*.mzML.pecan.decoy.txt`; etc), but you don't need to worry about those. 
 
 ### 2.3 Save Chromatogram Library (.elib)     
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/06-save-chroma-lib.PNG)
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/06-save-chroma-lib.PNG)
 
 ## Step 3: Save quant files and BLIB in EncyclopeDIA     
 ### 3.1 Close and re-open EncylopeDIA GUI. Select .elib saved in Step 2.3 for the library        
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/07-select-elib.PNG)
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/07-select-elib.PNG)
 
 ### 3.2 Select background: same .fasta used in Step 2.1         
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/08-select-background-fasta.PNG)
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/08-select-background-fasta.PNG)
 
 ### 3.3 Add .mzML files: same as those used in Step 2.2       
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/09-add-mzML.PNG)
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/09-add-mzML.PNG)
 
 ### 3.4 Save Quant Reports:     
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/11-save-quant-reports.PNG)
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/11-save-quant-reports.PNG)
 
 ### 3.5 Save BLIB      
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/13-save-blib.PNG)
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/13-save-blib.PNG)
 
 ### 3.6 Save new chromatogram Library       
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/15-saving-chrom-lib2.PNG)
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/15-saving-chrom-lib2.PNG)
 
 ### Here is what my directory contents look like with all the libraries and saved reports:    
-![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/17-final-contents.PNG)  
+![img](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/images/EncyclopeDIA-images/17-final-contents.PNG)  
 
 
