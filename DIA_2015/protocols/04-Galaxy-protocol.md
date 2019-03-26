@@ -1,4 +1,4 @@
-Use Galaxy to BLASTp the Skyline results with the proteome (link) used in DIA analysis. 
+Use Galaxy to BLASTp the Skyline results with the proteome used in DIA analysis. 
 
 Materials needed:   
 1. Newest uniprot-swprot.fasta: [http://gannet.fish.washington.edu/metacarcinus/Cgigas/uniprot_swprot2019_01.fasta](http://gannet.fish.washington.edu/metacarcinus/Cgigas/uniprot_swprot2019_01.fasta)
